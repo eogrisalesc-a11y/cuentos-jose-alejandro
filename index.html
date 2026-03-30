@@ -24,25 +24,30 @@
   .filter-btn:hover, .filter-btn.active { background: #ffd700; color: #1a1a2e; }
   .date-group { margin-bottom: 40px; }
   .date-label { font-size: 1.1em; color: #ffd700; margin-bottom: 15px; padding: 8px 16px; background: rgba(255,215,0,0.1); border-left: 4px solid #ffd700; border-radius: 0 10px 10px 0; }
-  .cuentos-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
-  .cuento-card { background: rgba(255,255,255,0.07); border-radius: 20px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s, box-shadow 0.3s; position: relative; overflow: hidden; }
+  .cuentos-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+  .cuento-card { background: rgba(255,255,255,0.07); border-radius: 20px; overflow: hidden; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s, box-shadow 0.3s; }
   .cuento-card:hover { transform: translateY(-5px); box-shadow: 0 15px 30px rgba(0,0,0,0.3); }
-  .cuento-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; }
-  .cuento-card.es::before { background: linear-gradient(90deg, #e74c3c, #f39c12); }
-  .cuento-card.en::before { background: linear-gradient(90deg, #3498db, #2ecc71); }
-  .cuento-card.it::before { background: linear-gradient(90deg, #9b59b6, #e74c3c); }
+  .cuento-imagen { width: 100%; height: 200px; object-fit: cover; display: block; }
+  .cuento-imagen-placeholder { width: 100%; height: 200px; display: flex; align-items: center; justify-content: center; font-size: 4em; }
+  .cuento-img-es { background: linear-gradient(135deg, #e74c3c33, #f39c1233); }
+  .cuento-img-en { background: linear-gradient(135deg, #3498db33, #2ecc7133); }
+  .cuento-img-it { background: linear-gradient(135deg, #9b59b633, #e74c3c33); }
+  .cuento-body { padding: 20px; }
   .lang-badge { display: inline-block; padding: 4px 12px; border-radius: 20px; font-size: 0.75em; font-weight: bold; margin-bottom: 12px; letter-spacing: 1px; }
   .lang-es { background: rgba(231,76,60,0.3); color: #e74c3c; border: 1px solid #e74c3c; }
   .lang-en { background: rgba(52,152,219,0.3); color: #3498db; border: 1px solid #3498db; }
   .lang-it { background: rgba(155,89,182,0.3); color: #9b59b6; border: 1px solid #9b59b6; }
-  .cuento-titulo { font-size: 1.2em; color: #ffd700; margin-bottom: 12px; line-height: 1.3; }
-  .cuento-texto { font-size: 0.9em; color: #d0d0d0; line-height: 1.7; margin-bottom: 15px; }
-  .traduccion { background: rgba(255,255,255,0.05); border-radius: 10px; padding: 12px; margin-bottom: 12px; font-size: 0.85em; color: #b0c4de; }
-  .moraleja { font-size: 0.85em; color: #ffd700; font-style: italic; padding-top: 10px; border-top: 1px solid rgba(255,215,0,0.2); }
-  .pregunta { font-size: 0.85em; color: #2ecc71; margin-top: 10px; }
+  .cuento-titulo { font-size: 1.25em; color: #ffd700; margin-bottom: 15px; line-height: 1.3; }
+  .cuento-texto { font-size: 0.92em; color: #d0d0d0; line-height: 1.8; margin-bottom: 15px; }
+  .traduccion { background: rgba(255,255,255,0.05); border-radius: 10px; padding: 12px; margin-bottom: 12px; font-size: 0.85em; color: #b0c4de; border-left: 3px solid #3498db; }
+  .moraleja { font-size: 0.88em; color: #ffd700; font-style: italic; padding: 12px 0; border-top: 1px solid rgba(255,215,0,0.2); margin-bottom: 10px; }
+  .pregunta { font-size: 0.88em; color: #2ecc71; background: rgba(46,204,113,0.1); padding: 10px 12px; border-radius: 10px; border-left: 3px solid #2ecc71; }
   .contador { text-align: center; color: #b0c4de; margin-bottom: 20px; font-size: 0.9em; }
   .no-results { text-align: center; color: #b0c4de; padding: 40px; font-size: 1.1em; }
-  @media (max-width: 600px) { .header h1 { font-size: 1.6em; } .cuentos-grid { grid-template-columns: 1fr; } }
+  @media (max-width: 600px) {
+    .header h1 { font-size: 1.6em; }
+    .cuentos-grid { grid-template-columns: 1fr; }
+  }
 </style>
 </head>
 <body>
@@ -62,38 +67,48 @@
 <div id="biblioteca"></div>
 <script>
 const cuentos = [
-  {"id": "20260330050621_0", "fecha": "30/03/2026", "lang": "es", "titulo": "El dragón que tenía miedo a volar", "texto": "Había un dragón pequeño llamado Brasa que nunca volaba. Sus amigos le preguntaban por qué y él decía que el cielo era demasiado grande. Un día una mariposa le dijo: el cielo no es grande para asustarte, es grande para que tengas más espacio. Esa noche Brasa extendió sus alas y voló por primera vez.", "traduccion": "", "moraleja": "El miedo se vence dando el primer paso.", "pregunta": "¿De qué tienes tú un poquito de miedo? ¿Cómo lo superarías?"},
-  {"id": "20260330050621_1", "fecha": "30/03/2026", "lang": "en", "titulo": "The Cloud Collector", "texto": "Every night, a girl named Mia collected clouds in a glass jar. She kept fluffy ones for pillows, thin ones for bookmarks, and round ones for soup bowls. Her favorite was a tiny cloud that hummed lullabies. She kept it next to her bed, and every night it sang her to sleep.", "traduccion": "Cada noche, una niña llamada Mia coleccionaba nubes en un frasco. Guardaba las esponjosas para almohadas, las delgadas para separadores y las redondas para tazones. Su favorita era una nubecita que cantaba nanas. La tenía junto a su cama y cada noche la arrullaba hasta dormir.", "moraleja": "Las cosas pequeñas a veces son las más mágicas.", "pregunta": "What would you collect if you could collect anything?"},
-  {"id": "20260330050621_2", "fecha": "30/03/2026", "lang": "it", "titulo": "Il treno dei sogni", "texto": "Ogni notte, quando tutti dormivano, passava un treno silenzioso fatto di stelle. Portava i bambini nei loro sogni più belli. Il biglietto? Un sorriso prima di dormire. Chi sorrideva saliva sul treno e viaggiava fino all'alba tra montagne di cioccolato e mari di caramelle.", "traduccion": "Cada noche, cuando todos dormían, pasaba un tren silencioso hecho de estrellas. Llevaba a los niños a sus sueños más bellos. ¿El boleto? Una sonrisa antes de dormir. Quien sonreía subía al tren y viajaba hasta el amanecer entre montañas de chocolate y mares de caramelos.", "moraleja": "Dormir con una sonrisa abre las puertas a los mejores sueños.", "pregunta": "¿A dónde viajarías tú en el tren de los sueños?"},
-  {id:"1",fecha:"30/03/2026",lang:"es",titulo:"El farolito y la luna",texto:"Había una vez un pequeño farolito que vivía en lo alto de una colina. Cada noche encendía su luz para guiar a los viajeros, pero se sentía solo. Una noche, la luna le dijo: 'Nunca estás solo, yo siempre te acompaño desde arriba.' Desde entonces el farolito brilló más feliz que nunca.",traduccion:"",moraleja:"Siempre hay alguien que nos acompaña aunque no lo veamos.",pregunta:"¿Qué harías tú si fueras un farolito mágico?"},
-  {id:"2",fecha:"30/03/2026",lang:"en",titulo:"The Library Boat",texto:"A small boat sailed through the town at night, carrying books for everyone who was asleep. It left one book under each pillow — always the perfect story for that person. Nobody knew who sailed it, but every morning children woke up with new adventures waiting.",traduccion:"Un pequeño bote navegaba por el pueblo de noche llevando libros. Dejaba uno bajo cada almohada — siempre la historia perfecta. Nadie sabía quién lo manejaba, pero cada mañana los niños despertaban con nuevas aventuras esperándolos.",moraleja:"Las mejores historias llegan cuando menos las esperas.",pregunta:"What book would you leave under someone's pillow?"},
-  {id:"3",fecha:"30/03/2026",lang:"it",titulo:"Il giardino delle stelle",texto:"Nel giardino dietro casa c'era un seme speciale. Di notte cresceva piano piano e al mattino fioriva in una stella d'oro. La bambina lo innaffiava ogni sera con un pensiero gentile, e il giardino diventò il più luminoso del mondo.",traduccion:"En el jardín de casa había una semilla especial. De noche crecía poco a poco y en la mañana florecía en una estrella dorada. La niña la regaba cada noche con un pensamiento amable, y el jardín se volvió el más luminoso del mundo.",moraleja:"Los pensamientos amables hacen crecer cosas hermosas.",pregunta:"¿Qué pensamiento amable tendrías tú hoy?"}
+  // CUENTOS_DATA
 ];
 let filtroActivo='todos';
-function setFiltro(f,e){filtroActivo=f;document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));e.target.classList.add('active');filtrar();}
+function setFiltro(f,e){
+  filtroActivo=f;
+  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+  e.target.classList.add('active');
+  filtrar();
+}
 function filtrar(){
   const q=document.getElementById('searchInput').value.toLowerCase();
   let r=cuentos;
-  if(filtroActivo!=='todos')r=r.filter(c=>c.lang===filtroActivo);
-  if(q)r=r.filter(c=>c.titulo.toLowerCase().includes(q)||c.texto.toLowerCase().includes(q));
+  if(filtroActivo!=='todos') r=r.filter(c=>c.lang===filtroActivo);
+  if(q) r=r.filter(c=>c.titulo.toLowerCase().includes(q)||c.texto.toLowerCase().includes(q));
   const byDate={};
   r.forEach(c=>{if(!byDate[c.fecha])byDate[c.fecha]=[];byDate[c.fecha].push(c);});
   const lib=document.getElementById('biblioteca');
   const fechas=Object.keys(byDate).sort().reverse();
-  if(fechas.length===0){lib.innerHTML='<div class="no-results">🌙 No se encontraron cuentos...</div>';document.getElementById('contador').textContent='';return;}
+  if(fechas.length===0){
+    lib.innerHTML='<div class="no-results">🌙 No se encontraron cuentos...</div>';
+    document.getElementById('contador').textContent='';
+    return;
+  }
   document.getElementById('contador').textContent=`${r.length} cuento${r.length!==1?'s':''} encontrado${r.length!==1?'s':''}`;
   lib.innerHTML=fechas.map(fecha=>`
     <div class="date-group">
       <div class="date-label">🌙 ${fecha}</div>
       <div class="cuentos-grid">
         ${byDate[fecha].map(c=>`
-          <div class="cuento-card ${c.lang}">
-            <span class="lang-badge lang-${c.lang}">${c.lang==='es'?'🇪🇸 Español':c.lang==='en'?'🇬🇧 English':'🇮🇹 Italiano'}</span>
-            <div class="cuento-titulo">${c.titulo}</div>
-            <div class="cuento-texto">${c.texto}</div>
-            ${c.traduccion?`<div class="traduccion">📖 <strong>Traducción:</strong> ${c.traduccion}</div>`:''}
-            ${c.moraleja?`<div class="moraleja">✨ ${c.moraleja}</div>`:''}
-            ${c.pregunta?`<div class="pregunta">🎯 ${c.pregunta}</div>`:''}
+          <div class="cuento-card">
+            ${c.imagen
+              ? `<img class="cuento-imagen" src="${c.imagen}" alt="${c.titulo}" onerror="this.parentNode.removeChild(this)">`
+              : `<div class="cuento-imagen-placeholder cuento-img-${c.lang}">${c.lang==='es'?'🌙':c.lang==='en'?'⭐':'✨'}</div>`
+            }
+            <div class="cuento-body">
+              <span class="lang-badge lang-${c.lang}">${c.lang==='es'?'🇪🇸 Español':c.lang==='en'?'🇬🇧 English':'🇮🇹 Italiano'}</span>
+              <div class="cuento-titulo">${c.titulo}</div>
+              <div class="cuento-texto">${c.texto}</div>
+              ${c.traduccion?`<div class="traduccion">📖 <strong>Traducción:</strong><br>${c.traduccion}</div>`:''}
+              ${c.moraleja?`<div class="moraleja">✨ ${c.moraleja}</div>`:''}
+              ${c.pregunta?`<div class="pregunta">🎯 ${c.pregunta}</div>`:''}
+            </div>
           </div>`).join('')}
       </div>
     </div>`).join('');
