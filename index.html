@@ -9,91 +9,89 @@
   body {
     font-family: 'Georgia', serif;
     background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
-    min-height: 100vh;
-    padding: 20px;
-    color: #fff;
+    min-height: 100vh; padding: 20px; color: #fff;
   }
   .header { text-align: center; padding: 40px 20px 30px; margin-bottom: 30px; }
   .header h1 {
-    font-size: 2.5em;
+    font-size: 2.4em;
     background: linear-gradient(135deg, #ffd700, #ff9500);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
     margin-bottom: 10px;
-    text-shadow: none;
   }
   .header p { color: #b0c4de; font-size: 1em; }
   .stars { font-size: 2em; margin: 10px 0; letter-spacing: 8px; }
-  .search-bar { display: flex; justify-content: center; margin-bottom: 30px; gap: 10px; flex-wrap: wrap; }
+  .search-bar { display: flex; justify-content: center; margin-bottom: 20px; gap: 8px; flex-wrap: wrap; }
   .search-bar input {
-    padding: 12px 24px; border-radius: 30px; border: 1px solid rgba(255,215,0,0.3);
-    background: rgba(255,255,255,0.08); color: #fff; font-size: 1em; width: 260px;
-    outline: none; backdrop-filter: blur(10px); transition: border 0.3s;
+    padding: 10px 20px; border-radius: 30px; border: 1px solid rgba(255,215,0,0.3);
+    background: rgba(255,255,255,0.08); color: #fff; font-size: 1em; width: 240px; outline: none;
   }
-  .search-bar input:focus { border-color: #ffd700; }
   .search-bar input::placeholder { color: #7a8fa6; }
+  .filters { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 25px; }
   .filter-btn {
-    padding: 10px 22px; border-radius: 30px; border: 1.5px solid rgba(255,215,0,0.5);
-    background: rgba(255,215,0,0.05); color: #ffd700; cursor: pointer;
-    font-size: 0.9em; transition: all 0.3s; backdrop-filter: blur(10px);
+    padding: 8px 18px; border-radius: 30px; border: 1.5px solid rgba(255,215,0,0.5);
+    background: rgba(255,215,0,0.05); color: #ffd700; cursor: pointer; font-size: 0.85em; transition: all 0.3s;
   }
   .filter-btn:hover, .filter-btn.active {
-    background: linear-gradient(135deg, #ffd700, #ff9500);
-    color: #1a1a2e; border-color: transparent; transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(255,215,0,0.3);
+    background: linear-gradient(135deg, #ffd700, #ff9500); color: #1a1a2e;
+    border-color: transparent; transform: translateY(-2px); box-shadow: 0 4px 12px rgba(255,215,0,0.3);
   }
-  .date-group { margin-bottom: 50px; }
+  .filter-section { text-align: center; margin-bottom: 10px; }
+  .filter-label { font-size: 0.75em; color: #7a8fa6; margin-bottom: 6px; text-transform: uppercase; letter-spacing: 1px; }
+  .date-group { margin-bottom: 40px; }
   .date-label {
-    font-size: 1em; color: #ffd700; margin-bottom: 20px; padding: 10px 20px;
+    font-size: 1em; color: #ffd700; margin-bottom: 18px; padding: 10px 18px;
     background: linear-gradient(90deg, rgba(255,215,0,0.15), transparent);
     border-left: 4px solid #ffd700; border-radius: 0 12px 12px 0;
-    letter-spacing: 1px;
   }
-  .cuentos-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px; }
+  .cuentos-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 22px; }
   .cuento-card {
-    background: rgba(255,255,255,0.05);
-    border-radius: 24px; overflow: hidden;
-    border: 1px solid rgba(255,255,255,0.1);
-    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.4s;
-    backdrop-filter: blur(10px);
+    background: rgba(255,255,255,0.05); border-radius: 22px; overflow: hidden;
+    border: 1px solid rgba(255,255,255,0.1); transition: transform 0.4s, box-shadow 0.4s;
   }
-  .cuento-card:hover {
-    transform: translateY(-8px) scale(1.01);
-    box-shadow: 0 20px 40px rgba(0,0,0,0.4), 0 0 0 1px rgba(255,215,0,0.2);
+  .cuento-card:hover { transform: translateY(-6px); box-shadow: 0 18px 36px rgba(0,0,0,0.35); }
+  .cuento-img { width: 100%; height: 200px; object-fit: cover; display: block; }
+  .cuento-img-placeholder {
+    width: 100%; height: 200px; display: flex; align-items: center; justify-content: center; font-size: 3.5em;
   }
-  .cuento-imagen-wrap { position: relative; width: 100%; height: 220px; overflow: hidden; }
-  .cuento-imagen-wrap svg, .cuento-imagen-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
   .lang-overlay {
-    position: absolute; top: 12px; left: 12px;
-    padding: 5px 14px; border-radius: 20px; font-size: 0.75em; font-weight: bold;
-    letter-spacing: 0.5px; backdrop-filter: blur(10px);
+    position: absolute; top: 10px; left: 10px; padding: 4px 12px; border-radius: 20px;
+    font-size: 0.72em; font-weight: bold; backdrop-filter: blur(8px);
   }
-  .overlay-es { background: rgba(231,76,60,0.85); color: white; }
-  .overlay-en { background: rgba(52,152,219,0.85); color: white; }
-  .overlay-it { background: rgba(155,89,182,0.85); color: white; }
-  .cuento-body { padding: 22px; }
-  .cuento-titulo { font-size: 1.2em; color: #ffd700; margin-bottom: 14px; line-height: 1.4; }
-  .cuento-texto { font-size: 0.91em; color: #c8d8e8; line-height: 1.85; margin-bottom: 16px; }
+  .img-wrap { position: relative; }
+  .overlay-es { background: rgba(231,76,60,0.85); }
+  .overlay-en { background: rgba(52,152,219,0.85); }
+  .overlay-it { background: rgba(155,89,182,0.85); }
+  .cuento-body { padding: 20px; }
+  .cuento-titulo { font-size: 1.15em; color: #ffd700; margin-bottom: 12px; line-height: 1.4; }
+  .cuento-texto { font-size: 0.9em; color: #c8d8e8; line-height: 1.8; margin-bottom: 14px; }
   .traduccion {
-    background: rgba(52,152,219,0.1); border-radius: 12px; padding: 14px;
-    margin-bottom: 14px; font-size: 0.85em; color: #90b8d4;
-    border-left: 3px solid rgba(52,152,219,0.6);
+    background: rgba(52,152,219,0.1); border-radius: 10px; padding: 12px; margin-bottom: 12px;
+    font-size: 0.84em; color: #90b8d4; border-left: 3px solid rgba(52,152,219,0.5);
   }
   .moraleja {
-    font-size: 0.88em; color: #ffd700; font-style: italic;
-    padding: 12px 0; border-top: 1px solid rgba(255,215,0,0.2); margin-bottom: 12px;
+    font-size: 0.87em; color: #ffd700; font-style: italic;
+    padding: 10px 0; border-top: 1px solid rgba(255,215,0,0.2); margin-bottom: 10px;
   }
   .pregunta {
-    font-size: 0.88em; color: #2ecc71;
-    background: rgba(46,204,113,0.08); padding: 12px 14px;
-    border-radius: 12px; border-left: 3px solid rgba(46,204,113,0.5);
+    font-size: 0.87em; color: #2ecc71; background: rgba(46,204,113,0.08);
+    padding: 10px 12px; border-radius: 10px; border-left: 3px solid rgba(46,204,113,0.4); margin-bottom: 10px;
   }
-  .contador { text-align: center; color: #7a8fa6; margin-bottom: 25px; font-size: 0.9em; }
+  .palabra-nueva {
+    font-size: 0.84em; background: rgba(255,215,0,0.08);
+    padding: 10px 12px; border-radius: 10px; border-left: 3px solid rgba(255,215,0,0.4);
+    color: #ffe066;
+  }
+  .palabra-nueva strong { color: #ffd700; }
+  .audio-btn {
+    margin-top: 12px; width: 100%; padding: 8px; border-radius: 10px;
+    background: rgba(155,89,182,0.2); border: 1px solid rgba(155,89,182,0.4);
+    color: #c39bd3; cursor: pointer; font-size: 0.85em; transition: all 0.3s;
+  }
+  .audio-btn:hover { background: rgba(155,89,182,0.35); }
+  .contador { text-align: center; color: #7a8fa6; margin-bottom: 20px; font-size: 0.88em; }
   .no-results { text-align: center; color: #7a8fa6; padding: 60px; font-size: 1.1em; }
   .empty-state { text-align: center; padding: 80px 20px; }
   .empty-state .emoji { font-size: 4em; margin-bottom: 20px; }
-  .empty-state p { color: #7a8fa6; font-size: 1.1em; }
   @media (max-width: 600px) {
     .header h1 { font-size: 1.8em; }
     .cuentos-grid { grid-template-columns: 1fr; }
@@ -107,296 +105,166 @@
   <h1>Cuentos de José Alejandro</h1>
   <p>Una nueva historia cada noche • Español · English · Italiano</p>
 </div>
+
 <div class="search-bar">
   <input type="text" id="searchInput" placeholder="🔍 Buscar cuento..." oninput="filtrar()">
-  <button class="filter-btn active" onclick="setFiltro('todos',event)">Todos</button>
-  <button class="filter-btn" onclick="setFiltro('es',event)">🇪🇸 Español</button>
-  <button class="filter-btn" onclick="setFiltro('en',event)">🇬🇧 English</button>
-  <button class="filter-btn" onclick="setFiltro('it',event)">🇮🇹 Italiano</button>
 </div>
+
+<div class="filter-section">
+  <div class="filter-label">Idioma</div>
+  <div class="filters" id="filtros-idioma">
+    <button class="filter-btn active" onclick="setFiltro('lang','todos',this)">Todos</button>
+    <button class="filter-btn" onclick="setFiltro('lang','es',this)">🇪🇸 Español</button>
+    <button class="filter-btn" onclick="setFiltro('lang','en',this)">🇬🇧 English</button>
+    <button class="filter-btn" onclick="setFiltro('lang','it',this)">🇮🇹 Italiano</button>
+  </div>
+</div>
+
+<div class="filter-section" id="filtro-fecha-section" style="margin-top:8px;">
+  <div class="filter-label">Fecha</div>
+  <div class="filters" id="filtros-fecha"></div>
+</div>
+
 <div class="contador" id="contador"></div>
 <div id="biblioteca"></div>
+
 <script>
 const cuentos = [
-  {"id": "20260330053308_0", "fecha": "30/03/2026", "lang": "es", "titulo": "El dragón que coleccionaba nubes", "texto": "Había un dragón pequeño llamado Nube que vivía en lo alto de una montaña azul. A diferencia de los otros dragones, él no escupía fuego — escupía nubes de colores. Nubes rosas cuando estaba contento, grises cuando pensaba mucho, y doradas justo antes de dormir. Un día, un niño de un pueblo cercano subió la montaña buscando su cometa perdida. La encontró atrapada en una nube morada. El dragón la liberó soplando suavemente, y la nube se transformó en una estrella. Desde esa noche, el niño siempre miraba el cielo antes de dormir, buscando la estrella morada que le guiñaba el ojo. Y el dragón, que por fin tenía un amigo, dormía tranquilo sabiendo que alguien pensaba en él desde el pueblo.", "traduccion": "", "moraleja": "La amistad más especial nace cuando ayudas sin esperar nada a cambio.", "pregunta": "¿De qué color sería tu nube si pudieras soplar nubes mágicas?"},
-  {"id": "20260330053308_1", "fecha": "30/03/2026", "lang": "en", "titulo": "The Lighthouse Keeper and the Glowing Cat", "texto": "On a tiny island lived an old lighthouse keeper named Theo and his cat, Barnacle. Every night, Theo climbed 99 steps to light the lamp so ships could find their way home. But one stormy night, the lamp went out. Theo was worried — without the light, a ship might get lost. Barnacle, who had never done anything particularly useful before, jumped onto the windowsill and began to glow. Cats from the island had an old secret: when they truly wanted to help, they could shine like small suns. The ship saw the light and arrived safely. From that night on, Barnacle slept curled on top of the lamp, and ships always knew the island was near.", "traduccion": "En una pequeña isla vivía un viejo guardián de faro llamado Theo y su gato Barnacle. Una noche tormentosa el faro se apagó. Barnacle saltó a la ventana y comenzó a brillar — los gatos de la isla tenían un secreto: cuando querían ayudar de verdad, brillaban como pequeños soles. El barco llegó sano y salvo.", "moraleja": "Everyone has a hidden light — it only shines when someone truly needs it.", "pregunta": "If you could glow like Barnacle, when would you use your light?"},
-  {"id": "20260330053308_2", "fecha": "30/03/2026", "lang": "it", "titulo": "La biblioteca sotto il lago", "texto": "In fondo al lago del villaggio, nascosta tra le radici degli alberi, c'era una biblioteca segreta. I pesci erano i bibliotecari e i libri erano fatti di foglie pressate e conchiglie. Una bambina di nome Sofia scoprì la biblioteca un pomeriggio d'autunno, quando buttò una foglia nell'acqua e sparì. Seguendola, trovò migliaia di storie. Il pesce più vecchio le disse che ogni persona ha una storia scritta là dentro — la storia di chi sarà da grande. Sofia aprì il suo libro e trovò solo due parole: Ancora in corso. Tornò a casa sorridendo, perché capì che la parte più bella della storia doveva ancora essere scritta.", "traduccion": "En el fondo del lago había una biblioteca secreta. Los peces eran los bibliotecarios. Una niña llamada Sofía la descubrió siguiendo una hoja que cayó al agua. El pez más viejo le dijo que cada persona tiene una historia escrita allí. Sofía abrió su libro y encontró solo dos palabras: Aún en curso. Volvió a casa sonriendo porque entendió que la mejor parte aún estaba por escribirse.", "moraleja": "La tua storia è ancora in corso — e la parte più bella deve ancora arrivare.", "pregunta": "¿Qué dos palabras encontrarías en tu libro si pudieras leerlo hoy?"},
-  {"id": "20260331004600_0", "fecha": "31/03/2026", "lang": "es", "titulo": "Luna, Timo y el dragón de las campanas suaves", "texto": "Luna y Timo subieron la colina con Lin, el pequeño dragón azul, para averiguar por qué el viento sonaba como campanitas. En la hierba hallaron caracoles dormidos con gotitas en la concha. Cada gota vibraba al pasar la brisa y tocaba una nota distinta. Lin quiso estornudar fuego de emoción, pero solo soltó un humito tibio que secó una hoja mojada. Luna rió en voz baja. Timo escuchó y descubrió algo: las gotas grandes sonaban grave y las pequeñas, agudo. Entonces ordenaron los caracoles alrededor de una piedra y, por un minuto, la colina fue una orquesta diminuta. Cuando la luna salió, los tres guardaron el secreto: algunas músicas no se atrapan; solo se visitan antes de dormir.", "traduccion": "", "moraleja": "Buenas noches: lo más bonito también sabe hablar bajito.", "pregunta": "Si tuvieras una campana de viento mágica, ¿qué sonido le pondrías?"},
-  {"id": "20260331004600_1", "fecha": "31/03/2026", "lang": "en", "titulo": "The Moon Map in the Teacup", "texto": "That night, Luna, Timo, and Lin the blue dragon visited Mr. Elio, the island's sleepy cartographer. He looked worried: his moon map had disappeared. They searched quietly until Lin noticed silver light trembling inside a teacup. The map had not vanished at all—it had folded itself into the reflection of the moon. Mr. Elio smiled and explained that old sailors once read directions in water when paper was too precious to waste. Timo held the cup very still. Luna traced the tiny glowing coastlines with her eyes. Lin, trying to help, dipped one claw in and sneezed a puff of warm mist, which made one new island appear. Mr. Elio laughed. “Then tomorrow,” he said, “we shall have somewhere new to wonder about.”", "traduccion": "Esa noche, Luna, Timo y Lin visitaron al señor Elio, un cartógrafo soñoliento. Su mapa de la luna parecía perdido, pero estaba doblado dentro del reflejo de una taza de té. Elio explicó que antiguos marineros leían direcciones en el agua. Lin soltó una nubecita tibia y apareció una isla nueva en el mapa.", "moraleja": "Good night: sometimes the lost thing is only waiting in a quieter place.", "pregunta": "If you found a new island on a moon map, what would you name it?"},
-  {"id": "20260331004600_2", "fecha": "31/03/2026", "lang": "it", "titulo": "Il ponte delle lucciole pazienti", "texto": "La sera dopo, Luna, Timo e Lin seguirono una fila di lucciole fino al ruscello dietro il mulino. Il vecchio ponte di legno sembrava sparito. “Forse dorme”, disse Timo. Le lucciole, una per una, si posarono nell'aria come piccoli chiodi di luce, disegnando il contorno del ponte invisibile. Lin avanzò piano, per non spaventare il buio, e scoprì che l'umidità aveva coperto le assi con un muschio lucente. Nei villaggi di montagna, spiegò Luna, a volte si segnano i sentieri con lanternine quando arriva la nebbia. Così fecero anche loro: non per svegliare il ponte, ma per accompagnarlo nel sonno. Quando tornarono a casa, le lucciole continuavano a brillare, pazienti come stelle basse.", "traduccion": "A la noche siguiente, Luna, Timo y Lin siguieron luciérnagas hasta el arroyo. El puente parecía desaparecido, pero las luciérnagas dibujaron su forma en el aire. Descubrieron que el musgo húmedo cubría las tablas. Luna contó que en pueblos de montaña se marcan senderos con luces cuando hay niebla, y ellos hicieron lo mismo, acompañando al puente en su sueño.", "moraleja": "Buona notte: la pazienza accende luci che la fretta non vede.", "pregunta": "¿Preferirías seguir luciérnagas, estrellas o huellas brillantes?"},
-  {"id": "20260331032116_0", "fecha": "31/03/2026", "lang": "es", "titulo": "El dragón que coleccionaba nubes", "texto": "Había un dragón pequeño llamado Nube que vivía en lo alto de una montaña azul. A diferencia de los otros dragones, él no escupía fuego — escupía nubes de colores. Nubes rosas cuando estaba contento, grises cuando pensaba mucho, y doradas justo antes de dormir. Un día, un niño de un pueblo cercano subió la montaña buscando su cometa perdida. La encontró atrapada en una nube morada. El dragón la liberó soplando suavemente, y la nube se transformó en una estrella. Desde esa noche, el niño siempre miraba el cielo antes de dormir, buscando la estrella morada que le guiñaba el ojo. Y el dragón, que por fin tenía un amigo, dormía tranquilo sabiendo que alguien pensaba en él desde el pueblo.", "traduccion": "", "moraleja": "La amistad más especial nace cuando ayudas sin esperar nada a cambio.", "pregunta": "¿De qué color sería tu nube si pudieras soplar nubes mágicas?"},
-  {"id": "20260331032116_1", "fecha": "31/03/2026", "lang": "en", "titulo": "The Lighthouse Keeper and the Glowing Cat", "texto": "On a tiny island lived an old lighthouse keeper named Theo and his cat, Barnacle. Every night, Theo climbed 99 steps to light the lamp so ships could find their way home. But one stormy night, the lamp went out. Theo was worried — without the light, a ship might get lost. Barnacle, who had never done anything particularly useful before, jumped onto the windowsill and began to glow. Cats from the island had an old secret: when they truly wanted to help, they could shine like small suns. The ship saw the light and arrived safely. From that night on, Barnacle slept curled on top of the lamp, and ships always knew the island was near.", "traduccion": "En una pequeña isla vivía un viejo guardián de faro llamado Theo y su gato Barnacle. Una noche tormentosa el faro se apagó. Barnacle saltó a la ventana y comenzó a brillar — los gatos de la isla tenían un secreto: cuando querían ayudar de verdad, brillaban como pequeños soles. El barco llegó sano y salvo.", "moraleja": "Everyone has a hidden light — it only shines when someone truly needs it.", "pregunta": "If you could glow like Barnacle, when would you use your light?"},
-  {"id": "20260331032116_2", "fecha": "31/03/2026", "lang": "it", "titulo": "La biblioteca sotto il lago", "texto": "In fondo al lago del villaggio, nascosta tra le radici degli alberi, c'era una biblioteca segreta. I pesci erano i bibliotecari e i libri erano fatti di foglie pressate e conchiglie. Una bambina di nome Sofia scoprì la biblioteca un pomeriggio d'autunno, quando buttò una foglia nell'acqua e sparì. Seguendola, trovò migliaia di storie. Il pesce più vecchio le disse che ogni persona ha una storia scritta là dentro — la storia di chi sarà da grande. Sofia aprì il suo libro e trovò solo due parole: Ancora in corso. Tornò a casa sorridendo, perché capì che la parte più bella della storia doveva ancora essere scritta.", "traduccion": "En el fondo del lago había una biblioteca secreta. Los peces eran los bibliotecarios. Una niña llamada Sofía la descubrió siguiendo una hoja que cayó al agua. El pez más viejo le dijo que cada persona tiene una historia escrita allí. Sofía abrió su libro y encontró solo dos palabras: Aún en curso. Volvió a casa sonriendo porque entendió que la mejor parte aún estaba por escribirse.", "moraleja": "La tua storia è ancora in corso — e la parte più bella deve ancora arrivare.", "pregunta": "¿Qué dos palabras encontrarías en tu libro si pudieras leerlo hoy?"},
-  {"id": "20260401000101_0", "fecha": "01/04/2026", "lang": "es", "titulo": "La brújula de las luciérnagas", "texto": "Esa noche, Luna, Timo y Lin el dragón azul descubrieron que el jardín se había llenado de luciérnagas que volaban en círculos, como si buscaran algo importante. Lin, que ya no intentaba parecer feroz a esas horas porque bostezar con colmillos daba muy poca autoridad, observó el cielo y dijo que quizá las pequeñas luces habían perdido el norte. Luna sacó una hoja redonda, la puso sobre el estanque y vio cómo giraba despacio hasta quedarse quieta apuntando hacia el árbol del panal viejo. Timo sonrió: no era magia complicada, era una brújula hecha con paciencia y agua tranquila. Siguieron a las luciérnagas hasta una rama alta donde una de ellas había dejado su primera luz de la noche. Lin alzó a sus amigos con mucho cuidado, recuperaron el brillo perdido y lo devolvieron al grupo. Entonces todas las luciérnagas ordenaron su vuelo y dibujaron una flecha dorada hacia el bosque. Antes de dormir, Luna dijo que orientarse no siempre era correr más rápido; a veces era quedarse quieto el tiempo suficiente para entender hacia dónde ir.", "traduccion": "", "moraleja": "Cuando te detienes con calma, hasta las cosas pequeñas pueden mostrarte el camino.", "pregunta": "Si tuvieras una brújula suave para el corazón, ¿qué crees que te ayudaría a encontrar?"},
-  {"id": "20260401000101_1", "fecha": "01/04/2026", "lang": "en", "titulo": "The Library of Quiet Feathers", "texto": "One sleepy evening, Luna, Timo, and Lin the blue dragon heard a soft sneeze from the oak tree near the hill. It was not a dangerous sneeze, only the sort that sounds like a teacup thinking too hard. Inside the tree they found the sparrows’ night library, where each feather on the shelves held a tiny memory of how to build a nest. But the labels had drifted loose in the evening breeze, and the young birds were putting rainy-day feathers next to sun-warm ones. Lin offered a blast of dragon fire, then remembered that libraries generally prefer not to be toasted. So he used a careful puff of cool blue air instead, just enough to keep the feathers from floating away. Luna sorted them by color and curve, while Timo noticed a pattern: the strongest nest always mixed soft feathers with sturdy ones. When the work was done, the sparrows thanked them with seed biscuits so dry that even Lin politely needed water. On the walk home, the moonlight rested on their shoulders, and Luna said that making a good home was a little like making a good day: part softness, part strength, and a place for everyone to rest.", "traduccion": "Una noche tranquila, Luna, Timo y Lin encontraron la biblioteca nocturna de los gorriones, donde cada pluma guardaba un recuerdo para construir nidos. Las ordenaron con calma y aprendieron que un buen hogar mezcla suavidad y firmeza.", "moraleja": "A peaceful home is built with gentleness, care, and a little wisdom.", "pregunta": "What would you place in your perfect nest so everyone feels safe and cozy?"},
-  {"id": "20260401000101_2", "fecha": "01/04/2026", "lang": "it", "titulo": "Il ponte delle ombre gentili", "texto": "Quella sera Luna, Timo e Lin il drago azzurro camminavano accanto al ruscello quando videro un ponte di pietra coperto da ombre strane. Non erano ombre spaventose: sembravano più ombre timide, che non sapevano bene dove stare quando la luna diventava molto luminosa. Timo provò a salutarle con la mano. Una di loro fece lo stesso, ma con un piccolo ritardo, come se stesse ancora imparando il mestiere di essere ombra. Lin rise così piano che sembrò un tuono educato. Luna osservò che il ponte era illuminato da una sola lanterna, troppo forte da un lato e troppo debole dall’altro. Così i tre spostarono la lanterna al centro e Lin lucidò il vetro con la punta della coda. Allora le ombre si distesero in modo morbido e ordinato sulle pietre, come coperte leggere. Il ponte tornò bellissimo: metà luce, metà riposo. Prima di rientrare, Luna disse che anche le ombre hanno bisogno del loro posto, perché la notte non è fatta solo per brillare, ma anche per riposare senza fretta. Le ombre, questa volta puntualissime, annuirono tutte insieme.", "traduccion": "Luna, Timo y Lin encontraron un puente con sombras tímidas. Al mover una linterna al centro, la luz quedó equilibrada y las sombras descansaron en paz. Aprendieron que en la noche también hay espacio para lo suave y lo tranquilo.", "moraleja": "La luce più bella è quella che lascia spazio anche alla calma.", "pregunta": "Se pudieras acomodar una luz en tu cuarto, ¿dónde la pondrías para que todo se sienta en paz?"},
-  {"id": "20260401000201_0", "fecha": "01/04/2026", "lang": "es", "titulo": "La brújula de rocío de Lin", "texto": "Esa noche, Luna, Timo y Lin el dragón azul subieron a la colina para ver cómo el rocío convertía el pasto en un mapa brillante. Lin llevaba una pequeña brújula hecha con una hoja seca y una gota redonda, invento de Timo, que aseguraba apuntar siempre hacia los lugares tranquilos. La brújula giró una vez, dos veces, y terminó señalando un caracol dormido dentro de una flor de campana. Luna se rió bajito. “Parece que el lugar más tranquilo del bosque mide dos centímetros”. Para no despertarlo, los tres caminaron de puntillas alrededor de la flor. En el camino descubrieron que cada gotita de rocío reflejaba una estrella distinta, como si el cielo hubiera dejado copias pequeñitas para quien mirara con paciencia. Timo quiso contarlas todas, pero a la número doce bostezó tan fuerte que hasta la brújula tembló. Lin sopló un aire tibio para secar una piedra y sentarse allí. Entonces Luna les enseñó a escuchar sin hablar: primero el viento, luego los grillos, luego su propia respiración. La brújula dejó de moverse. “Ya entendí”, susurró Timo. “No busca un lugar tranquilo; busca cuándo nosotros nos volvemos tranquilos”. Lin asintió, orgulloso, como si la brújula hubiera sido idea suya desde el principio. El caracol siguió dormido. Las estrellas siguieron arriba. Y los tres volvieron a casa con los zapatos un poco mojados y el corazón bien sereno.", "traduccion": "", "moraleja": "A veces la calma no se encuentra lejos: aparece cuando bajamos la prisa y aprendemos a escuchar.", "pregunta": "Si tuvieras una brújula de tranquilidad, ¿a qué lugar crees que te llevaría?"},
-  {"id": "20260401000201_1", "fecha": "01/04/2026", "lang": "en", "titulo": "The Library of Quiet Feathers", "texto": "The next evening, Luna, Timo, and Lin the blue dragon followed a trail of white feathers that floated through the meadow as if they were remembering where to go. At the end of the path they found a tiny night library built inside an old willow tree. No one was allowed to shout there, not because of rules, but because the books were sleeping birds and loud voices made them flutter in their dreams. A small owl librarian welcomed them with a nod so serious that Timo had to bite his lip to keep from laughing. Lin carefully opened one silver-blue book with the tip of a claw. Inside, instead of letters, there were moon shapes, shells, and little drawings of tides. Luna explained that some stories teach with words, and others teach by patterns. Together they discovered the book was about how the moon helps the sea move, gently pulling the water the way a mother straightens a blanket. Timo whispered that the moon must be very strong to tidy up an entire ocean. “Strong and patient,” said Luna. Lin tried whispering too, but dragons are not natural whisperers; his whisper sounded like a teapot thinking hard. Even the owl smiled. Before leaving, each of them placed one feather on the library windowsill as a promise to return quietly. On the walk home, Timo looked at the moon and said he liked knowing that even faraway things could help without making noise. Lin agreed, then yawned a blue, polite yawn that almost looked like a cloud. By the time they reached their door, the night felt soft, ordered, and ready for sleep.", "traduccion": "Luna, Timo y Lin siguieron un rastro de plumas hasta una biblioteca nocturna dentro de un sauce. Allí descubrieron un libro que enseñaba, con dibujos y formas, cómo la luna mueve suavemente las mareas. Timo aprendió que también se puede ayudar en silencio, y Lin intentó susurrar… aunque sonó como una tetera pensativa.", "moraleja": "Real strength can be gentle, patient, and quiet.", "pregunta": "What quiet thing do you think helps the world every night?"},
-  {"id": "20260401000201_2", "fecha": "01/04/2026", "lang": "it", "titulo": "Il ponte delle lucciole pazienti", "texto": "La terza sera, Luna, Timo e Lin il drago azzurro trovarono un ruscello un po’ più largo del solito. Non faceva paura, ma faceva abbastanza rumore da confondere i pensieri piccoli prima di dormire. “Ci serve un ponte,” disse Timo. “O gambe più lunghe,” aggiunse Lin, guardando le proprie con una certa speranza. Luna osservò l’acqua e notò che sopra il ruscello volavano lucciole in file ordinate, come minuscole lanterne che si davano il turno. Con molta calma, le lucciole si posarono una accanto all’altra su alcuni sassi chiari, formando una strada luminosa. Non era magia frettolosa: era un lavoro preciso, quasi matematico. Luna spiegò che quando qualcosa sembra difficile, a volte basta dividerlo in piccoli passi. Timo fece il primo passo, poi il secondo, contando piano per non perdere il coraggio. Lin passò per ultimo, con tanta delicatezza che il ponte di lucciole tremò appena, come se stesse ridendo. Dall’altra parte trovarono un cespuglio di menta selvatica, e l’aria profumò di fresco e notte pulita. Timo dichiarò che quel profumo meritava una medaglia. Lin disse che preferiva una almohada. Luna raccolse una foglia de menta e la mise nel taschino del pigiama “per ricordare al sonno la strada di casa”. Le lucciole si spensero una a una, fiere del loro lavoro ben fatto. Tornando indietro, i tre non avevano più fretta. Avevano imparato che anche un ponte minuscolo può portare molto lontano, soprattutto se lo attraversi con pazienza.", "traduccion": "Luna, Timo y Lin encontraron un arroyo y unas luciérnagas formaron un puente luminoso sobre las piedras. Luna explicó que lo difícil se resuelve mejor en pasos pequeños. Timo cruzó contando despacio, Lin con mucha delicadeza, y al otro lado hallaron menta silvestre y una noche aún más tranquila.", "moraleja": "Le cose difficili diventano leggere quando le affronti un passo alla volta.", "pregunta": "¿Qué cosa te saldría mejor si la hicieras despacito, paso por paso?"},
-  // CUENTOS_DATA
+  {"id": "20260331004600_0", "fecha": "31/03/2026", "lang": "es", "titulo": "Luna, Timo y el dragón de las campanas suaves", "texto": "Luna y Timo subieron la colina con Lin, el pequeño dragón azul, para averiguar por qué el viento sonaba como campanitas. En la hierba hallaron caracoles dormidos con gotitas en la concha. Cada gota vibraba al pasar la brisa y tocaba una nota distinta. Lin quiso estornudar fuego de emoción, pero solo soltó un humito tibio que secó una hoja mojada. Luna rió en voz baja. Timo escuchó y descubrió algo: las gotas grandes sonaban grave y las pequeñas, agudo. Entonces ordenaron los caracoles alrededor de una piedra y, por un minuto, la colina fue una orquesta diminuta. Cuando la luna salió, los tres guardaron el secreto: algunas músicas no se atrapan; solo se visitan antes de dormir.", "traduccion": "", "moraleja": "Buenas noches: lo más bonito también sabe hablar bajito.", "pregunta": "Si tuvieras una campana de viento mágica, ¿qué sonido le pondrías?", "palabra": "", "audio": ""},
+  {"id": "20260331004600_1", "fecha": "31/03/2026", "lang": "en", "titulo": "The Moon Map in the Teacup", "texto": "That night, Luna, Timo, and Lin the blue dragon visited Mr. Elio, the island's sleepy cartographer. He looked worried: his moon map had disappeared. They searched quietly until Lin noticed silver light trembling inside a teacup. The map had not vanished at all—it had folded itself into the reflection of the moon. Mr. Elio smiled and explained that old sailors once read directions in water when paper was too precious to waste. Timo held the cup very still. Luna traced the tiny glowing coastlines with her eyes. Lin, trying to help, dipped one claw in and sneezed a puff of warm mist, which made one new island appear. Mr. Elio laughed. “Then tomorrow,” he said, “we shall have somewhere new to wonder about.”", "traduccion": "Esa noche, Luna, Timo y Lin visitaron al señor Elio, un cartógrafo soñoliento. Su mapa de la luna parecía perdido, pero estaba doblado dentro del reflejo de una taza de té. Elio explicó que antiguos marineros leían direcciones en el agua. Lin soltó una nubecita tibia y apareció una isla nueva en el mapa.", "moraleja": "Good night: sometimes the lost thing is only waiting in a quieter place.", "pregunta": "If you found a new island on a moon map, what would you name it?", "palabra": "", "audio": ""},
+  {"id": "20260331032116_0", "fecha": "31/03/2026", "lang": "es", "titulo": "El dragón que coleccionaba nubes", "texto": "Había un dragón pequeño llamado Nube que vivía en lo alto de una montaña azul. A diferencia de los otros dragones, él no escupía fuego — escupía nubes de colores. Nubes rosas cuando estaba contento, grises cuando pensaba mucho, y doradas justo antes de dormir. Un día, un niño de un pueblo cercano subió la montaña buscando su cometa perdida. La encontró atrapada en una nube morada. El dragón la liberó soplando suavemente, y la nube se transformó en una estrella. Desde esa noche, el niño siempre miraba el cielo antes de dormir, buscando la estrella morada que le guiñaba el ojo. Y el dragón, que por fin tenía un amigo, dormía tranquilo sabiendo que alguien pensaba en él desde el pueblo.", "traduccion": "", "moraleja": "La amistad más especial nace cuando ayudas sin esperar nada a cambio.", "pregunta": "¿De qué color sería tu nube si pudieras soplar nubes mágicas?", "palabra": "", "audio": ""},
+  {"id": "20260331032116_1", "fecha": "31/03/2026", "lang": "en", "titulo": "The Lighthouse Keeper and the Glowing Cat", "texto": "On a tiny island lived an old lighthouse keeper named Theo and his cat, Barnacle. Every night, Theo climbed 99 steps to light the lamp so ships could find their way home. But one stormy night, the lamp went out. Theo was worried — without the light, a ship might get lost. Barnacle, who had never done anything particularly useful before, jumped onto the windowsill and began to glow. Cats from the island had an old secret: when they truly wanted to help, they could shine like small suns. The ship saw the light and arrived safely. From that night on, Barnacle slept curled on top of the lamp, and ships always knew the island was near.", "traduccion": "En una pequeña isla vivía un viejo guardián de faro llamado Theo y su gato Barnacle. Una noche tormentosa el faro se apagó. Barnacle saltó a la ventana y comenzó a brillar — los gatos de la isla tenían un secreto: cuando querían ayudar de verdad, brillaban como pequeños soles. El barco llegó sano y salvo.", "moraleja": "Everyone has a hidden light — it only shines when someone truly needs it.", "pregunta": "If you could glow like Barnacle, when would you use your light?", "palabra": "", "audio": ""},
+  {"id": "20260331032116_2", "fecha": "31/03/2026", "lang": "it", "titulo": "La biblioteca sotto il lago", "texto": "In fondo al lago del villaggio, nascosta tra le radici degli alberi, c'era una biblioteca segreta. I pesci erano i bibliotecari e i libri erano fatti di foglie pressate e conchiglie. Una bambina di nome Sofia scoprì la biblioteca un pomeriggio d'autunno, quando buttò una foglia nell'acqua e sparì. Seguendola, trovò migliaia di storie. Il pesce più vecchio le disse che ogni persona ha una storia scritta là dentro — la storia di chi sarà da grande. Sofia aprì il suo libro e trovò solo due parole: Ancora in corso. Tornò a casa sorridendo, perché capì che la parte più bella della storia doveva ancora essere scritta.", "traduccion": "En el fondo del lago había una biblioteca secreta. Los peces eran los bibliotecarios. Una niña llamada Sofía la descubrió siguiendo una hoja que cayó al agua. El pez más viejo le dijo que cada persona tiene una historia escrita allí. Sofía abrió su libro y encontró solo dos palabras: Aún en curso. Volvió a casa sonriendo porque entendió que la mejor parte aún estaba por escribirse.", "moraleja": "La tua storia è ancora in corso — e la parte più bella deve ancora arrivare.", "pregunta": "¿Qué dos palabras encontrarías en tu libro si pudieras leerlo hoy?", "palabra": "", "audio": ""},
+  {"id": "20260401000101_0", "fecha": "01/04/2026", "lang": "es", "titulo": "La brújula de las luciérnagas", "texto": "Esa noche, Luna, Timo y Lin el dragón azul descubrieron que el jardín se había llenado de luciérnagas que volaban en círculos, como si buscaran algo importante. Lin, que ya no intentaba parecer feroz a esas horas porque bostezar con colmillos daba muy poca autoridad, observó el cielo y dijo que quizá las pequeñas luces habían perdido el norte. Luna sacó una hoja redonda, la puso sobre el estanque y vio cómo giraba despacio hasta quedarse quieta apuntando hacia el árbol del panal viejo. Timo sonrió: no era magia complicada, era una brújula hecha con paciencia y agua tranquila. Siguieron a las luciérnagas hasta una rama alta donde una de ellas había dejado su primera luz de la noche. Lin alzó a sus amigos con mucho cuidado, recuperaron el brillo perdido y lo devolvieron al grupo. Entonces todas las luciérnagas ordenaron su vuelo y dibujaron una flecha dorada hacia el bosque. Antes de dormir, Luna dijo que orientarse no siempre era correr más rápido; a veces era quedarse quieto el tiempo suficiente para entender hacia dónde ir.", "traduccion": "", "moraleja": "Cuando te detienes con calma, hasta las cosas pequeñas pueden mostrarte el camino.", "pregunta": "Si tuvieras una brújula suave para el corazón, ¿qué crees que te ayudaría a encontrar?", "palabra": "", "audio": ""},
+  {"id": "20260401000101_2", "fecha": "01/04/2026", "lang": "it", "titulo": "Il ponte delle ombre gentili", "texto": "Quella sera Luna, Timo e Lin il drago azzurro camminavano accanto al ruscello quando videro un ponte di pietra coperto da ombre strane. Non erano ombre spaventose: sembravano più ombre timide, che non sapevano bene dove stare quando la luna diventava molto luminosa. Timo provò a salutarle con la mano. Una di loro fece lo stesso, ma con un piccolo ritardo, come se stesse ancora imparando il mestiere di essere ombra. Lin rise così piano che sembrò un tuono educato. Luna osservò che il ponte era illuminato da una sola lanterna, troppo forte da un lato e troppo debole dall’altro. Così i tre spostarono la lanterna al centro e Lin lucidò il vetro con la punta della coda. Allora le ombre si distesero in modo morbido e ordinato sulle pietre, come coperte leggere. Il ponte tornò bellissimo: metà luce, metà riposo. Prima di rientrare, Luna disse che anche le ombre hanno bisogno del loro posto, perché la notte non è fatta solo per brillare, ma anche per riposare senza fretta. Le ombre, questa volta puntualissime, annuirono tutte insieme.", "traduccion": "Luna, Timo y Lin encontraron un puente con sombras tímidas. Al mover una linterna al centro, la luz quedó equilibrada y las sombras descansaron en paz. Aprendieron que en la noche también hay espacio para lo suave y lo tranquilo.", "moraleja": "La luce più bella è quella che lascia spazio anche alla calma.", "pregunta": "Se pudieras acomodar una luz en tu cuarto, ¿dónde la pondrías para que todo se sienta en paz?", "palabra": "", "audio": ""},
+  {"id": "20260401000201_0", "fecha": "01/04/2026", "lang": "es", "titulo": "La brújula de rocío de Lin", "texto": "Esa noche, Luna, Timo y Lin el dragón azul subieron a la colina para ver cómo el rocío convertía el pasto en un mapa brillante. Lin llevaba una pequeña brújula hecha con una hoja seca y una gota redonda, invento de Timo, que aseguraba apuntar siempre hacia los lugares tranquilos. La brújula giró una vez, dos veces, y terminó señalando un caracol dormido dentro de una flor de campana. Luna se rió bajito. “Parece que el lugar más tranquilo del bosque mide dos centímetros”. Para no despertarlo, los tres caminaron de puntillas alrededor de la flor. En el camino descubrieron que cada gotita de rocío reflejaba una estrella distinta, como si el cielo hubiera dejado copias pequeñitas para quien mirara con paciencia. Timo quiso contarlas todas, pero a la número doce bostezó tan fuerte que hasta la brújula tembló. Lin sopló un aire tibio para secar una piedra y sentarse allí. Entonces Luna les enseñó a escuchar sin hablar: primero el viento, luego los grillos, luego su propia respiración. La brújula dejó de moverse. “Ya entendí”, susurró Timo. “No busca un lugar tranquilo; busca cuándo nosotros nos volvemos tranquilos”. Lin asintió, orgulloso, como si la brújula hubiera sido idea suya desde el principio. El caracol siguió dormido. Las estrellas siguieron arriba. Y los tres volvieron a casa con los zapatos un poco mojados y el corazón bien sereno.", "traduccion": "", "moraleja": "A veces la calma no se encuentra lejos: aparece cuando bajamos la prisa y aprendemos a escuchar.", "pregunta": "Si tuvieras una brújula de tranquilidad, ¿a qué lugar crees que te llevaría?", "palabra": "", "audio": ""},
+  {"id": "20260401000201_1", "fecha": "01/04/2026", "lang": "en", "titulo": "The Library of Quiet Feathers", "texto": "The next evening, Luna, Timo, and Lin the blue dragon followed a trail of white feathers that floated through the meadow as if they were remembering where to go. At the end of the path they found a tiny night library built inside an old willow tree. No one was allowed to shout there, not because of rules, but because the books were sleeping birds and loud voices made them flutter in their dreams. A small owl librarian welcomed them with a nod so serious that Timo had to bite his lip to keep from laughing. Lin carefully opened one silver-blue book with the tip of a claw. Inside, instead of letters, there were moon shapes, shells, and little drawings of tides. Luna explained that some stories teach with words, and others teach by patterns. Together they discovered the book was about how the moon helps the sea move, gently pulling the water the way a mother straightens a blanket. Timo whispered that the moon must be very strong to tidy up an entire ocean. “Strong and patient,” said Luna. Lin tried whispering too, but dragons are not natural whisperers; his whisper sounded like a teapot thinking hard. Even the owl smiled. Before leaving, each of them placed one feather on the library windowsill as a promise to return quietly. On the walk home, Timo looked at the moon and said he liked knowing that even faraway things could help without making noise. Lin agreed, then yawned a blue, polite yawn that almost looked like a cloud. By the time they reached their door, the night felt soft, ordered, and ready for sleep.", "traduccion": "Luna, Timo y Lin siguieron un rastro de plumas hasta una biblioteca nocturna dentro de un sauce. Allí descubrieron un libro que enseñaba, con dibujos y formas, cómo la luna mueve suavemente las mareas. Timo aprendió que también se puede ayudar en silencio, y Lin intentó susurrar… aunque sonó como una tetera pensativa.", "moraleja": "Real strength can be gentle, patient, and quiet.", "pregunta": "What quiet thing do you think helps the world every night?", "palabra": "", "audio": ""},
+  {"id": "20260401000201_2", "fecha": "01/04/2026", "lang": "it", "titulo": "Il ponte delle lucciole pazienti", "texto": "La terza sera, Luna, Timo e Lin il drago azzurro trovarono un ruscello un po’ più largo del solito. Non faceva paura, ma faceva abbastanza rumore da confondere i pensieri piccoli prima di dormire. “Ci serve un ponte,” disse Timo. “O gambe più lunghe,” aggiunse Lin, guardando le proprie con una certa speranza. Luna osservò l’acqua e notò che sopra il ruscello volavano lucciole in file ordinate, come minuscole lanterne che si davano il turno. Con molta calma, le lucciole si posarono una accanto all’altra su alcuni sassi chiari, formando una strada luminosa. Non era magia frettolosa: era un lavoro preciso, quasi matematico. Luna spiegò che quando qualcosa sembra difficile, a volte basta dividerlo in piccoli passi. Timo fece il primo passo, poi il secondo, contando piano per non perdere il coraggio. Lin passò per ultimo, con tanta delicatezza che il ponte di lucciole tremò appena, come se stesse ridendo. Dall’altra parte trovarono un cespuglio di menta selvatica, e l’aria profumò di fresco e notte pulita. Timo dichiarò che quel profumo meritava una medaglia. Lin disse che preferiva una almohada. Luna raccolse una foglia de menta e la mise nel taschino del pigiama “per ricordare al sonno la strada di casa”. Le lucciole si spensero una a una, fiere del loro lavoro ben fatto. Tornando indietro, i tre non avevano più fretta. Avevano imparato che anche un ponte minuscolo può portare molto lontano, soprattutto se lo attraversi con pazienza.", "traduccion": "Luna, Timo y Lin encontraron un arroyo y unas luciérnagas formaron un puente luminoso sobre las piedras. Luna explicó que lo difícil se resuelve mejor en pasos pequeños. Timo cruzó contando despacio, Lin con mucha delicadeza, y al otro lado hallaron menta silvestre y una noche aún más tranquila.", "moraleja": "Le cose difficili diventano leggere quando le affronti un passo alla volta.", "pregunta": "¿Qué cosa te saldría mejor si la hicieras despacito, paso por paso?", "palabra": "", "audio": ""}
 ];
 
-const SVGS = {
-  es: `<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <radialGradient id="skyEs" cx="50%" cy="0%" r="100%"><stop offset="0%" stop-color="#1a0533"/><stop offset="100%" stop-color="#0a0a2e"/></radialGradient>
-      <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#fffde7" stop-opacity="1"/><stop offset="100%" stop-color="#ffd700" stop-opacity="0"/></radialGradient>
-      <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    </defs>
-    <rect width="800" height="450" fill="url(#skyEs)"/>
-    <!-- Estrellas -->
-    <g opacity="0.9" filter="url(#glow)">
-      <circle cx="80" cy="40" r="1.5" fill="white"/><circle cx="180" cy="25" r="2" fill="#fffde7"/>
-      <circle cx="320" cy="55" r="1.5" fill="white"/><circle cx="420" cy="20" r="2.5" fill="#fffde7"/>
-      <circle cx="520" cy="45" r="1.5" fill="white"/><circle cx="650" cy="30" r="2" fill="white"/>
-      <circle cx="750" cy="60" r="1.5" fill="#fffde7"/><circle cx="140" cy="90" r="1" fill="white"/>
-      <circle cx="580" cy="80" r="1.5" fill="white"/><circle cx="700" cy="100" r="1" fill="white"/>
-      <circle cx="240" cy="110" r="1.5" fill="#fffde7"/><circle cx="460" cy="95" r="1" fill="white"/>
-    </g>
-    <!-- Luna grande -->
-    <circle cx="120" cy="100" r="70" fill="url(#moonGlow)" opacity="0.3"/>
-    <circle cx="120" cy="100" r="52" fill="#fffde7" filter="url(#glow)"/>
-    <circle cx="120" cy="100" r="48" fill="#fff9c4"/>
-    <circle cx="102" cy="88" r="8" fill="#f0e06a" opacity="0.4"/>
-    <circle cx="135" cy="112" r="5" fill="#f0e06a" opacity="0.3"/>
-    <circle cx="118" cy="75" r="4" fill="#f0e06a" opacity="0.3"/>
-    <!-- Nubes mágicas -->
-    <g opacity="0.6">
-      <ellipse cx="350" cy="140" rx="90" ry="30" fill="#6b2fb5" opacity="0.5"/>
-      <ellipse cx="310" cy="135" rx="50" ry="22" fill="#7c3aed" opacity="0.6"/>
-      <ellipse cx="395" cy="138" rx="55" ry="20" fill="#7c3aed" opacity="0.5"/>
-      <ellipse cx="600" cy="160" rx="70" ry="25" fill="#4a1b8c" opacity="0.4"/>
-      <ellipse cx="570" cy="155" rx="40" ry="18" fill="#6b2fb5" opacity="0.5"/>
-    </g>
-    <!-- Dragón estilizado -->
-    <g transform="translate(420,160)" filter="url(#glow)">
-      <ellipse cx="60" cy="80" rx="55" ry="35" fill="#e74c3c" opacity="0.85"/>
-      <circle cx="90" cy="60" r="28" fill="#e74c3c" opacity="0.9"/>
-      <circle cx="100" cy="52" r="5" fill="#ffd700"/>
-      <circle cx="101" cy="53" r="2.5" fill="#1a1a2e"/>
-      <path d="M75 45 Q80 25 95 35" stroke="#c0392b" stroke-width="3" fill="none"/>
-      <path d="M90 42 Q98 22 108 35" stroke="#c0392b" stroke-width="3" fill="none"/>
-      <path d="M110 65 Q140 50 150 70 Q145 85 125 80" fill="#c0392b" opacity="0.8"/>
-      <path d="M60 95 Q40 110 20 100 Q30 85 50 88" fill="#c0392b" opacity="0.8"/>
-      <!-- Nubes de colores soplando -->
-      <ellipse cx="-20" cy="60" rx="25" ry="15" fill="#ff69b4" opacity="0.7"/>
-      <ellipse cx="-45" cy="55" rx="20" ry="12" fill="#ff1493" opacity="0.6"/>
-      <ellipse cx="-15" cy="42" rx="18" ry="10" fill="#ffd700" opacity="0.8"/>
-      <ellipse cx="-38" cy="38" rx="15" ry="9" fill="#ffa500" opacity="0.7"/>
-    </g>
-    <!-- Montañas y pueblo -->
-    <path d="M0 350 L150 200 L300 300 L450 180 L600 280 L750 220 L800 260 L800 450 L0 450Z" fill="#1a0a33" opacity="0.8"/>
-    <path d="M0 380 L100 300 L200 340 L350 260 L500 320 L650 270 L800 310 L800 450 L0 450Z" fill="#120828" opacity="0.9"/>
-    <!-- Ventanas iluminadas -->
-    <rect x="160" y="290" width="12" height="10" fill="#ffd700" opacity="0.7" rx="1"/>
-    <rect x="178" y="290" width="12" height="10" fill="#ffd700" opacity="0.5" rx="1"/>
-    <rect x="450" y="275" width="10" height="8" fill="#ffd700" opacity="0.6" rx="1"/>
-    <rect x="465" y="275" width="10" height="8" fill="#ffd700" opacity="0.4" rx="1"/>
-    <!-- Estrellas fugaces -->
-    <line x1="700" y1="50" x2="740" y2="80" stroke="white" stroke-width="1.5" opacity="0.6"/>
-    <line x1="600" y1="40" x2="635" y2="65" stroke="#fffde7" stroke-width="1" opacity="0.5"/>
-  </svg>`,
+// Obtener fechas únicas para filtros
+const fechasUnicas = [...new Set(cuentos.map(c => c.fecha))].sort((a,b) => {
+  const pa = a.split('/'), pb = b.split('/');
+  return new Date(pb[2],pb[1]-1,pb[0]) - new Date(pa[2],pa[1]-1,pa[0]);
+});
 
-  en: `<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="oceanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" stop-color="#0a1628"/><stop offset="60%" stop-color="#0d2b4e"/><stop offset="100%" stop-color="#061018"/>
-      </linearGradient>
-      <radialGradient id="lightBeam" cx="50%" cy="0%" r="100%">
-        <stop offset="0%" stop-color="#ffd700" stop-opacity="0.6"/><stop offset="100%" stop-color="#ffd700" stop-opacity="0"/>
-      </radialGradient>
-      <filter id="glowEn"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    </defs>
-    <rect width="800" height="450" fill="url(#oceanGrad)"/>
-    <!-- Cielo con estrellas -->
-    <g opacity="0.8">
-      <circle cx="50" cy="30" r="1.5" fill="white"/><circle cx="150" cy="50" r="2" fill="#fffde7"/>
-      <circle cx="280" cy="25" r="1.5" fill="white"/><circle cx="380" cy="45" r="2" fill="white"/>
-      <circle cx="500" cy="30" r="1.5" fill="#fffde7"/><circle cx="620" cy="55" r="2" fill="white"/>
-      <circle cx="720" cy="35" r="1.5" fill="white"/><circle cx="160" cy="80" r="1" fill="white"/>
-      <circle cx="440" cy="70" r="1.5" fill="#fffde7"/><circle cx="680" cy="80" r="1" fill="white"/>
-    </g>
-    <!-- Faro -->
-    <g transform="translate(580,50)">
-      <!-- Torre -->
-      <rect x="30" y="100" width="50" height="180" fill="#e8e0d0" rx="5"/>
-      <rect x="25" y="95" width="60" height="15" fill="#c8b8a0" rx="3"/>
-      <!-- Franjas del faro -->
-      <rect x="30" y="130" width="50" height="20" fill="#e74c3c" opacity="0.8"/>
-      <rect x="30" y="170" width="50" height="20" fill="#e74c3c" opacity="0.8"/>
-      <rect x="30" y="210" width="50" height="20" fill="#e74c3c" opacity="0.8"/>
-      <!-- Linterna -->
-      <rect x="22" y="70" width="66" height="30" fill="#2c3e50" rx="5"/>
-      <rect x="28" y="73" width="54" height="24" fill="#ffd700" opacity="0.9" rx="3"/>
-      <rect x="22" y="65" width="66" height="8" fill="#2c3e50" rx="3"/>
-      <!-- Haz de luz -->
-      <path d="M55 70 L-200 200 L-200 250 L55 95" fill="url(#lightBeam)" opacity="0.4"/>
-      <!-- Gato brillando -->
-      <g transform="translate(35,85)" filter="url(#glowEn)">
-        <ellipse cx="15" cy="12" rx="12" ry="8" fill="#ffd700" opacity="0.9"/>
-        <circle cx="15" cy="6" r="7" fill="#ffd700" opacity="0.95"/>
-        <path d="M10 1 L8 -4 L13 0" fill="#ffd700" opacity="0.9"/>
-        <path d="M20 1 L22 -4 L17 0" fill="#ffd700" opacity="0.9"/>
-        <circle cx="12" cy="5" r="2" fill="#1a1a2e"/>
-        <circle cx="18" cy="5" r="2" fill="#1a1a2e"/>
-        <!-- Aura brillante -->
-        <circle cx="15" cy="8" r="15" fill="#ffd700" opacity="0.15"/>
-        <circle cx="15" cy="8" r="20" fill="#ffd700" opacity="0.08"/>
-      </g>
-      <!-- Base y roca -->
-      <path d="M0 280 Q55 265 110 280 L110 300 Q55 295 0 300Z" fill="#4a4a4a"/>
-    </g>
-    <!-- Mar agitado -->
-    <g>
-      <path d="M0 300 Q100 275 200 300 Q300 325 400 300 Q500 275 600 300 Q700 325 800 300 L800 450 L0 450Z" fill="#0d2b4e"/>
-      <path d="M0 320 Q80 300 160 320 Q240 340 320 320 Q400 300 480 320 Q560 340 640 320 Q720 300 800 320 L800 450 L0 450Z" fill="#0a2040" opacity="0.8"/>
-      <path d="M0 340 Q100 325 200 340 Q300 355 400 340 Q500 325 600 340 Q700 355 800 340 L800 450 L0 450Z" fill="#061826" opacity="0.9"/>
-      <!-- Olas -->
-      <path d="M50 310 Q80 300 110 310" stroke="#3498db" stroke-width="2" fill="none" opacity="0.4"/>
-      <path d="M200 325 Q230 315 260 325" stroke="#3498db" stroke-width="2" fill="none" opacity="0.3"/>
-      <path d="M350 315 Q380 305 410 315" stroke="#3498db" stroke-width="2" fill="none" opacity="0.4"/>
-    </g>
-    <!-- Barco -->
-    <g transform="translate(100,250)">
-      <path d="M0 40 Q80 30 160 40 L140 60 Q80 65 20 60Z" fill="#8B4513"/>
-      <rect x="75" y="0" width="6" height="45" fill="#5D4037"/>
-      <polygon points="81,0 81,35 140,20" fill="#e74c3c" opacity="0.9"/>
-      <polygon points="81,0 81,25 30,12" fill="#f39c12" opacity="0.8"/>
-    </g>
-    <!-- Luna -->
-    <circle cx="100" cy="80" r="35" fill="#fffde7" filter="url(#glowEn)" opacity="0.9"/>
-    <circle cx="100" cy="80" r="30" fill="#fff9c4"/>
-  </svg>`,
+// Construir filtros de fecha
+const fdiv = document.getElementById('filtros-fecha');
+const btnTodas = document.createElement('button');
+btnTodas.className = 'filter-btn active';
+btnTodas.textContent = 'Todas';
+btnTodas.onclick = function(){ setFiltro('fecha','todas',this); };
+fdiv.appendChild(btnTodas);
+fechasUnicas.forEach(f => {
+  const b = document.createElement('button');
+  b.className = 'filter-btn';
+  const partes = f.split('/');
+  b.textContent = partes[0]+'/'+partes[1];
+  b.onclick = function(){ setFiltro('fecha',f,this); };
+  fdiv.appendChild(b);
+});
 
-  it: `<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <radialGradient id="lakeGrad" cx="50%" cy="60%" r="60%">
-        <stop offset="0%" stop-color="#1a4a7a"/><stop offset="100%" stop-color="#0a1e3d"/>
-      </radialGradient>
-      <radialGradient id="magicCenter" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#9b59b6" stop-opacity="0.8"/><stop offset="100%" stop-color="#6b2fb5" stop-opacity="0"/>
-      </radialGradient>
-      <filter id="glowIt"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-      <filter id="softGlow"><feGaussianBlur stdDeviation="2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    </defs>
-    <rect width="800" height="450" fill="#0a0a1e"/>
-    <!-- Cielo mágico -->
-    <rect width="800" height="250" fill="url(#lakeGrad)" opacity="0.4"/>
-    <!-- Árboles del bosque -->
-    <g opacity="0.7">
-      <path d="M0 350 L30 200 L60 350Z" fill="#1a3a1a"/><path d="M50 350 L80 180 L110 350Z" fill="#1e4a1e"/>
-      <path d="M700 350 L730 190 L760 350Z" fill="#1a3a1a"/><path d="M740 350 L770 210 L800 350Z" fill="#1e4a1e"/>
-      <path d="M90 350 L115 220 L140 350Z" fill="#163016" opacity="0.8"/>
-      <path d="M660 350 L685 215 L710 350Z" fill="#163016" opacity="0.8"/>
-    </g>
-    <!-- Lago mágico -->
-    <ellipse cx="400" cy="380" rx="320" ry="80" fill="#0d2b5c" opacity="0.8"/>
-    <ellipse cx="400" cy="380" rx="280" ry="65" fill="#1a3a6a" opacity="0.5"/>
-    <!-- Reflejo mágico en el lago -->
-    <ellipse cx="400" cy="380" rx="180" ry="40" fill="url(#magicCenter)" opacity="0.6"/>
-    <!-- Portal/biblioteca submarina -->
-    <g transform="translate(300,250)" filter="url(#glowIt)">
-      <ellipse cx="100" cy="0" rx="100" ry="60" fill="#2d1b69" opacity="0.8"/>
-      <ellipse cx="100" cy="0" rx="80" ry="48" fill="#3d2580" opacity="0.7"/>
-      <ellipse cx="100" cy="0" rx="55" ry="33" fill="#9b59b6" opacity="0.4"/>
-      <!-- Peces-bibliotecarios -->
-      <g filter="url(#softGlow)">
-        <ellipse cx="60" cy="-10" rx="12" ry="7" fill="#ffd700" opacity="0.9"/>
-        <polygon points="48,-10 40,-5 40,-15" fill="#ffd700" opacity="0.9"/>
-        <circle cx="65" cy="-10" r="2" fill="#1a1a2e"/>
-        <ellipse cx="140" cy="10" rx="14" ry="8" fill="#3498db" opacity="0.9"/>
-        <polygon points="154,10 162,6 162,14" fill="#3498db" opacity="0.9"/>
-        <circle cx="135" cy="10" r="2.5" fill="#1a1a2e"/>
-        <ellipse cx="95" cy="25" rx="10" ry="6" fill="#e74c3c" opacity="0.8"/>
-        <polygon points="85,25 78,21 78,29" fill="#e74c3c" opacity="0.8"/>
-      </g>
-      <!-- Libro mágico en el centro -->
-      <g transform="translate(85,-20)">
-        <rect x="0" y="0" width="30" height="35" fill="#ffd700" opacity="0.9" rx="2"/>
-        <rect x="3" y="5" width="24" height="2" fill="#8B6914" opacity="0.6"/>
-        <rect x="3" y="10" width="20" height="2" fill="#8B6914" opacity="0.4"/>
-        <rect x="3" y="15" width="22" height="2" fill="#8B6914" opacity="0.5"/>
-        <rect x="3" y="20" width="18" height="2" fill="#8B6914" opacity="0.4"/>
-        <circle cx="15" cy="30" r="4" fill="#9b59b6" opacity="0.8" filter="url(#softGlow)"/>
-      </g>
-    </g>
-    <!-- Niña Sofia -->
-    <g transform="translate(380,170)" filter="url(#softGlow)">
-      <circle cx="20" cy="0" r="12" fill="#FDBCB4"/>
-      <rect x="12" y="10" width="16" height="25" fill="#9b59b6" opacity="0.9" rx="3"/>
-      <path d="M10 0 Q5 -8 15 -10 Q20 -15 25 -10 Q35 -8 30 0" fill="#8B4513"/>
-      <!-- Burbuja de aire -->
-      <ellipse cx="45" cy="-5" rx="15" ry="10" fill="white" opacity="0.15" stroke="white" stroke-width="0.5"/>
-    </g>
-    <!-- Partículas mágicas -->
-    <g filter="url(#glowIt)">
-      <circle cx="200" cy="200" r="3" fill="#ffd700" opacity="0.8"/>
-      <circle cx="250" cy="150" r="2" fill="#9b59b6" opacity="0.9"/>
-      <circle cx="550" cy="180" r="3" fill="#ffd700" opacity="0.7"/>
-      <circle cx="600" cy="230" r="2" fill="#3498db" opacity="0.8"/>
-      <circle cx="170" cy="280" r="2.5" fill="#2ecc71" opacity="0.7"/>
-      <circle cx="620" cy="160" r="2" fill="#e74c3c" opacity="0.7"/>
-      <circle cx="350" cy="130" r="3" fill="#ffd700" opacity="0.6"/>
-      <circle cx="480" cy="120" r="2" fill="#9b59b6" opacity="0.8"/>
-    </g>
-    <!-- Estrellas -->
-    <g opacity="0.7">
-      <circle cx="100" cy="50" r="1.5" fill="white"/><circle cx="200" cy="30" r="2" fill="#fffde7"/>
-      <circle cx="400" cy="40" r="1.5" fill="white"/><circle cx="600" cy="25" r="2" fill="white"/>
-      <circle cx="700" cy="55" r="1.5" fill="#fffde7"/><circle cx="500" cy="60" r="1" fill="white"/>
-    </g>
-    <rect x="0" y="430" width="800" height="20" fill="#050510" opacity="0.9"/>
-  </svg>`
-};
+let filtros = { lang: 'todos', fecha: 'todas' };
 
-let filtroActivo='todos';
-function setFiltro(f,e){
-  filtroActivo=f;
-  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
-  e.target.classList.add('active');
+function setFiltro(tipo, val, el) {
+  filtros[tipo] = val;
+  const grupo = tipo === 'lang' ? 'filtros-idioma' : 'filtros-fecha';
+  document.getElementById(grupo).querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
   filtrar();
 }
-function filtrar(){
-  const q=document.getElementById('searchInput').value.toLowerCase();
-  let r=cuentos;
-  if(filtroActivo!=='todos') r=r.filter(c=>c.lang===filtroActivo);
-  if(q) r=r.filter(c=>c.titulo.toLowerCase().includes(q)||c.texto.toLowerCase().includes(q)||c.fecha.includes(q));
-  const byDate={};
-  r.forEach(c=>{if(!byDate[c.fecha])byDate[c.fecha]=[];byDate[c.fecha].push(c);});
-  const lib=document.getElementById('biblioteca');
-  const fechas=Object.keys(byDate).sort().reverse();
-  if(cuentos.length===0){
-    lib.innerHTML=`<div class="empty-state"><div class="emoji">🌙</div><p>Los primeros cuentos llegarán esta noche...</p></div>`;
-    document.getElementById('contador').textContent='';
-    return;
-  }
-  if(fechas.length===0){
-    lib.innerHTML='<div class="no-results">🌙 No se encontraron cuentos...</div>';
-    document.getElementById('contador').textContent='';
-    return;
-  }
-  document.getElementById('contador').textContent=`${r.length} cuento${r.length!==1?'s':''} en la biblioteca`;
-  lib.innerHTML=fechas.map(fecha=>`
-    <div class="date-group">
-      <div class="date-label">🌙 ${fecha}</div>
-      <div class="cuentos-grid">
-        ${byDate[fecha].map(c=>`
-          <div class="cuento-card">
-            <div class="cuento-imagen-wrap">
-              ${SVGS[c.lang]||SVGS.es}
-              <div class="lang-overlay overlay-${c.lang}">${c.lang==='es'?'🇪🇸 Español':c.lang==='en'?'🇬🇧 English':'🇮🇹 Italiano'}</div>
-            </div>
-            <div class="cuento-body">
-              <div class="cuento-titulo">${c.titulo}</div>
-              <div class="cuento-texto">${c.texto}</div>
-              ${c.traduccion?`<div class="traduccion">📖 <strong>Traducción:</strong><br>${c.traduccion}</div>`:''}
-              ${c.moraleja?`<div class="moraleja">✨ ${c.moraleja}</div>`:''}
-              ${c.pregunta?`<div class="pregunta">🎯 ${c.pregunta}</div>`:''}
-            </div>
-          </div>`).join('')}
-      </div>
-    </div>`).join('');
+
+function getImgUrl(c) {
+  const keywords = encodeURIComponent(
+    c.titulo.split(' ').slice(0,4).join(',') + ',' +
+    (c.lang === 'es' ? 'night,story,children' : c.lang === 'en' ? 'fantasy,night,magic' : 'luna,notte,bambini')
+  );
+  return 'https://source.unsplash.com/800x450/?' + keywords + '&sig=' + c.id.replace(/[^a-z0-9]/gi,'');
 }
+
+function getPalette(c) {
+  const seed = c.id.charCodeAt(0) + c.titulo.charCodeAt(0);
+  const palettes = [
+    {bg:'#0a0a1e',accent:'#9b59b6'},{bg:'#0d1b2a',accent:'#3498db'},
+    {bg:'#1a0800',accent:'#e74c3c'},{bg:'#001a0d',accent:'#27ae60'},
+    {bg:'#1a001a',accent:'#e91e63'},{bg:'#001a1a',accent:'#00bcd4'}
+  ];
+  return palettes[seed % palettes.length];
+}
+
+function renderImagen(c) {
+  const p = getPalette(c);
+  const emoji = c.lang === 'es' ? '🌙' : c.lang === 'en' ? '⭐' : '✨';
+  return '<div class="cuento-img-placeholder" style="background:linear-gradient(135deg,'+p.accent+'33,'+p.bg+')">' + emoji + '</div>';
+}
+
+function renderPalabra(c) {
+  if (!c.palabra) return '';
+  return '<div class="palabra-nueva"><strong>📚 Palabra nueva:</strong> ' + c.palabra + '</div>';
+}
+
+function renderAudio(c) {
+  if (!c.audio) return '';
+  return '<button class="audio-btn" onclick="playAudio(\'' + c.audio + '\')">🔊 Escuchar el cuento</button>';
+}
+
+function playAudio(url) {
+  const a = new Audio(url);
+  a.play();
+}
+
+function filtrar() {
+  const q = document.getElementById('searchInput').value.toLowerCase();
+  let r = cuentos;
+  if (filtros.lang !== 'todos') r = r.filter(c => c.lang === filtros.lang);
+  if (filtros.fecha !== 'todas') r = r.filter(c => c.fecha === filtros.fecha);
+  if (q) r = r.filter(c => c.titulo.toLowerCase().includes(q) || c.texto.toLowerCase().includes(q));
+
+  const byDate = {};
+  r.forEach(c => { if (!byDate[c.fecha]) byDate[c.fecha] = []; byDate[c.fecha].push(c); });
+  const lib = document.getElementById('biblioteca');
+  const fechas = Object.keys(byDate).sort((a,b) => {
+    const pa = a.split('/'), pb = b.split('/');
+    return new Date(pb[2],pb[1]-1,pb[0]) - new Date(pa[2],pa[1]-1,pa[0]);
+  });
+
+  if (cuentos.length === 0) {
+    lib.innerHTML = '<div class="empty-state"><div class="emoji">🌙</div><p>Los primeros cuentos llegarán esta noche...</p></div>';
+    document.getElementById('contador').textContent = '';
+    return;
+  }
+  if (fechas.length === 0) {
+    lib.innerHTML = '<div class="no-results">🌙 No se encontraron cuentos...</div>';
+    document.getElementById('contador').textContent = '';
+    return;
+  }
+
+  document.getElementById('contador').textContent = r.length + ' cuento' + (r.length !== 1 ? 's' : '') + ' en la biblioteca';
+
+  lib.innerHTML = fechas.map(fecha =>
+    '<div class="date-group">' +
+    '<div class="date-label">🌙 ' + fecha + '</div>' +
+    '<div class="cuentos-grid">' +
+    byDate[fecha].map(c =>
+      '<div class="cuento-card">' +
+      '<div class="img-wrap">' + renderImagen(c) +
+      '<div class="lang-overlay overlay-' + c.lang + '">' +
+      (c.lang === 'es' ? '🇪🇸 Español' : c.lang === 'en' ? '🇬🇧 English' : '🇮🇹 Italiano') +
+      '</div></div>' +
+      '<div class="cuento-body">' +
+      '<div class="cuento-titulo">' + c.titulo + '</div>' +
+      '<div class="cuento-texto">' + c.texto + '</div>' +
+      (c.traduccion ? '<div class="traduccion">📖 <strong>Traducción:</strong><br>' + c.traduccion + '</div>' : '') +
+      (c.moraleja ? '<div class="moraleja">✨ ' + c.moraleja + '</div>' : '') +
+      (c.pregunta ? '<div class="pregunta">🎯 ' + c.pregunta + '</div>' : '') +
+      renderPalabra(c) +
+      renderAudio(c) +
+      '</div></div>'
+    ).join('') +
+    '</div></div>'
+  ).join('');
+}
+
 filtrar();
 </script>
 </body>
