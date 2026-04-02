@@ -184,7 +184,11 @@ function getPalette(c) {
 function renderImagen(c) {
   const p = getPalette(c);
   const emoji = c.lang === 'es' ? '🌙' : c.lang === 'en' ? '⭐' : '✨';
-  return '<div class="cuento-img-placeholder" style="background:linear-gradient(135deg,'+p.accent+'33,'+p.bg+')">' + emoji + '</div>';
+  const url = getImgUrl(c);
+  return '<img class="cuento-img" src="' + url + '" ' +
+    'onerror="this.style.display='none';this.nextSibling.style.display='flex'" ' +
+    'alt="' + (c.titulo||'') + '" loading="lazy">' +
+    '<div class="cuento-img-placeholder" style="display:none;background:linear-gradient(135deg,' + p.accent + '33,' + p.bg + ')">' + emoji + '</div>';
 }
 
 function renderPalabra(c) {
