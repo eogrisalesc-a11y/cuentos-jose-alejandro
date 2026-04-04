@@ -171,13 +171,15 @@ function setFiltro(tipo, val, el) {
 }
 
 function getImgUrl(c) {
-  // Usar hash del ID para imagen consistente por cuento
   let hash = 0;
   const str = c.id + c.titulo;
   for (let i = 0; i < str.length; i++) {
     hash = ((hash << 5) - hash) + str.charCodeAt(i);
     hash |= 0;
   }
+  const seed = Math.abs(hash) % 1000;
+  return 'https://picsum.photos/seed/' + seed + '/800/450';
+}
   const seed = Math.abs(hash) % 1000;
   return 'https://picsum.photos/seed/' + seed + '/800/450';
 }
