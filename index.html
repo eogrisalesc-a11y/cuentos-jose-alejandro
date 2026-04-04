@@ -193,7 +193,7 @@ function renderImagen(c) {
   const emoji = c.lang === 'es' ? '🌙' : c.lang === 'en' ? '⭐' : '✨';
   const url = getImgUrl(c);
   return '<img class="cuento-img" src="' + url + '" ' +
-    'onerror="this.style.display='none';this.nextSibling.style.display='flex'" ' +
+    'onerror="this.style.display=\'none\';this.nextSibling.style.display=\'flex\'" ' +
     'alt="' + (c.titulo||'') + '" loading="lazy">' +
     '<div class="cuento-img-placeholder" style="display:none;background:linear-gradient(135deg,' + p.accent + '33,' + p.bg + ')">' + emoji + '</div>';
 }
