@@ -6,97 +6,44 @@
 <title>🌙 Cuentos de José Alejandro</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body {
-    font-family: 'Georgia', serif;
-    background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
-    min-height: 100vh; padding: 20px; color: #fff;
-  }
+  body { font-family: Georgia, serif; background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%); min-height: 100vh; padding: 20px; color: #fff; }
   .header { text-align: center; padding: 40px 20px 30px; margin-bottom: 30px; }
-  .header h1 {
-    font-size: 2.4em;
-    background: linear-gradient(135deg, #ffd700, #ff9500);
-    -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
-    margin-bottom: 10px;
-  }
+  .header h1 { font-size: 2.4em; background: linear-gradient(135deg, #ffd700, #ff9500); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 10px; }
   .header p { color: #b0c4de; font-size: 1em; }
   .stars { font-size: 2em; margin: 10px 0; letter-spacing: 8px; }
-  .search-bar { display: flex; justify-content: center; margin-bottom: 20px; gap: 8px; flex-wrap: wrap; }
-  .search-bar input {
-    padding: 10px 20px; border-radius: 30px; border: 1px solid rgba(255,215,0,0.3);
-    background: rgba(255,255,255,0.08); color: #fff; font-size: 1em; width: 240px; outline: none;
-  }
+  .search-bar { display: flex; justify-content: center; margin-bottom: 20px; }
+  .search-bar input { padding: 10px 20px; border-radius: 30px; border: 1px solid rgba(255,215,0,0.3); background: rgba(255,255,255,0.08); color: #fff; font-size: 1em; width: 280px; outline: none; }
   .search-bar input::placeholder { color: #7a8fa6; }
-  .filters { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 25px; }
-  .filter-btn {
-    padding: 8px 18px; border-radius: 30px; border: 1.5px solid rgba(255,215,0,0.5);
-    background: rgba(255,215,0,0.05); color: #ffd700; cursor: pointer; font-size: 0.85em; transition: all 0.3s;
-  }
-  .filter-btn:hover, .filter-btn.active {
-    background: linear-gradient(135deg, #ffd700, #ff9500); color: #1a1a2e;
-    border-color: transparent; transform: translateY(-2px); box-shadow: 0 4px 12px rgba(255,215,0,0.3);
-  }
+  .filters { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
+  .filter-btn { padding: 8px 18px; border-radius: 30px; border: 1.5px solid rgba(255,215,0,0.5); background: rgba(255,215,0,0.05); color: #ffd700; cursor: pointer; font-size: 0.85em; transition: all 0.3s; }
+  .filter-btn:hover, .filter-btn.active { background: linear-gradient(135deg, #ffd700, #ff9500); color: #1a1a2e; border-color: transparent; transform: translateY(-2px); }
   .filter-section { text-align: center; margin-bottom: 10px; }
   .filter-label { font-size: 0.75em; color: #7a8fa6; margin-bottom: 6px; text-transform: uppercase; letter-spacing: 1px; }
   .date-group { margin-bottom: 40px; }
-  .date-label {
-    font-size: 1em; color: #ffd700; margin-bottom: 18px; padding: 10px 18px;
-    background: linear-gradient(90deg, rgba(255,215,0,0.15), transparent);
-    border-left: 4px solid #ffd700; border-radius: 0 12px 12px 0;
-  }
+  .date-label { font-size: 1em; color: #ffd700; margin-bottom: 18px; padding: 10px 18px; background: linear-gradient(90deg, rgba(255,215,0,0.15), transparent); border-left: 4px solid #ffd700; border-radius: 0 12px 12px 0; }
   .cuentos-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 22px; }
-  .cuento-card {
-    background: rgba(255,255,255,0.05); border-radius: 22px; overflow: hidden;
-    border: 1px solid rgba(255,255,255,0.1); transition: transform 0.4s, box-shadow 0.4s;
-  }
+  .cuento-card { background: rgba(255,255,255,0.05); border-radius: 22px; overflow: hidden; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.4s, box-shadow 0.4s; }
   .cuento-card:hover { transform: translateY(-6px); box-shadow: 0 18px 36px rgba(0,0,0,0.35); }
   .cuento-img { width: 100%; height: 200px; object-fit: cover; display: block; }
-  .cuento-img-placeholder {
-    width: 100%; height: 200px; display: flex; align-items: center; justify-content: center; font-size: 3.5em;
-  }
-  .lang-overlay {
-    position: absolute; top: 10px; left: 10px; padding: 4px 12px; border-radius: 20px;
-    font-size: 0.72em; font-weight: bold; backdrop-filter: blur(8px);
-  }
+  .cuento-img-placeholder { width: 100%; height: 200px; display: flex; align-items: center; justify-content: center; font-size: 3.5em; }
   .img-wrap { position: relative; }
+  .lang-overlay { position: absolute; top: 10px; left: 10px; padding: 4px 12px; border-radius: 20px; font-size: 0.72em; font-weight: bold; backdrop-filter: blur(8px); }
   .overlay-es { background: rgba(231,76,60,0.85); }
   .overlay-en { background: rgba(52,152,219,0.85); }
   .overlay-it { background: rgba(155,89,182,0.85); }
   .cuento-body { padding: 20px; }
   .cuento-titulo { font-size: 1.15em; color: #ffd700; margin-bottom: 12px; line-height: 1.4; }
   .cuento-texto { font-size: 0.9em; color: #c8d8e8; line-height: 1.8; margin-bottom: 14px; }
-  .traduccion {
-    background: rgba(52,152,219,0.1); border-radius: 10px; padding: 12px; margin-bottom: 12px;
-    font-size: 0.84em; color: #90b8d4; border-left: 3px solid rgba(52,152,219,0.5);
-  }
-  .moraleja {
-    font-size: 0.87em; color: #ffd700; font-style: italic;
-    padding: 10px 0; border-top: 1px solid rgba(255,215,0,0.2); margin-bottom: 10px;
-  }
-  .pregunta {
-    font-size: 0.87em; color: #2ecc71; background: rgba(46,204,113,0.08);
-    padding: 10px 12px; border-radius: 10px; border-left: 3px solid rgba(46,204,113,0.4); margin-bottom: 10px;
-  }
-  .palabra-nueva {
-    font-size: 0.84em; background: rgba(255,215,0,0.08);
-    padding: 10px 12px; border-radius: 10px; border-left: 3px solid rgba(255,215,0,0.4);
-    color: #ffe066;
-  }
-  .palabra-nueva strong { color: #ffd700; }
-  .audio-btn {
-    margin-top: 12px; width: 100%; padding: 8px; border-radius: 10px;
-    background: rgba(155,89,182,0.2); border: 1px solid rgba(155,89,182,0.4);
-    color: #c39bd3; cursor: pointer; font-size: 0.85em; transition: all 0.3s;
-  }
-  .audio-btn:hover { background: rgba(155,89,182,0.35); }
+  .traduccion { background: rgba(52,152,219,0.1); border-radius: 10px; padding: 12px; margin-bottom: 12px; font-size: 0.84em; color: #90b8d4; border-left: 3px solid rgba(52,152,219,0.5); }
+  .moraleja { font-size: 0.87em; color: #ffd700; font-style: italic; padding: 10px 0; border-top: 1px solid rgba(255,215,0,0.2); margin-bottom: 10px; }
+  .pregunta { font-size: 0.87em; color: #2ecc71; background: rgba(46,204,113,0.08); padding: 10px 12px; border-radius: 10px; border-left: 3px solid rgba(46,204,113,0.4); margin-bottom: 10px; }
+  .palabra-nueva { font-size: 0.84em; background: rgba(255,215,0,0.08); padding: 10px 12px; border-radius: 10px; border-left: 3px solid rgba(255,215,0,0.4); color: #ffe066; margin-bottom: 10px; }
+  .audio-btn { margin-top: 8px; width: 100%; padding: 10px; border-radius: 10px; background: rgba(155,89,182,0.2); border: 1px solid rgba(155,89,182,0.4); color: #c39bd3; cursor: pointer; font-size: 0.85em; transition: all 0.3s; }
+  .audio-btn:hover { background: rgba(155,89,182,0.4); }
   .contador { text-align: center; color: #7a8fa6; margin-bottom: 20px; font-size: 0.88em; }
   .no-results { text-align: center; color: #7a8fa6; padding: 60px; font-size: 1.1em; }
   .empty-state { text-align: center; padding: 80px 20px; }
-  .empty-state .emoji { font-size: 4em; margin-bottom: 20px; }
-  @media (max-width: 600px) {
-    .header h1 { font-size: 1.8em; }
-    .cuentos-grid { grid-template-columns: 1fr; }
-    .search-bar input { width: 100%; }
-  }
+  @media (max-width: 600px) { .header h1 { font-size: 1.8em; } .cuentos-grid { grid-template-columns: 1fr; } }
 </style>
 </head>
 <body>
@@ -105,11 +52,9 @@
   <h1>Cuentos de José Alejandro</h1>
   <p>Una nueva historia cada noche • Español · English · Italiano</p>
 </div>
-
 <div class="search-bar">
   <input type="text" id="searchInput" placeholder="🔍 Buscar cuento..." oninput="filtrar()">
 </div>
-
 <div class="filter-section">
   <div class="filter-label">Idioma</div>
   <div class="filters" id="filtros-idioma">
@@ -119,12 +64,10 @@
     <button class="filter-btn" onclick="setFiltro('lang','it',this)">🇮🇹 Italiano</button>
   </div>
 </div>
-
-<div class="filter-section" id="filtro-fecha-section" style="margin-top:8px;">
+<div class="filter-section" style="margin-top:8px;">
   <div class="filter-label">Fecha</div>
   <div class="filters" id="filtros-fecha"></div>
 </div>
-
 <div class="contador" id="contador"></div>
 <div id="biblioteca"></div>
 
@@ -138,13 +81,11 @@ const cuentos = [
   {"id": "20260403000000_2", "fecha": "03/04/2026", "lang": "it", "titulo": "Luna, Timo e Lin e il gelato della sera di vacanza", "texto": "La prima sera delle vacanze, Luna, Timo e Lin il drago azzurro passeggiavano in una piazzetta vicina al mare. L’aria sapeva di sale, di pane caldo e di notte appena arrivata. Le luci dei negozietti brillavano tranquille, e da una gelateria usciva un profumo dolce che sembrava chiamare tutti per nome. Timo si fermò subito. Disse che le vacanze cominciano davvero solo quando un gelato decide di diventare un ricordo importante. Luna scelse limone e vaniglia, colori chiari come la luna e le nuvole del mattino. Timo prese fragola e cioccolato, perché sosteneva che la serietà è bella, ma i gusti allegri sono meglio. Lin domandò un piccolo gelato alla nocciola e lo mangiò così lentamente che pareva ascoltarne la storia. Seduti su una panchina, guardarono il cielo scurirsi piano mentre la piazza diventava più calma. Lin spiegò che le vacanze non sono fatte solo di posti nuovi, ma anche di momenti piccoli che si ricordano a lungo: una passeggiata fresca, una risata, un sapore buono, qualcuno accanto. Luna leccò il suo gelato e pensò che aveva ragione. Non serviva fare tutto in una volta. Bastava esserci davvero. Quando tornarono verso casa, il mare faceva un rumore morbido e ripetuto, come se anche lui stesse raccontando una storia per far addormentare il mondo. Luna si sentì piena di calma. E decise che quel semplice gelato della sera sarebbe rimasto nel suo cuore come una piccola stella delle vacanze.", "traduccion": "Luna, Timo y Lin comen un helado en su primera noche de vacaciones y aprenden que los recuerdos más bonitos suelen ser momentos pequeños y tranquilos.", "moraleja": "Le vacanze più dolci sono fatte di momenti semplici vissuti con il cuore presente.", "pregunta": "¿Cuál sería tu sabor de helado perfecto para una noche de vacaciones?", "palabra": "🔤 gelato = helado / ice cream / gelato", "audio": ""}
 ];
 
-// Obtener fechas únicas para filtros
 const fechasUnicas = [...new Set(cuentos.map(c => c.fecha))].sort((a,b) => {
   const pa = a.split('/'), pb = b.split('/');
   return new Date(pb[2],pb[1]-1,pb[0]) - new Date(pa[2],pa[1]-1,pa[0]);
 });
 
-// Construir filtros de fecha
 const fdiv = document.getElementById('filtros-fecha');
 const btnTodas = document.createElement('button');
 btnTodas.className = 'filter-btn active';
@@ -154,8 +95,8 @@ fdiv.appendChild(btnTodas);
 fechasUnicas.forEach(f => {
   const b = document.createElement('button');
   b.className = 'filter-btn';
-  const partes = f.split('/');
-  b.textContent = partes[0]+'/'+partes[1];
+  const p = f.split('/');
+  b.textContent = p[0]+'/'+p[1];
   b.onclick = function(){ setFiltro('fecha',f,this); };
   fdiv.appendChild(b);
 });
@@ -170,20 +111,6 @@ function setFiltro(tipo, val, el) {
   filtrar();
 }
 
-function getImgUrl(c) {
-  let hash = 0;
-  const str = c.id + c.titulo;
-  for (let i = 0; i < str.length; i++) {
-    hash = ((hash << 5) - hash) + str.charCodeAt(i);
-    hash |= 0;
-  }
-  const seed = Math.abs(hash) % 1000;
-  return 'https://picsum.photos/seed/' + seed + '/800/450';
-}
-  const seed = Math.abs(hash) % 1000;
-  return 'https://picsum.photos/seed/' + seed + '/800/450';
-}
-
 function getPalette(c) {
   const seed = c.id.charCodeAt(0) + c.titulo.charCodeAt(0);
   const palettes = [
@@ -194,29 +121,22 @@ function getPalette(c) {
   return palettes[seed % palettes.length];
 }
 
+function getImgUrl(c) {
+  const seed = c.id.replace(/[^a-z0-9]/gi,'').slice(-8) || 'cuento';
+  return 'https://picsum.photos/seed/' + seed + '/800/400';
+}
+
 function renderImagen(c) {
   const p = getPalette(c);
   const emoji = c.lang === 'es' ? '🌙' : c.lang === 'en' ? '⭐' : '✨';
   const url = getImgUrl(c);
-  return '<img class="cuento-img" src="' + url + '" ' +
-    'onerror="this.style.display=\'none\';this.nextSibling.style.display=\'flex\'" ' +
-    'alt="' + (c.titulo||'') + '" loading="lazy">' +
-    '<div class="cuento-img-placeholder" style="display:none;background:linear-gradient(135deg,' + p.accent + '33,' + p.bg + ')">' + emoji + '</div>';
-}
-
-function renderPalabra(c) {
-  if (!c.palabra) return '';
-  return '<div class="palabra-nueva"><strong>📚 Palabra nueva:</strong> ' + c.palabra + '</div>';
+  const ph = '<div class="cuento-img-placeholder" style="background:linear-gradient(135deg,' + p.accent + '33,' + p.bg + ')">' + emoji + '</div>';
+  return '<img class="cuento-img" src="' + url + '" alt="" loading="lazy" onerror="this.style.display='none'">' + ph;
 }
 
 function renderAudio(c) {
   if (!c.audio) return '';
-  return '<button class="audio-btn" onclick="playAudio(\'' + c.audio + '\')">🔊 Escuchar el cuento</button>';
-}
-
-function playAudio(url) {
-  const a = new Audio(url);
-  a.play();
+  return '<button class="audio-btn" onclick="(function(){var a=new Audio('' + c.audio + '');a.play();})()">🔊 Escuchar el cuento</button>';
 }
 
 function filtrar() {
@@ -228,6 +148,7 @@ function filtrar() {
 
   const byDate = {};
   r.forEach(c => { if (!byDate[c.fecha]) byDate[c.fecha] = []; byDate[c.fecha].push(c); });
+
   const lib = document.getElementById('biblioteca');
   const fechas = Object.keys(byDate).sort((a,b) => {
     const pa = a.split('/'), pb = b.split('/');
@@ -235,7 +156,7 @@ function filtrar() {
   });
 
   if (cuentos.length === 0) {
-    lib.innerHTML = '<div class="empty-state"><div class="emoji">🌙</div><p>Los primeros cuentos llegarán esta noche...</p></div>';
+    lib.innerHTML = '<div class="empty-state"><div style="font-size:4em">🌙</div><p style="margin-top:20px">Los primeros cuentos llegarán esta noche...</p></div>';
     document.getElementById('contador').textContent = '';
     return;
   }
@@ -255,15 +176,15 @@ function filtrar() {
       '<div class="cuento-card">' +
       '<div class="img-wrap">' + renderImagen(c) +
       '<div class="lang-overlay overlay-' + c.lang + '">' +
-      (c.lang === 'es' ? '🇪🇸 Español' : c.lang === 'en' ? '🇬🇧 English' : '🇮🇹 Italiano') +
+      (c.lang==='es' ? '🇪🇸 Español' : c.lang==='en' ? '🇬🇧 English' : '🇮🇹 Italiano') +
       '</div></div>' +
       '<div class="cuento-body">' +
       '<div class="cuento-titulo">' + c.titulo + '</div>' +
       '<div class="cuento-texto">' + c.texto + '</div>' +
-      (c.traduccion ? '<div class="traduccion">📖 <strong>Traducción:</strong><br>' + c.traduccion + '</div>' : '') +
+      (c.traduccion ? '<div class="traduccion">📖 ' + c.traduccion + '</div>' : '') +
       (c.moraleja ? '<div class="moraleja">✨ ' + c.moraleja + '</div>' : '') +
       (c.pregunta ? '<div class="pregunta">🎯 ' + c.pregunta + '</div>' : '') +
-      renderPalabra(c) +
+      (c.palabra ? '<div class="palabra-nueva">📚 ' + c.palabra + '</div>' : '') +
       renderAudio(c) +
       '</div></div>'
     ).join('') +
