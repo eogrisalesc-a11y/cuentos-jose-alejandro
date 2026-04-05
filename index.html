@@ -131,7 +131,7 @@ function renderImagen(c) {
   const emoji = c.lang === 'es' ? '🌙' : c.lang === 'en' ? '⭐' : '✨';
   const url = getImgUrl(c);
   const ph = '<div class="cuento-img-placeholder" style="background:linear-gradient(135deg,' + p.accent + '33,' + p.bg + ')">' + emoji + '</div>';
-  return '<img class="cuento-img" src="' + url + '" alt="" loading="lazy" onerror="this.style.display='none'">' + ph;
+  return '<img class="cuento-img" src="' + url + '" alt="" loading="lazy" onerror="this.style.display=String.fromCharCode(110,111,110,101)">' + ph;
 }
 
 function renderAudio(c) {
