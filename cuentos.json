@@ -1,5 +1,38 @@
 [
   {
+    "id": "20260406_00_es",
+    "lang": "es",
+    "titulo": "El jardín que canta bajito",
+    "texto": "Cuando la casa quedó en silencio y las tazas de la cena ya estaban secándose, Luna abrió la ventana y oyó algo extraño: el jardín cantaba bajito. No era una canción con palabras, sino un murmullo de hojas, grillos y flores cerrándose despacio, como si cada planta supiera exactamente cuándo debía bostezar.\n\nTimo salió con una manta sobre los hombros y Lin, el dragón azul, aterrizó sin hacer ruido para no despeinar a las margaritas. Lin era tan cuidadoso de noche que hasta sus alas parecían susurrar. Los tres siguieron la música hasta el rincón donde crecían las lavandas. Allí descubrieron que el canto cambiaba según soplaba el viento: más agudo en las campanillas, más grave en el romero, más redondo en los limoneros.\n\n—Es una orquesta vegetal —dijo Timo con voz seria.\n\n—Con muy poco presupuesto —añadió Lin, mirando un caracol que avanzaba como si fuera el director.\n\nLuna se rió bajito. Luego notó que algunas flores se cerraban para guardar polen y descansar. Lin explicó que muchas plantas siguen ritmos nocturnos, igual que los animales y las personas. Dormir también es una forma de crecer.\n\nEntonces se sentaron en la hierba tibia. Escucharon sin hablar, hasta que el jardín los fue dejando suaves por dentro. Y cuando regresaron a la cama, cada uno llevaba un pedacito de canción escondido en el pecho.",
+    "traduccion": "",
+    "moraleja": "La naturaleza también descansa, y escucharla con calma nos enseña a cuidar nuestro propio sueño.",
+    "pregunta": "Si tu jardín o tu ventana cantaran bajito por la noche, ¿qué sonidos crees que escucharías?",
+    "palabra": "🔤 susurro = susurro / whisper / sussurro",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260406_00_es.mp3"
+  },
+  {
+    "id": "20260406_01_en",
+    "lang": "en",
+    "titulo": "The Garden That Sang Softly",
+    "texto": "That night, when the lamps were dim and the hallway had stopped creaking, Luna heard a soft little song outside her window. It came from the garden, low and steady, like the earth was humming to itself before sleep.\n\nShe called Timo, who arrived wearing one sock with stars and one with stripes, and soon Lin, the blue dragon, glided down from the roof with the elegance of someone trying very hard not to step on a tulip. Together they followed the sound between mint, jasmine, and beans climbing their strings.\n\nThe melody was not made by one thing alone. Crickets kept a patient rhythm. Leaves brushed together in the breeze. A half-open rose gave a tiny papery sigh. Lin tilted his head and said, “It appears the garden has formed a choir without asking permission.”\n\nTimo nodded. “A polite choir, though.”\n\nLuna noticed that some flowers were closing while others released a sweeter smell into the cool air. Lin explained that plants respond to light, temperature, and night cycles. Even quiet gardens are busy learning how to rest.\n\nSo the three friends sat under the moon and listened until their thoughts slowed down. The song never became loud. It did something better: it made the dark feel kind, and sleep feel like part of the adventure.",
+    "traduccion": "El jardín cantaba suavemente y les enseñó que hasta las plantas descansan siguiendo los ritmos de la noche.",
+    "moraleja": "Gentle attention can turn an ordinary night into a lesson about rest, nature, and wonder.",
+    "pregunta": "What small sounds around you might become beautiful if you listened very quietly?",
+    "palabra": "🔤 moonlight = luz de luna / moonlight / chiaro di luna",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260406_01_en.mp3"
+  },
+  {
+    "id": "20260406_02_it",
+    "lang": "it",
+    "titulo": "Il giardino che cantava piano",
+    "texto": "Quella sera la luna sembrava una barca d’argento appesa sopra il tetto. Luna non riusciva ancora a dormire, perché dal giardino arrivava un canto leggerissimo. Non era forte, non chiedeva attenzione: si infilava nell’aria come il profumo del gelsomino.\n\nChiamò Timo, che arrivò con i capelli spettinati e una coperta trascinata come un mantello reale, e poco dopo comparve Lin, il drago azzurro, che atterrò con tale delicatezza da far sembrare educata perfino la ghiaia. Insieme avanzarono tra i cespugli, mentre il canto cambiava passo a ogni angolo.\n\nVicino al fico sentirono un tono profondo, sotto le campanelle un tintinnio fine, e accanto alla salvia un fruscio quasi saggio. Timo guardò attorno con grande importanza.\n\n—Forse il giardino sta provando per un concerto segreto.\n\n—Spero solo che non mi chiedano di suonare il triangolo —mormorò Lin—, ho le zampe poco musicali.\n\nLuna sorrise, poi osservò che molti fiori si chiudevano lentamente. Lin spiegò che di notte le piante conservano energia, proteggono il polline e seguono il loro ritmo naturale. Il buio, disse, non è soltanto fine del giorno: è anche il laboratorio tranquillo della crescita.\n\nAllora si sedettero tutti e tre sull’erba fresca. Ascoltarono finché il canto del giardino diventò quasi un pensiero felice. E quando tornarono a letto, il sonno li trovò senza fatica.",
+    "traduccion": "El jardín cantaba despacio y, entre flores y brisa, les mostró que la noche también ayuda a crecer.",
+    "moraleja": "La calma de la noche guarda trabajo invisible: descansar también forma parte de aprender y florecer.",
+    "pregunta": "Se il tuo giardino avesse un concerto notturno, quale strumento credi suonerebbe il vento?",
+    "palabra": "🔤 fiore = flor / flower / fiore",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260406_02_it.mp3"
+  },
+  {
     "id": "20260404000000_0",
     "fecha": "04/04/2026",
     "lang": "es",
