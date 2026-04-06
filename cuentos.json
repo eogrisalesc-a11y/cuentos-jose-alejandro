@@ -8,7 +8,8 @@
     "moraleja": "La naturaleza también descansa, y escucharla con calma nos enseña a cuidar nuestro propio sueño.",
     "pregunta": "Si tu jardín o tu ventana cantaran bajito por la noche, ¿qué sonidos crees que escucharías?",
     "palabra": "🔤 susurro = susurro / whisper / sussurro",
-    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260406_00_es.mp3"
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260406_00_es.mp3",
+    "img_url": ""
   },
   {
     "id": "20260406_01_en",
@@ -19,7 +20,8 @@
     "moraleja": "Gentle attention can turn an ordinary night into a lesson about rest, nature, and wonder.",
     "pregunta": "What small sounds around you might become beautiful if you listened very quietly?",
     "palabra": "🔤 moonlight = luz de luna / moonlight / chiaro di luna",
-    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260406_01_en.mp3"
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260406_01_en.mp3",
+    "img_url": ""
   },
   {
     "id": "20260406_02_it",
@@ -30,7 +32,8 @@
     "moraleja": "La calma de la noche guarda trabajo invisible: descansar también forma parte de aprender y florecer.",
     "pregunta": "Se il tuo giardino avesse un concerto notturno, quale strumento credi suonerebbe il vento?",
     "palabra": "🔤 fiore = flor / flower / fiore",
-    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260406_02_it.mp3"
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260406_02_it.mp3",
+    "img_url": ""
   },
   {
     "id": "20260404000000_0",
@@ -42,7 +45,8 @@
     "moraleja": "Buenas noches: preguntar con calma también ilumina.",
     "pregunta": "José Alejandro, si tú entraras a esa biblioteca, ¿qué pregunta tranquila le harías al primer libro?",
     "palabra": "🔤 sendero = camino pequeño / path / sentiero",
-    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260404_00_es.mp3"
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260404_00_es.mp3",
+    "img_url": ""
   },
   {
     "id": "20260404000000_1",
@@ -54,7 +58,8 @@
     "moraleja": "Buenas noches: la calma también tiene su propio reloj.",
     "pregunta": "José Alejandro, si escucharas un minuto completo de la noche, ¿qué sonido crees que oirías primero?",
     "palabra": "🔤 whisper = susurro / whisper / sussurro",
-    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260404_01_en.mp3"
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260404_01_en.mp3",
+    "img_url": ""
   },
   {
     "id": "20260404000000_2",
@@ -66,7 +71,8 @@
     "moraleja": "Buenas noches: la paciencia hornea sueños suaves.",
     "pregunta": "José Alejandro, si pudieras darle forma a un pan mágico, ¿lo harías de luna, de estrella o de dragón azul?",
     "palabra": "🔤 lievito = levadura / yeast / lievito",
-    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260404_02_it.mp3"
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260404_02_it.mp3",
+    "img_url": ""
   },
   {
     "id": "20260403000000_0",
@@ -78,7 +84,8 @@
     "moraleja": "Prepararse con calma hace que lo nuevo se sienta más emocionante y menos difícil.",
     "pregunta": "¿Qué tres cosas llevarías tú en una maleta para sentirte feliz y tranquilo?",
     "palabra": "🔤 maleta = bolso o caja para viajar / suitcase / valigia",
-    "audio": ""
+    "audio": "",
+    "img_url": ""
   },
   {
     "id": "20260403000000_1",
@@ -90,7 +97,8 @@
     "moraleja": "When we pay attention to small wonders, the journey becomes part of the joy.",
     "pregunta": "What would you like to watch on a long trip: clouds, trees, stars, or something else?",
     "palabra": "🔤 journey = viaje / journey / viaggio",
-    "audio": ""
+    "audio": "",
+    "img_url": ""
   },
   {
     "id": "20260403000000_2",
@@ -102,6 +110,7 @@
     "moraleja": "Le vacanze più dolci sono fatte di momenti semplici vissuti con il cuore presente.",
     "pregunta": "¿Cuál sería tu sabor de helado perfecto para una noche de vacaciones?",
     "palabra": "🔤 gelato = helado / ice cream / gelato",
-    "audio": ""
+    "audio": "",
+    "img_url": ""
   }
 ]
