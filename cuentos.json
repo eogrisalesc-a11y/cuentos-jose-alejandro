@@ -9,7 +9,8 @@
     "pregunta": "Si tu jardín o tu ventana cantaran bajito por la noche, ¿qué sonidos crees que escucharías?",
     "palabra": "🔤 susurro = susurro / whisper / sussurro",
     "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260406_00_es.mp3",
-    "img_url": ""
+    "img_url": "",
+    "fecha": "06/04/2026"
   },
   {
     "id": "20260406_01_en",
@@ -21,7 +22,8 @@
     "pregunta": "What small sounds around you might become beautiful if you listened very quietly?",
     "palabra": "🔤 moonlight = luz de luna / moonlight / chiaro di luna",
     "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260406_01_en.mp3",
-    "img_url": ""
+    "img_url": "",
+    "fecha": "06/04/2026"
   },
   {
     "id": "20260406_02_it",
@@ -33,7 +35,8 @@
     "pregunta": "Se il tuo giardino avesse un concerto notturno, quale strumento credi suonerebbe il vento?",
     "palabra": "🔤 fiore = flor / flower / fiore",
     "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260406_02_it.mp3",
-    "img_url": ""
+    "img_url": "",
+    "fecha": "06/04/2026"
   },
   {
     "id": "20260404_00_es",
