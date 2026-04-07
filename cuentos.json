@@ -9,7 +9,8 @@
     "pregunta": "¿Qué camino de luz te gustaría dibujar si fueras una luciérnaga?",
     "palabra": "🔤 luciérnaga = firefly / lucciola",
     "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260407_00_es.mp3",
-    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260407_00_es.png"
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260407_00_es.png",
+    "fecha": "07/04/2026"
   },
   {
     "id": "20260407_01_en",
@@ -21,7 +22,8 @@
     "pregunta": "If you were a firefly, what message would you write in the sky?",
     "palabra": "🔤 firefly = luciérnaga / lucciola",
     "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260407_01_en.mp3",
-    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260407_01_en.png"
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260407_01_en.png",
+    "fecha": "07/04/2026"
   },
   {
     "id": "20260407_02_it",
@@ -33,7 +35,8 @@
     "pregunta": "Se fossi una lucciola, che disegno faresti nel cielo?",
     "palabra": "🔤 lucciola = luciérnaga / firefly",
     "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260407_02_it.mp3",
-    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260407_02_it.png"
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260407_02_it.png",
+    "fecha": "07/04/2026"
   },
   {
     "id": "20260406_00_es",

@@ -215,11 +215,20 @@ function crearTarjeta(c) {
     body.appendChild(pal);
   }
   if (c.audio) {
-    const btn = document.createElement("button");
-    btn.className = "audio-btn";
-    btn.textContent = "🔊 Escuchar el cuento";
-    btn.onclick = function() { playAudio(this, c.audio); };
-    body.appendChild(btn);
+    const audioWrap = document.createElement("div");
+    audioWrap.className = "audio-wrap";
+    audioWrap.style.cssText = "margin-top:10px;";
+    const label = document.createElement("div");
+    label.textContent = "🔊 Escuchar el cuento";
+    label.style.cssText = "font-size:0.8em;color:#c39bd3;margin-bottom:4px;";
+    const au = document.createElement("audio");
+    au.controls = true;
+    au.preload = "none";
+    au.src = c.audio;
+    au.style.cssText = "width:100%;height:36px;";
+    audioWrap.appendChild(label);
+    audioWrap.appendChild(au);
+    body.appendChild(audioWrap);
   }
 
   card.appendChild(body);
