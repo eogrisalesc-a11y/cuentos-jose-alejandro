@@ -1,5 +1,41 @@
 [
   {
+    "id": "20260407_00_es",
+    "lang": "es",
+    "titulo": "El Camino de Luz de las Luciérnagas",
+    "texto": "Luna miraba el cielo oscuro desde su ventana cuando vio algo mágico: cientos de luciérnagas volaban dibujando formas brillantes en el aire. 'Timo, Lin, miren esto', susurró emocionada.\n\nEl dragón azul Lin observó con sus ojos sabios: 'Las luciérnagas están haciendo un mapa para los animales perdidos del bosque'. Timo, siempre curioso, preguntó: '¿Podemos ayudarlas?'\n\nJuntos siguieron el rastro luminoso. Las luciérnagas dibujaban flechas de luz dorada que guiaban a un conejito asustado de regreso a su madriguera. Luego trazaron un camino circular para que una familia de erizos encontrara su hogar.\n\nLuna se dio cuenta de algo hermoso: 'Cada luciérnaga brilla poquito, pero juntas crean caminos enormes'. Lin asintió: 'Como ustedes tres, pequeños pero poderosos cuando están unidos'.\n\nAl final de la noche, las luciérnagas dibujaron tres estrellas brillantes en el cielo, una por cada amigo, como forma de decir gracias por cuidar el bosque junto a ellas.",
+    "traduccion": "",
+    "moraleja": "Juntos brillamos más fuerte 🌟",
+    "pregunta": "¿Qué camino de luz te gustaría dibujar si fueras una luciérnaga?",
+    "palabra": "🔤 luciérnaga = firefly / lucciola",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260407_00_es.mp3",
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260407_00_es.png"
+  },
+  {
+    "id": "20260407_01_en",
+    "lang": "en",
+    "titulo": "The Fireflies' Secret Messages",
+    "texto": "Timo couldn't sleep. Through his window, he saw tiny lights dancing in patterns. 'Luna! Lin! The fireflies are writing something!'\n\nLin the blue dragon flew closer to read the glowing messages. 'They're drawing maps,' he explained softly. 'See? That spiral shows where the night flowers bloom. That zigzag points to fresh water.'\n\nLuna noticed something special: 'They're not just making pretty lights—they're helping!' A lost owl followed the fireflies' arrow-shaped trail back to her tree. A sleepy hedgehog used their dotted line to find the safest path home.\n\n'Can we learn their language?' asked Timo. The fireflies seemed to hear him. They flew in a gentle wave pattern that spelled one word in light: F-R-I-E-N-D-S.\n\nThat night, Luna, Timo, and Lin understood that even the smallest creatures can light up the darkness and show others the way home, one tiny spark at a time.",
+    "traduccion": "Timo no podía dormir y vio luciérnagas escribiendo mensajes luminosos. Lin descubrió que hacían mapas para ayudar a los animales perdidos. Las luciérnagas escribieron 'AMIGOS' con luz, enseñando que hasta los más pequeños pueden iluminar el camino.",
+    "moraleja": "Pequeñas luces, grandes ayudas ✨",
+    "pregunta": "If you were a firefly, what message would you write in the sky?",
+    "palabra": "🔤 firefly = luciérnaga / lucciola",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260407_01_en.mp3",
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260407_01_en.png"
+  },
+  {
+    "id": "20260407_02_it",
+    "lang": "it",
+    "titulo": "Le Lucciole che Dipingevano Sentieri",
+    "texto": "Lin, il drago azzurro, osservava il bosco addormentato quando vide qualcosa di straordinario. 'Luna, Timo, guardate! Le lucciole stanno dipingendo!'\n\nCentinaia di lucciole volavano insieme creando disegni luminosi nell'aria scura. Una linea dorata guidava un piccolo scoiattolo verso casa. Un cerchio brillante mostrava dove crescevano le bacche più dolci.\n\n'Sono come stelle che lavorano insieme,' disse Luna con meraviglia. Timo contò le lucciole: 'Sono tantissime! Ma nessuna brilla da sola—fanno tutto in gruppo.'\n\nLin sorrise con saggezza: 'Proprio come voi tre. Da soli siete piccoli, ma insieme illuminate il mondo.' Le lucciole sembrarono capire e disegnarono tre cuori luminosi nel cielo notturno.\n\nQuella notte, i tre amici impararono che la vera magia non sta nel brillare forte da soli, ma nel creare qualcosa di bello insieme agli altri, come le lucciole che dipingono sentieri di luce per chi ne ha bisogno.",
+    "traduccion": "Lin el dragón vio lucciolas dibujando caminos luminosos. Trabajaban juntas para guiar animales perdidos y crear belleza. Los amigos aprendieron que brillar juntos es más mágico que brillar solos.",
+    "moraleja": "Insieme si illumina di più 💫",
+    "pregunta": "Se fossi una lucciola, che disegno faresti nel cielo?",
+    "palabra": "🔤 lucciola = luciérnaga / firefly",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260407_02_it.mp3",
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260407_02_it.png"
+  },
+  {
     "id": "20260406_00_es",
     "lang": "es",
     "titulo": "El jardín que canta bajito",
