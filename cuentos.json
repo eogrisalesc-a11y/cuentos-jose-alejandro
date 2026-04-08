@@ -1233,7 +1233,37 @@
         "t1": 100.38
       }
     ],
-    "saga": "Constructores de Puentes (Gnomo Bartolo)"
+    "saga": "Constructores de Puentes (Gnomo Bartolo)",
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_00_es_s1.png",
+        "t0": 0.0,
+        "t1": 25.2,
+        "prompt": "Luna the little rabbit, Timo the owl with glasses, and Lin the small blue dragon running happily towards a river on a sunny morning, discovering a broken wooden bridge in the middle with sad expressions"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_00_es_s2.png",
+        "t0": 25.2,
+        "t1": 50.4,
+        "prompt": "Bartolo the elderly gnome with white beard, green pointed hat and tool belt full of tools appears before the three friends, holding a rolled paper and looking wise and friendly"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_00_es_s3.png",
+        "t0": 50.4,
+        "t1": 75.6,
+        "prompt": "Timo the owl flying and counting steps between rocks while Bartolo the gnome points and teaches, Luna the rabbit and Lin the blue dragon watching attentively from the riverbank"
+      },
+      {
+        "i": 4,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_00_es_s4.png",
+        "t0": 75.6,
+        "t1": 100.81,
+        "prompt": "Luna, Timo and Lin observing the river water carefully, seeing silvery fish swimming, round stones on the riverbed and branches floating with the current, Bartolo standing nearby with a satisfied smile"
+      }
+    ]
   },
   {
     "id": "20260408_01_en",
@@ -2689,7 +2719,30 @@
         "t1": 128.82
       }
     ],
-    "saga": "Map-Making with Eleanor"
+    "saga": "Map-Making with Eleanor",
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_01_en_s1.png",
+        "t0": 0.0,
+        "t1": 45.22,
+        "prompt": "Luna the bunny, Timo the owl wearing small glasses, and Lin the baby blue dragon blowing colorful bubbles play hide-and-seek near a massive oak tree, then look up to see Eleanor the fairy with silver wings and a backpack full of rolled papers floating above them, singing softly in a sunny forest clearing."
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_01_en_s2.png",
+        "t0": 45.22,
+        "t1": 90.44,
+        "prompt": "Eleanor the silver-winged fairy unrolls a beautiful map covered with drawings of trees, rivers, mountains and tiny stars, showing it to Luna, Timo and Lin who gather around with wonder, while the forest around them reveals magical details: umbrella-shaped mushrooms, a dewdrop-covered spider web, and three different types of colorful flowers."
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_01_en_s3.png",
+        "t0": 90.44,
+        "t1": 129.2,
+        "prompt": "Eleanor hands blank papers and charcoal pencils to Luna, Timo and Lin, then the three friends walk slowly home through the forest path toward the stream, looking at everything with curious eyes as if seeing the world for the first time, counting trees and noticing their different shapes."
+      }
+    ]
   },
   {
     "id": "20260408_02_it",
@@ -3985,6 +4038,29 @@
         "t1": 118.8
       }
     ],
-    "saga": "Cucina Magica con Rosalinda"
+    "saga": "Cucina Magica con Rosalinda",
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_02_it_s1.png",
+        "t0": 0.0,
+        "t1": 39.71,
+        "prompt": "Luna the little rabbit, Timo the small owl wearing tiny glasses, and Lin the baby blue dragon blowing colorful bubbles walk through a spring forest toward a round cottage covered in purple and yellow flowers with silver smoke coming from its window."
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_02_it_s2.png",
+        "t0": 39.71,
+        "t1": 80.61,
+        "prompt": "Rosalinda the kind witch with a blue pointed hat and star-patterned apron welcomes the three friends into her magical kitchen filled with colorful jars, wooden spoons, and singing pots hanging on the walls."
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_02_it_s3.png",
+        "t0": 80.61,
+        "t1": 120.32,
+        "prompt": "Rosalinda and the three friends gather around a crystal teapot glowing with golden starlight as Luna whispers her gentle wish, chamomile flowers floating inside the sparkling magical tea."
+      }
+    ]
   }
 ]
