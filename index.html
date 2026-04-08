@@ -666,12 +666,29 @@ function buildKaraokeText(textoEl, c) {
     return null;
   }
 
+  // Si Whisper capturó más words que tokens del texto, probablemente incluyó título
+  // o "Fin.". Detectar offset buscando el primer word de Whisper que matchee con la
+  // primera palabra significativa del texto (normalizada).
+  const normalizar = s => (s || "").toLowerCase().replace(/[^a-záéíóúñü]/gi, "");
+  let offset = 0;
+  if (wCount > tCount) {
+    const firstTokNorm = normalizar(allTokens[0].text);
+    for (let i = 0; i < Math.min(wCount - tCount + 5, wCount); i++) {
+      if (normalizar(c.words[i].w) === firstTokNorm ||
+          normalizar(c.words[i].w).startsWith(firstTokNorm.slice(0, 4))) {
+        offset = i;
+        break;
+      }
+    }
+  }
+  const usableWCount = wCount - offset;
+
   textoEl.innerHTML = "";
   allTokens.forEach((tok, i) => {
     const span = document.createElement("span");
     span.className = "word";
-    // Mapear índice del token → word de Whisper proporcionalmente
-    const wIdx = Math.min(Math.floor(i * wCount / tCount), wCount - 1);
+    // Mapear índice del token → word de Whisper (con offset corregido)
+    const wIdx = Math.min(offset + Math.floor(i * usableWCount / tCount), wCount - 1);
     const wd = c.words[wIdx];
     span.dataset.idx = i;
     span.dataset.t0 = wd.t0;
