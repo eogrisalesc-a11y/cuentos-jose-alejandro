@@ -637,21 +637,55 @@ function setFiltro(tipo, val, el) {
 }
 
 // === KARAOKE (sin auto-scroll en móvil) ===
+// Usa el TEXTO ORIGINAL con puntuación perfecta para el display,
+// y solo los timestamps de Whisper para sincronizar el highlight.
+// Whisper devuelve palabras sin puntuación y a veces con errores de transcripción;
+// el texto original del JSON es la fuente de verdad visual.
 function buildKaraokeText(textoEl, c) {
   if (!c.words || !c.words.length) {
     textoEl.textContent = c.texto;
     return null;
   }
+
+  // Tokenizar el texto original preservando puntuación y párrafos
+  const texto = c.texto || "";
+  const lines = texto.split(/\n\n+/);
+  const allTokens = [];
+  lines.forEach((line, li) => {
+    const tokens = line.trim().split(/\s+/).filter(Boolean);
+    tokens.forEach(t => allTokens.push({ text: t, newPara: false }));
+    if (li < lines.length - 1 && allTokens.length > 0) {
+      allTokens[allTokens.length - 1].newPara = true;
+    }
+  });
+
+  const wCount = c.words.length;
+  const tCount = allTokens.length;
+  if (tCount === 0) {
+    textoEl.textContent = texto;
+    return null;
+  }
+
   textoEl.innerHTML = "";
-  c.words.forEach((wd, i) => {
+  allTokens.forEach((tok, i) => {
     const span = document.createElement("span");
     span.className = "word";
+    // Mapear índice del token → word de Whisper proporcionalmente
+    const wIdx = Math.min(Math.floor(i * wCount / tCount), wCount - 1);
+    const wd = c.words[wIdx];
     span.dataset.idx = i;
     span.dataset.t0 = wd.t0;
     span.dataset.t1 = wd.t1;
-    span.textContent = wd.w;
+    span.textContent = tok.text;
     textoEl.appendChild(span);
-    if (i < c.words.length - 1) textoEl.appendChild(document.createTextNode(" "));
+    if (i < allTokens.length - 1) {
+      if (tok.newPara) {
+        textoEl.appendChild(document.createElement("br"));
+        textoEl.appendChild(document.createElement("br"));
+      } else {
+        textoEl.appendChild(document.createTextNode(" "));
+      }
+    }
   });
   return textoEl.querySelectorAll(".word");
 }
