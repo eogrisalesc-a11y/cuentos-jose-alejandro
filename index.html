@@ -78,10 +78,23 @@ let cuentos = [];
 let filtros = { lang: "todos", fecha: "todas" };
 let audioActual = null;
 
+// Deriva fecha dd/mm/yyyy desde el id del cuento (formato YYYYMMDD_NN_lang)
+function deriveFechaFromId(id) {
+  const m = (id || "").match(/^(\d{4})(\d{2})(\d{2})_\d+_(es|en|it)$/);
+  return m ? (m[3] + "/" + m[2] + "/" + m[1]) : "";
+}
+
 fetch("cuentos.json?" + Date.now())
   .then(r => r.json())
   .then(data => {
     cuentos = data;
+    // Defensa: si algún cuento no tiene fecha válida, derivarla del id
+    cuentos.forEach(c => {
+      if (!c.fecha || !/^\d{2}\/\d{2}\/\d{4}$/.test(c.fecha)) {
+        const derived = deriveFechaFromId(c.id);
+        if (derived) c.fecha = derived;
+      }
+    });
     iniciarFiltrosFecha();
     filtrar();
   })

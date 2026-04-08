@@ -1,5 +1,31 @@
 [
   {
+    "id": "20260408_01_es",
+    "fecha": "08/04/2026",
+    "lang": "es",
+    "titulo": "Capítulo 1 — La luz del bosque antiguo",
+    "texto": "Luna saltaba entre las flores cuando vio algo extraño: una luz dorada que flotaba entre los árboles del bosque antiguo.\n\n—¡Timo! ¡Lin! —llamó emocionada—. ¡Hay una luz misteriosa!\n\nTimo, el búho sabio con sus gafas redondas, observó con curiosidad. —Nunca había visto algo así en todos mis años.\n\nLin, la zorra astuta, olfateó el aire. —Huele a magia antigua. Sigámosla.\n\nLos tres amigos caminaron por el sendero oscuro. La luz dorada los guiaba suavemente, bailando entre las sombras hasta detenerse frente al roble más viejo del bosque.\n\n—Miren —susurró Luna, señalando el tronco.\n\nEn la corteza había una puerta diminuta que nunca habían visto. Tallado en la madera brillaba un símbolo: una luna, un sol y una estrella entrelazados.\n\n—Es hermoso —dijo Timo, acercándose.\n\nCuando sus alas rozaron el símbolo, la puerta crujió y se abrió lentamente. Una escalera de piedra descendía hacia la oscuridad, iluminada por la misma luz dorada que los había traído hasta allí.\n\nLuna sintió un cosquilleo en su barriguita. Lin movió la cola nerviosa. Timo ajustó sus gafas.\n\n—¿Bajamos? —preguntó Luna.\n\nLos tres se miraron. En sus ojos brillaba la misma pregunta: ¿qué secreto guardaba el bosque antiguo bajo sus raíces?\n\nLa aventura estaba por comenzar.",
+    "traduccion": "",
+    "moraleja": "Las aventuras más mágicas comienzan cuando seguimos nuestra curiosidad con amigos valientes.",
+    "pregunta": "Si encontraras una puerta secreta en un árbol, ¿la abrirías o llamarías primero a tus amigos?",
+    "palabra": "🔤 luz = luz (es) / light (en) / luce (it)",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260408_01_es.mp3",
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_01_es.png"
+  },
+  {
+    "id": "20260408_02_en",
+    "fecha": "08/04/2026",
+    "lang": "en",
+    "titulo": "Chapter 1 — The Ancient Forest's Light",
+    "texto": "Luna was hopping through the meadow when she spotted something strange—a golden light dancing between the trees of the ancient forest.\n\n\"Timo! Lin!\" she called out. \"Come quick! There's a mysterious light!\"\n\nTimo, the wise owl with round spectacles, peered carefully. \"In all my years, I've never seen anything like it.\"\n\nLin, the clever fox, sniffed the evening air. \"Smells like old magic. Let's follow it.\"\n\nThe three friends walked along the shadowy path. The golden light floated ahead, weaving through darkness until it stopped at the oldest oak tree in the forest.\n\n\"Look,\" Luna whispered, pointing at the trunk.\n\nThere, hidden in the bark, was a tiny door they'd never noticed before. Carved into the wood was a glowing symbol—a moon, a sun, and a star woven together.\n\n\"It's beautiful,\" Timo said, stepping closer.\n\nAs his wing brushed the symbol, the door creaked open slowly. Stone stairs spiraled down into darkness, lit by the same golden light that had led them here.\n\nLuna felt butterflies in her tummy. Lin's tail twitched nervously. Timo adjusted his spectacles.\n\n\"Should we go down?\" Luna asked softly.\n\nThe three friends looked at each other. In their eyes shone the same question: what secret was the ancient forest hiding beneath its roots?\n\nTheir adventure was about to begin.",
+    "traduccion": "Luna descubre una luz dorada misteriosa en el bosque antiguo. Con Timo y Lin, encuentran una puerta secreta en un viejo roble con un símbolo mágico. La puerta se abre revelando escaleras que bajan.",
+    "moraleja": "The greatest adventures begin when we follow our curiosity with brave friends by our side.",
+    "pregunta": "If you found a secret door in a tree, would you open it right away or call your friends first?",
+    "palabra": "🔤 light = luz (es) / light (en) / luce (it)",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260408_02_en.mp3",
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_02_en.png"
+  },
+  {
     "id": "20260408_00_it",
     "fecha": "08/04/2026",
     "lang": "it",
