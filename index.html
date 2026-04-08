@@ -4,81 +4,359 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>🌙 Cuentos de José Alejandro</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;500;600;700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
+  :root {
+    --bg-1: #fdf6ec;
+    --bg-2: #f3e5d4;
+    --bg-3: #e8d4f3;
+    --ink: #2d1b3d;
+    --ink-soft: #5a4566;
+    --primary: #6b4ea3;
+    --primary-soft: #9d7dc7;
+    --accent: #d4a35e;
+    --accent-soft: #e8c896;
+    --es: #c75c5c;
+    --en: #4a90c2;
+    --it: #6b8e4e;
+    --card-bg: #ffffff;
+    --shadow: 0 10px 40px rgba(45, 27, 61, 0.08);
+    --shadow-hover: 0 20px 60px rgba(45, 27, 61, 0.15);
+  }
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: Georgia, serif; background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%); min-height: 100vh; padding: 20px; color: #fff; }
-  .header { text-align: center; padding: 40px 20px 30px; margin-bottom: 30px; }
-  .header h1 { font-size: 2.4em; background: linear-gradient(135deg, #ffd700, #ff9500); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 10px; }
-  .header p { color: #b0c4de; font-size: 1em; }
-  .stars { font-size: 2em; margin: 10px 0; letter-spacing: 8px; }
-  .search-bar { display: flex; justify-content: center; margin-bottom: 20px; }
-  .search-bar input { padding: 10px 20px; border-radius: 30px; border: 1px solid rgba(255,215,0,0.3); background: rgba(255,255,255,0.08); color: #fff; font-size: 1em; width: 280px; outline: none; }
-  .search-bar input::placeholder { color: #7a8fa6; }
-  .filters { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
-  .filter-btn { padding: 8px 18px; border-radius: 30px; border: 1.5px solid rgba(255,215,0,0.5); background: rgba(255,215,0,0.05); color: #ffd700; cursor: pointer; font-size: 0.85em; transition: all 0.3s; }
-  .filter-btn:hover, .filter-btn.active { background: linear-gradient(135deg, #ffd700, #ff9500); color: #1a1a2e; border-color: transparent; transform: translateY(-2px); }
-  .filter-section { text-align: center; margin-bottom: 10px; }
-  .filter-label { font-size: 0.75em; color: #7a8fa6; margin-bottom: 6px; text-transform: uppercase; letter-spacing: 1px; }
-  .date-group { margin-bottom: 40px; }
-  .date-label { font-size: 1em; color: #ffd700; margin-bottom: 18px; padding: 10px 18px; background: linear-gradient(90deg, rgba(255,215,0,0.15), transparent); border-left: 4px solid #ffd700; border-radius: 0 12px 12px 0; }
-  .cuentos-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 22px; }
-  .cuento-card { background: rgba(255,255,255,0.05); border-radius: 22px; overflow: hidden; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.4s, box-shadow 0.4s; }
-  .cuento-card:hover { transform: translateY(-6px); box-shadow: 0 18px 36px rgba(0,0,0,0.35); }
-  .cuento-img { width: 100%; height: 200px; object-fit: cover; display: block; }
-  .cuento-img-placeholder { width: 100%; height: 200px; display: flex; align-items: center; justify-content: center; font-size: 3.5em; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    background: linear-gradient(135deg, var(--bg-1) 0%, var(--bg-2) 50%, var(--bg-3) 100%);
+    background-attachment: fixed;
+    min-height: 100vh;
+    padding: 24px 16px;
+    color: var(--ink);
+    line-height: 1.6;
+  }
+  .container { max-width: 1240px; margin: 0 auto; }
+
+  /* HEADER */
+  .header { text-align: center; padding: 50px 20px 40px; }
+  .header .moons { font-size: 2.4em; letter-spacing: 14px; margin-bottom: 8px; }
+  .header h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+    font-size: clamp(2.2em, 5vw, 3.6em);
+    color: var(--ink);
+    margin-bottom: 12px;
+    letter-spacing: -0.02em;
+  }
+  .header h1 span {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .header .subtitle {
+    color: var(--ink-soft);
+    font-size: 1.05em;
+    font-weight: 400;
+  }
+  .header .subtitle .dot { color: var(--accent); margin: 0 8px; }
+
+  /* SEARCH */
+  .search-bar { display: flex; justify-content: center; margin: 30px 0 20px; }
+  .search-bar input {
+    padding: 14px 24px;
+    border-radius: 32px;
+    border: 1.5px solid rgba(107, 78, 163, 0.2);
+    background: var(--card-bg);
+    color: var(--ink);
+    font-size: 1em;
+    font-family: inherit;
+    width: min(420px, 90%);
+    outline: none;
+    box-shadow: var(--shadow);
+    transition: all 0.3s;
+  }
+  .search-bar input:focus {
+    border-color: var(--primary);
+    box-shadow: 0 0 0 4px rgba(107, 78, 163, 0.12);
+  }
+  .search-bar input::placeholder { color: var(--ink-soft); }
+
+  /* FILTERS */
+  .filter-section { text-align: center; margin: 16px 0; }
+  .filter-label {
+    font-size: 0.72em;
+    color: var(--ink-soft);
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-weight: 600;
+  }
+  .filters {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .filter-btn {
+    padding: 10px 20px;
+    border-radius: 32px;
+    border: 1.5px solid rgba(107, 78, 163, 0.25);
+    background: rgba(255, 255, 255, 0.7);
+    color: var(--primary);
+    cursor: pointer;
+    font-size: 0.85em;
+    font-family: inherit;
+    font-weight: 500;
+    transition: all 0.3s;
+  }
+  .filter-btn:hover {
+    background: rgba(107, 78, 163, 0.08);
+    transform: translateY(-1px);
+  }
+  .filter-btn.active {
+    background: linear-gradient(135deg, var(--primary), var(--primary-soft));
+    color: white;
+    border-color: transparent;
+    box-shadow: 0 4px 14px rgba(107, 78, 163, 0.3);
+  }
+
+  /* CONTADOR */
+  .contador {
+    text-align: center;
+    color: var(--ink-soft);
+    margin: 24px 0;
+    font-size: 0.9em;
+    font-style: italic;
+  }
+
+  /* DATE GROUPS */
+  .date-group { margin-bottom: 50px; }
+  .date-label {
+    font-family: 'Fraunces', serif;
+    font-size: 1.4em;
+    font-weight: 600;
+    color: var(--ink);
+    margin-bottom: 24px;
+    padding: 14px 24px;
+    background: linear-gradient(90deg, rgba(212, 163, 94, 0.18), transparent);
+    border-left: 5px solid var(--accent);
+    border-radius: 0 16px 16px 0;
+    display: inline-block;
+  }
+
+  /* GRID */
+  .cuentos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    gap: 28px;
+  }
+
+  /* CARD */
+  .cuento-card {
+    background: var(--card-bg);
+    border-radius: 24px;
+    overflow: hidden;
+    border: 1px solid rgba(107, 78, 163, 0.08);
+    box-shadow: var(--shadow);
+    transition: transform 0.4s cubic-bezier(0.2, 0.9, 0.3, 1.2), box-shadow 0.4s;
+    display: flex;
+    flex-direction: column;
+  }
+  .cuento-card:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-hover);
+  }
   .img-wrap { position: relative; }
-  .lang-overlay { position: absolute; top: 10px; left: 10px; padding: 4px 12px; border-radius: 20px; font-size: 0.72em; font-weight: bold; backdrop-filter: blur(8px); }
-  .overlay-es { background: rgba(231,76,60,0.85); }
-  .overlay-en { background: rgba(52,152,219,0.85); }
-  .overlay-it { background: rgba(155,89,182,0.85); }
-  .cuento-body { padding: 20px; }
-  .cuento-titulo { font-size: 1.15em; color: #ffd700; margin-bottom: 12px; line-height: 1.4; }
-  .cuento-texto { font-size: 0.9em; color: #c8d8e8; line-height: 1.8; margin-bottom: 14px; }
-  .traduccion { background: rgba(52,152,219,0.1); border-radius: 10px; padding: 12px; margin-bottom: 12px; font-size: 0.84em; color: #90b8d4; border-left: 3px solid rgba(52,152,219,0.5); }
-  .moraleja { font-size: 0.87em; color: #ffd700; font-style: italic; padding: 10px 0; border-top: 1px solid rgba(255,215,0,0.2); margin-bottom: 10px; }
-  .pregunta { font-size: 0.87em; color: #2ecc71; background: rgba(46,204,113,0.08); padding: 10px 12px; border-radius: 10px; border-left: 3px solid rgba(46,204,113,0.4); margin-bottom: 10px; }
-  .palabra-nueva { font-size: 0.84em; background: rgba(255,215,0,0.08); padding: 10px 12px; border-radius: 10px; border-left: 3px solid rgba(255,215,0,0.4); color: #ffe066; margin-bottom: 10px; }
-  .audio-btn { margin-top: 8px; width: 100%; padding: 10px; border-radius: 10px; background: rgba(155,89,182,0.2); border: 1px solid rgba(155,89,182,0.4); color: #c39bd3; cursor: pointer; font-size: 0.85em; transition: all 0.3s; }
-  .audio-btn:hover { background: rgba(155,89,182,0.4); }
-  .audio-btn.playing { background: rgba(155,89,182,0.6); }
-  .contador { text-align: center; color: #7a8fa6; margin-bottom: 20px; font-size: 0.88em; }
-  .no-results { text-align: center; color: #7a8fa6; padding: 60px; font-size: 1.1em; }
-  .empty-state { text-align: center; padding: 80px 20px; }
-  .loading { text-align: center; padding: 60px; color: #7a8fa6; font-size: 1.1em; }
-  @media (max-width: 600px) { .header h1 { font-size: 1.8em; } .cuentos-grid { grid-template-columns: 1fr; } }
+  .cuento-img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    display: block;
+  }
+  .cuento-img-placeholder {
+    width: 100%;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4em;
+    background: linear-gradient(135deg, var(--bg-3), var(--bg-2));
+  }
+  .lang-overlay {
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    padding: 6px 14px;
+    border-radius: 24px;
+    font-size: 0.75em;
+    font-weight: 700;
+    color: white;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  }
+  .overlay-es { background: rgba(199, 92, 92, 0.92); }
+  .overlay-en { background: rgba(74, 144, 194, 0.92); }
+  .overlay-it { background: rgba(107, 142, 78, 0.92); }
+
+  /* BODY */
+  .cuento-body { padding: 26px; flex: 1; display: flex; flex-direction: column; }
+  .cuento-titulo {
+    font-family: 'Fraunces', serif;
+    font-size: 1.4em;
+    font-weight: 600;
+    color: var(--ink);
+    margin-bottom: 16px;
+    line-height: 1.3;
+  }
+  .cuento-texto {
+    font-size: 1em;
+    color: var(--ink);
+    line-height: 1.85;
+    margin-bottom: 20px;
+    font-weight: 400;
+  }
+
+  /* KARAOKE highlight */
+  .word { transition: all 0.15s; padding: 0 1px; border-radius: 4px; }
+  .word.active {
+    background: linear-gradient(135deg, var(--accent), var(--accent-soft));
+    color: var(--ink);
+    font-weight: 600;
+    transform: scale(1.06);
+    display: inline-block;
+    box-shadow: 0 4px 12px rgba(212, 163, 94, 0.4);
+  }
+  .word.passed { color: var(--ink-soft); }
+
+  /* SECTIONS */
+  .traduccion {
+    background: rgba(74, 144, 194, 0.08);
+    border-radius: 14px;
+    padding: 14px 18px;
+    margin-bottom: 14px;
+    font-size: 0.92em;
+    color: var(--ink-soft);
+    border-left: 4px solid var(--en);
+    line-height: 1.7;
+  }
+  .moraleja {
+    font-family: 'Fraunces', serif;
+    font-size: 1em;
+    color: var(--primary);
+    font-style: italic;
+    padding: 14px 0;
+    border-top: 1px dashed rgba(107, 78, 163, 0.2);
+    margin-bottom: 14px;
+  }
+  .pregunta {
+    font-size: 0.92em;
+    color: var(--it);
+    background: rgba(107, 142, 78, 0.08);
+    padding: 14px 16px;
+    border-radius: 14px;
+    border-left: 4px solid var(--it);
+    margin-bottom: 14px;
+  }
+  .palabra-nueva {
+    font-size: 0.88em;
+    background: rgba(212, 163, 94, 0.12);
+    padding: 12px 16px;
+    border-radius: 14px;
+    border-left: 4px solid var(--accent);
+    color: var(--ink-soft);
+    margin-bottom: 14px;
+    font-weight: 500;
+  }
+
+  /* AUDIO PLAYER */
+  .audio-wrap { margin-top: 14px; }
+  .audio-label {
+    font-size: 0.78em;
+    color: var(--ink-soft);
+    margin-bottom: 8px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  audio {
+    width: 100%;
+    height: 40px;
+    border-radius: 24px;
+  }
+  audio::-webkit-media-controls-panel {
+    background: linear-gradient(135deg, var(--bg-1), var(--bg-2));
+  }
+
+  /* EMPTY STATES */
+  .no-results, .empty-state, .loading {
+    text-align: center;
+    color: var(--ink-soft);
+    padding: 80px 20px;
+  }
+  .empty-state .moon-big { font-size: 5em; margin-bottom: 20px; }
+  .loading { font-size: 1.05em; }
+
+  /* FOOTER */
+  .footer {
+    text-align: center;
+    color: var(--ink-soft);
+    padding: 40px 20px 20px;
+    font-size: 0.85em;
+    margin-top: 40px;
+  }
+  .footer .heart { color: var(--es); }
+
+  @media (max-width: 600px) {
+    body { padding: 16px 10px; }
+    .header { padding: 30px 10px 20px; }
+    .cuentos-grid { grid-template-columns: 1fr; gap: 20px; }
+    .cuento-titulo { font-size: 1.2em; }
+    .cuento-body { padding: 22px; }
+  }
 </style>
 </head>
 <body>
-<div class="header">
-  <div class="stars">⭐ 🌙 ⭐</div>
-  <h1>Cuentos de José Alejandro</h1>
-  <p>Una nueva historia cada noche • Español · English · Italiano</p>
-</div>
-<div class="search-bar">
-  <input type="text" id="searchInput" placeholder="🔍 Buscar cuento..." oninput="filtrar()">
-</div>
-<div class="filter-section">
-  <div class="filter-label">Idioma</div>
-  <div class="filters" id="filtros-idioma">
-    <button class="filter-btn active" onclick="setFiltro('lang','todos',this)">Todos</button>
-    <button class="filter-btn" onclick="setFiltro('lang','es',this)">🇪🇸 Español</button>
-    <button class="filter-btn" onclick="setFiltro('lang','en',this)">🇬🇧 English</button>
-    <button class="filter-btn" onclick="setFiltro('lang','it',this)">🇮🇹 Italiano</button>
+<div class="container">
+  <div class="header">
+    <div class="moons">🌙 ⭐ 🌙</div>
+    <h1>Cuentos de <span>José Alejandro</span></h1>
+    <p class="subtitle">Una nueva historia cada noche<span class="dot">·</span>Español<span class="dot">·</span>English<span class="dot">·</span>Italiano</p>
+  </div>
+
+  <div class="search-bar">
+    <input type="text" id="searchInput" placeholder="🔍 Buscar cuento..." oninput="filtrar()">
+  </div>
+
+  <div class="filter-section">
+    <div class="filter-label">Idioma</div>
+    <div class="filters" id="filtros-idioma">
+      <button class="filter-btn active" onclick="setFiltro('lang','todos',this)">Todos</button>
+      <button class="filter-btn" onclick="setFiltro('lang','es',this)">🇪🇸 Español</button>
+      <button class="filter-btn" onclick="setFiltro('lang','en',this)">🇬🇧 English</button>
+      <button class="filter-btn" onclick="setFiltro('lang','it',this)">🇮🇹 Italiano</button>
+    </div>
+  </div>
+
+  <div class="filter-section">
+    <div class="filter-label">Fecha</div>
+    <div class="filters" id="filtros-fecha"></div>
+  </div>
+
+  <div class="contador" id="contador"></div>
+  <div id="biblioteca"><div class="loading">🌙 Cargando cuentos...</div></div>
+
+  <div class="footer">
+    Hecho con <span class="heart">♥</span> para José Alejandro · Generado por Ángel
   </div>
 </div>
-<div class="filter-section" style="margin-top:8px;">
-  <div class="filter-label">Fecha</div>
-  <div class="filters" id="filtros-fecha"></div>
-</div>
-<div class="contador" id="contador"></div>
-<div id="biblioteca"><div class="loading">🌙 Cargando cuentos...</div></div>
 
 <script>
 let cuentos = [];
 let filtros = { lang: "todos", fecha: "todas" };
-let audioActual = null;
 
-// Deriva fecha dd/mm/yyyy desde el id del cuento (formato YYYYMMDD_NN_lang)
+// Deriva fecha dd/mm/yyyy desde el id (formato YYYYMMDD_NN_lang)
 function deriveFechaFromId(id) {
   const m = (id || "").match(/^(\d{4})(\d{2})(\d{2})_\d+_(es|en|it)$/);
   return m ? (m[3] + "/" + m[2] + "/" + m[1]) : "";
@@ -88,7 +366,6 @@ fetch("cuentos.json?" + Date.now())
   .then(r => r.json())
   .then(data => {
     cuentos = data;
-    // Defensa: si algún cuento no tiene fecha válida, derivarla del id
     cuentos.forEach(c => {
       if (!c.fecha || !/^\d{2}\/\d{2}\/\d{4}$/.test(c.fecha)) {
         const derived = deriveFechaFromId(c.id);
@@ -99,27 +376,28 @@ fetch("cuentos.json?" + Date.now())
     filtrar();
   })
   .catch(e => {
-    document.getElementById("biblioteca").innerHTML = "<div class=empty-state><div style=font-size:4em>🌙</div><p style=margin-top:20px>Los primeros cuentos llegarán esta noche...</p></div>";
+    document.getElementById("biblioteca").innerHTML =
+      '<div class="empty-state"><div class="moon-big">🌙</div><p>Los primeros cuentos llegarán esta noche...</p></div>';
   });
 
 function iniciarFiltrosFecha() {
-  const fechasUnicas = [...new Set(cuentos.map(c => c.fecha))].sort((a,b) => {
+  const fechasUnicas = [...new Set(cuentos.map(c => c.fecha))].sort((a, b) => {
     const pa = a.split("/"), pb = b.split("/");
-    return new Date(pb[2],pb[1]-1,pb[0]) - new Date(pa[2],pa[1]-1,pa[0]);
+    return new Date(pb[2], pb[1] - 1, pb[0]) - new Date(pa[2], pa[1] - 1, pa[0]);
   });
   const fdiv = document.getElementById("filtros-fecha");
   fdiv.innerHTML = "";
   const btnTodas = document.createElement("button");
   btnTodas.className = "filter-btn active";
   btnTodas.textContent = "Todas";
-  btnTodas.onclick = function(){ setFiltro("fecha","todas",this); };
+  btnTodas.onclick = function() { setFiltro("fecha", "todas", this); };
   fdiv.appendChild(btnTodas);
   fechasUnicas.forEach(f => {
     const b = document.createElement("button");
     b.className = "filter-btn";
     const p = f.split("/");
-    b.textContent = p[0]+"/"+p[1];
-    b.onclick = function(){ setFiltro("fecha",f,this); };
+    b.textContent = p[0] + "/" + p[1];
+    b.onclick = function() { setFiltro("fecha", f, this); };
     fdiv.appendChild(b);
   });
 }
@@ -127,80 +405,119 @@ function iniciarFiltrosFecha() {
 function setFiltro(tipo, val, el) {
   filtros[tipo] = val;
   const grupo = tipo === "lang" ? "filtros-idioma" : "filtros-fecha";
-  document.getElementById(grupo).querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
-  el.classList.add("active");
+  document.querySelectorAll("#" + grupo + " .filter-btn").forEach(b => b.classList.remove("active"));
+  if (el) el.classList.add("active");
   filtrar();
 }
 
-function getPalette(c) {
-  const seed = (c.id.charCodeAt(0) + c.titulo.charCodeAt(0)) % 6;
-  const palettes = [
-    {bg:"#0a0a1e",accent:"#9b59b6"},{bg:"#0d1b2a",accent:"#3498db"},
-    {bg:"#1a0800",accent:"#e74c3c"},{bg:"#001a0d",accent:"#27ae60"},
-    {bg:"#1a001a",accent:"#e91e63"},{bg:"#001a1a",accent:"#00bcd4"}
-  ];
-  return palettes[seed];
+// === KARAOKE ===
+// Construye el texto como spans .word con índices, y los sincroniza con el audio
+function buildKaraokeText(textoEl, c) {
+  if (!c.words || !c.words.length) {
+    textoEl.textContent = c.texto;
+    return null;
+  }
+  textoEl.innerHTML = "";
+  // Construir spans desde c.words. Si hay puntuación entre palabras del texto original, intentar preservar.
+  // Estrategia simple: usar c.words[].w secuencialmente con un espacio entre ellas.
+  c.words.forEach((wd, i) => {
+    const span = document.createElement("span");
+    span.className = "word";
+    span.dataset.idx = i;
+    span.dataset.t0 = wd.t0;
+    span.dataset.t1 = wd.t1;
+    span.textContent = wd.w;
+    textoEl.appendChild(span);
+    if (i < c.words.length - 1) textoEl.appendChild(document.createTextNode(" "));
+  });
+  return textoEl.querySelectorAll(".word");
 }
 
-function getImgUrl(c) {
-  if (c.img_url) return c.img_url;
-  const seed = c.id.replace(/[^a-z0-9]/gi,"").slice(-8) || "cuento";
-  return "https://picsum.photos/seed/" + seed + "/800/400";
-}
-
-function playAudio(btn, url) {
-  if (audioActual) { audioActual.pause(); audioActual = null; }
-  const audio = new Audio(url);
-  audioActual = audio;
-  btn.textContent = "⏸ Pausar";
-  btn.classList.add("playing");
-  audio.play();
-  audio.onended = function() { btn.textContent = "🔊 Escuchar el cuento"; btn.classList.remove("playing"); audioActual = null; };
-  audio.onerror = function() { btn.textContent = "❌ Audio no disponible"; };
+function attachKaraoke(audioEl, words) {
+  if (!words || !words.length) return;
+  let lastIdx = -1;
+  audioEl.addEventListener("timeupdate", () => {
+    const t = audioEl.currentTime;
+    let idx = -1;
+    for (let i = 0; i < words.length; i++) {
+      const t0 = parseFloat(words[i].dataset.t0);
+      const t1 = parseFloat(words[i].dataset.t1);
+      if (t >= t0 && t <= t1 + 0.05) { idx = i; break; }
+      if (t < t0) break;
+    }
+    if (idx === lastIdx) return;
+    if (lastIdx >= 0 && words[lastIdx]) words[lastIdx].classList.remove("active");
+    if (idx >= 0 && words[idx]) {
+      words[idx].classList.add("active");
+      // marcar las anteriores como passed
+      for (let i = 0; i < idx; i++) words[i].classList.add("passed");
+      // scroll suave si está fuera de vista (solo en móvil)
+      if (window.innerWidth < 700) {
+        words[idx].scrollIntoView({ behavior: "smooth", block: "center", inline: "nearest" });
+      }
+    }
+    lastIdx = idx;
+  });
+  audioEl.addEventListener("ended", () => {
+    words.forEach(w => w.classList.remove("active"));
+  });
+  audioEl.addEventListener("seeked", () => {
+    // resetear "passed" si retrocede
+    const t = audioEl.currentTime;
+    words.forEach((w, i) => {
+      const t1 = parseFloat(w.dataset.t1);
+      if (t < t1) w.classList.remove("passed");
+    });
+  });
 }
 
 function crearTarjeta(c) {
-  const p = getPalette(c);
-  const emoji = c.lang === "es" ? "🌙" : c.lang === "en" ? "⭐" : "✨";
-  const imgUrl = getImgUrl(c);
-  const langLabel = c.lang === "es" ? "🇪🇸 Español" : c.lang === "en" ? "🇬🇧 English" : "🇮🇹 Italiano";
-
   const card = document.createElement("div");
   card.className = "cuento-card";
 
   const imgWrap = document.createElement("div");
   imgWrap.className = "img-wrap";
 
-  const img = document.createElement("img");
-  img.className = "cuento-img";
-  img.src = imgUrl;
-  img.alt = "";
-  img.loading = "lazy";
-  const ph = document.createElement("div");
-  ph.className = "cuento-img-placeholder";
-  ph.style.cssText = "background:linear-gradient(135deg," + p.accent + "33," + p.bg + ")";
-  ph.textContent = emoji;
-  img.onerror = function() { this.style.display="none"; ph.style.display="flex"; };
-  imgWrap.appendChild(img);
-  imgWrap.appendChild(ph);
+  if (c.img_url) {
+    const img = document.createElement("img");
+    img.className = "cuento-img";
+    img.src = c.img_url;
+    img.alt = c.titulo || "";
+    img.loading = "lazy";
+    const ph = document.createElement("div");
+    ph.className = "cuento-img-placeholder";
+    ph.style.display = "none";
+    ph.textContent = c.lang === "es" ? "🌙" : c.lang === "en" ? "⭐" : "✨";
+    img.onerror = function() {
+      this.style.display = "none";
+      ph.style.display = "flex";
+    };
+    imgWrap.appendChild(img);
+    imgWrap.appendChild(ph);
+  } else {
+    const ph = document.createElement("div");
+    ph.className = "cuento-img-placeholder";
+    ph.textContent = c.lang === "es" ? "🌙" : c.lang === "en" ? "⭐" : "✨";
+    imgWrap.appendChild(ph);
+  }
 
   const overlay = document.createElement("div");
   overlay.className = "lang-overlay overlay-" + c.lang;
-  overlay.textContent = langLabel;
+  overlay.textContent = c.lang === "es" ? "🇪🇸 Español" : c.lang === "en" ? "🇬🇧 English" : "🇮🇹 Italiano";
   imgWrap.appendChild(overlay);
   card.appendChild(imgWrap);
 
   const body = document.createElement("div");
   body.className = "cuento-body";
 
-  const titulo = document.createElement("div");
+  const titulo = document.createElement("h3");
   titulo.className = "cuento-titulo";
   titulo.textContent = c.titulo;
   body.appendChild(titulo);
 
-  const texto = document.createElement("div");
+  const texto = document.createElement("p");
   texto.className = "cuento-texto";
-  texto.textContent = c.texto;
+  const wordSpans = buildKaraokeText(texto, c);
   body.appendChild(texto);
 
   if (c.traduccion) {
@@ -218,7 +535,7 @@ function crearTarjeta(c) {
   if (c.pregunta) {
     const q = document.createElement("div");
     q.className = "pregunta";
-    q.textContent = "🎯 " + c.pregunta;
+    q.textContent = "💭 " + c.pregunta;
     body.appendChild(q);
   }
   if (c.palabra) {
@@ -230,18 +547,17 @@ function crearTarjeta(c) {
   if (c.audio) {
     const audioWrap = document.createElement("div");
     audioWrap.className = "audio-wrap";
-    audioWrap.style.cssText = "margin-top:10px;";
     const label = document.createElement("div");
-    label.textContent = "🔊 Escuchar el cuento";
-    label.style.cssText = "font-size:0.8em;color:#c39bd3;margin-bottom:4px;";
+    label.className = "audio-label";
+    label.textContent = wordSpans ? "🎤 Karaoke disponible" : "🔊 Escuchar el cuento";
     const au = document.createElement("audio");
     au.controls = true;
     au.preload = "none";
     au.src = c.audio;
-    au.style.cssText = "width:100%;height:36px;";
     audioWrap.appendChild(label);
     audioWrap.appendChild(au);
     body.appendChild(audioWrap);
+    if (wordSpans) attachKaraoke(au, wordSpans);
   }
 
   card.appendChild(body);
@@ -259,17 +575,18 @@ function filtrar() {
   r.forEach(c => { if (!byDate[c.fecha]) byDate[c.fecha] = []; byDate[c.fecha].push(c); });
 
   const lib = document.getElementById("biblioteca");
-  const fechas = Object.keys(byDate).sort((a,b) => {
+  const fechas = Object.keys(byDate).sort((a, b) => {
     const pa = a.split("/"), pb = b.split("/");
-    return new Date(pb[2],pb[1]-1,pb[0]) - new Date(pa[2],pa[1]-1,pa[0]);
+    return new Date(pb[2], pb[1] - 1, pb[0]) - new Date(pa[2], pa[1] - 1, pa[0]);
   });
 
-  document.getElementById("contador").textContent = r.length + " cuento" + (r.length !== 1 ? "s" : "") + " en la biblioteca";
+  document.getElementById("contador").textContent =
+    r.length + " cuento" + (r.length !== 1 ? "s" : "") + " en la biblioteca";
 
   if (fechas.length === 0) {
     lib.innerHTML = cuentos.length === 0
-      ? "<div class=empty-state><div style=font-size:4em>🌙</div><p style=margin-top:20px>Los primeros cuentos llegarán esta noche...</p></div>"
-      : "<div class=no-results>🌙 No se encontraron cuentos...</div>";
+      ? '<div class="empty-state"><div class="moon-big">🌙</div><p>Los primeros cuentos llegarán esta noche...</p></div>'
+      : '<div class="no-results">🌙 No se encontraron cuentos...</div>';
     return;
   }
 
@@ -288,6 +605,7 @@ function filtrar() {
     lib.appendChild(group);
   });
 }
+// CUENTOS_DATA
 </script>
 </body>
 </html>

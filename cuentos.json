@@ -1,42 +1,3998 @@
 [
   {
-    "id": "20260408_01_es",
+    "id": "20260408_00_es",
     "fecha": "08/04/2026",
     "lang": "es",
-    "titulo": "Capítulo 1 — La luz del bosque antiguo",
-    "texto": "Luna saltaba entre las flores cuando vio algo extraño: una luz dorada que flotaba entre los árboles del bosque antiguo.\n\n—¡Timo! ¡Lin! —llamó emocionada—. ¡Hay una luz misteriosa!\n\nTimo, el búho sabio con sus gafas redondas, observó con curiosidad. —Nunca había visto algo así en todos mis años.\n\nLin, la zorra astuta, olfateó el aire. —Huele a magia antigua. Sigámosla.\n\nLos tres amigos caminaron por el sendero oscuro. La luz dorada los guiaba suavemente, bailando entre las sombras hasta detenerse frente al roble más viejo del bosque.\n\n—Miren —susurró Luna, señalando el tronco.\n\nEn la corteza había una puerta diminuta que nunca habían visto. Tallado en la madera brillaba un símbolo: una luna, un sol y una estrella entrelazados.\n\n—Es hermoso —dijo Timo, acercándose.\n\nCuando sus alas rozaron el símbolo, la puerta crujió y se abrió lentamente. Una escalera de piedra descendía hacia la oscuridad, iluminada por la misma luz dorada que los había traído hasta allí.\n\nLuna sintió un cosquilleo en su barriguita. Lin movió la cola nerviosa. Timo ajustó sus gafas.\n\n—¿Bajamos? —preguntó Luna.\n\nLos tres se miraron. En sus ojos brillaba la misma pregunta: ¿qué secreto guardaba el bosque antiguo bajo sus raíces?\n\nLa aventura estaba por comenzar.",
+    "titulo": "Capítulo 1 — La luz entre las hojas",
+    "texto": "Luna la conejita brincaba entre los helechos del bosque cuando algo extraño brilló entre las hojas. Una luz dorada, suave como la miel, flotaba cerca del sendero.\n\n—¿Qué será? —susurró Luna, acercándose con cuidado.\n\nLa luz bailaba como si quisiera jugar. Cuando Luna daba un salto, la luz se movía hacia adelante. Cuando se detenía, la luz esperaba.\n\n—Pareces querer mostrarme algo —dijo Luna, y sus orejas se movieron curiosas.\n\nLa luz la guió por un camino que nunca había visto. Las raíces de los árboles formaban escalones naturales, cubiertos de musgo suave. El aire olía a tierra fresca y flores nocturnas.\n\nDespués de caminar un rato, Luna llegó a un claro donde crecía el roble más antiguo del bosque. Su tronco era tan ancho que diez conejitos juntos no podrían rodearlo. La luz dorada se detuvo frente al árbol y comenzó a brillar más fuerte.\n\n—Guau... —Luna se acercó despacio.\n\nEn la corteza del roble, tallado con líneas delicadas, había un símbolo: una luna creciente, un sol radiante y una estrella brillante, unidos en un círculo perfecto.\n\nLa luz tocó el símbolo y... ¡CRACK! Una grieta apareció en el tronco, como si fuera una puerta secreta.\n\nEn ese momento, Luna escuchó el batir de alas y el sonido de burbujas. Timo y Lin venían volando entre los árboles.\n\n—¡Luna! ¡Espera! —gritó Timo—. ¡Tengo que contarte algo importante!\n\nPero antes de que Luna pudiera responder, el símbolo comenzó a brillar en tres colores distintos...",
     "traduccion": "",
-    "moraleja": "Las aventuras más mágicas comienzan cuando seguimos nuestra curiosidad con amigos valientes.",
-    "pregunta": "Si encontraras una puerta secreta en un árbol, ¿la abrirías o llamarías primero a tus amigos?",
-    "palabra": "🔤 luz = luz (es) / light (en) / luce (it)",
-    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260408_01_es.mp3",
-    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_01_es.png"
+    "moraleja": "La curiosidad nos guía hacia grandes aventuras",
+    "pregunta": "¿Qué crees que pasará cuando el símbolo brille en tres colores?",
+    "palabra": "🔤 luz = light (en) / luce (it)",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260408_00_es.mp3",
+    "words": [
+      {
+        "w": "Capítulo",
+        "t0": 0.0,
+        "t1": 0.56
+      },
+      {
+        "w": "1",
+        "t0": 0.56,
+        "t1": 1.04
+      },
+      {
+        "w": "La",
+        "t0": 1.82,
+        "t1": 1.82
+      },
+      {
+        "w": "luz",
+        "t0": 1.82,
+        "t1": 2.08
+      },
+      {
+        "w": "entre",
+        "t0": 2.08,
+        "t1": 2.4
+      },
+      {
+        "w": "las",
+        "t0": 2.4,
+        "t1": 2.84
+      },
+      {
+        "w": "hojas",
+        "t0": 2.84,
+        "t1": 3.06
+      },
+      {
+        "w": "Luna",
+        "t0": 3.74,
+        "t1": 3.88
+      },
+      {
+        "w": "la",
+        "t0": 3.88,
+        "t1": 4.1
+      },
+      {
+        "w": "conejita",
+        "t0": 4.1,
+        "t1": 4.58
+      },
+      {
+        "w": "brincaba",
+        "t0": 4.58,
+        "t1": 5.2
+      },
+      {
+        "w": "entre",
+        "t0": 5.2,
+        "t1": 5.38
+      },
+      {
+        "w": "los",
+        "t0": 5.38,
+        "t1": 5.72
+      },
+      {
+        "w": "helechos",
+        "t0": 5.72,
+        "t1": 6.04
+      },
+      {
+        "w": "del",
+        "t0": 6.04,
+        "t1": 6.32
+      },
+      {
+        "w": "bosque",
+        "t0": 6.32,
+        "t1": 6.64
+      },
+      {
+        "w": "cuando",
+        "t0": 6.92,
+        "t1": 7.4
+      },
+      {
+        "w": "algo",
+        "t0": 7.4,
+        "t1": 7.7
+      },
+      {
+        "w": "extraño",
+        "t0": 7.7,
+        "t1": 8.26
+      },
+      {
+        "w": "brilló",
+        "t0": 8.26,
+        "t1": 8.68
+      },
+      {
+        "w": "entre",
+        "t0": 8.68,
+        "t1": 8.88
+      },
+      {
+        "w": "las",
+        "t0": 8.88,
+        "t1": 9.48
+      },
+      {
+        "w": "hojas",
+        "t0": 9.48,
+        "t1": 9.48
+      },
+      {
+        "w": "Una",
+        "t0": 10.3,
+        "t1": 10.44
+      },
+      {
+        "w": "luz",
+        "t0": 10.44,
+        "t1": 10.66
+      },
+      {
+        "w": "dorada",
+        "t0": 10.66,
+        "t1": 11.1
+      },
+      {
+        "w": "suave",
+        "t0": 11.92,
+        "t1": 11.94
+      },
+      {
+        "w": "como",
+        "t0": 11.94,
+        "t1": 12.16
+      },
+      {
+        "w": "la",
+        "t0": 12.16,
+        "t1": 12.6
+      },
+      {
+        "w": "miel",
+        "t0": 12.6,
+        "t1": 12.6
+      },
+      {
+        "w": "flotaba",
+        "t0": 13.4,
+        "t1": 13.66
+      },
+      {
+        "w": "cerca",
+        "t0": 13.66,
+        "t1": 14.14
+      },
+      {
+        "w": "del",
+        "t0": 14.14,
+        "t1": 14.4
+      },
+      {
+        "w": "sendero",
+        "t0": 14.4,
+        "t1": 14.78
+      },
+      {
+        "w": "—¿Qué",
+        "t0": 15.78,
+        "t1": 15.96
+      },
+      {
+        "w": "será",
+        "t0": 15.96,
+        "t1": 16.28
+      },
+      {
+        "w": "—susurró",
+        "t0": 16.84,
+        "t1": 17.54
+      },
+      {
+        "w": "Luna",
+        "t0": 17.54,
+        "t1": 17.94
+      },
+      {
+        "w": "acercándose",
+        "t0": 18.74,
+        "t1": 19.26
+      },
+      {
+        "w": "con",
+        "t0": 19.26,
+        "t1": 19.6
+      },
+      {
+        "w": "cuidado",
+        "t0": 19.6,
+        "t1": 19.98
+      },
+      {
+        "w": "La",
+        "t0": 21.0,
+        "t1": 21.2
+      },
+      {
+        "w": "luz",
+        "t0": 21.2,
+        "t1": 21.42
+      },
+      {
+        "w": "bailaba",
+        "t0": 21.42,
+        "t1": 22.06
+      },
+      {
+        "w": "como",
+        "t0": 22.06,
+        "t1": 22.3
+      },
+      {
+        "w": "si",
+        "t0": 22.3,
+        "t1": 22.66
+      },
+      {
+        "w": "quisiera",
+        "t0": 22.66,
+        "t1": 22.94
+      },
+      {
+        "w": "jugar",
+        "t0": 22.94,
+        "t1": 23.32
+      },
+      {
+        "w": "Cuando",
+        "t0": 24.24,
+        "t1": 24.48
+      },
+      {
+        "w": "Luna",
+        "t0": 24.48,
+        "t1": 24.76
+      },
+      {
+        "w": "daba",
+        "t0": 24.76,
+        "t1": 25.02
+      },
+      {
+        "w": "un",
+        "t0": 25.02,
+        "t1": 25.4
+      },
+      {
+        "w": "salto",
+        "t0": 25.4,
+        "t1": 25.68
+      },
+      {
+        "w": "la",
+        "t0": 26.2,
+        "t1": 26.58
+      },
+      {
+        "w": "luz",
+        "t0": 26.58,
+        "t1": 26.58
+      },
+      {
+        "w": "se",
+        "t0": 26.58,
+        "t1": 26.9
+      },
+      {
+        "w": "movía",
+        "t0": 26.9,
+        "t1": 27.12
+      },
+      {
+        "w": "hacia",
+        "t0": 27.12,
+        "t1": 27.4
+      },
+      {
+        "w": "adelante",
+        "t0": 27.4,
+        "t1": 27.82
+      },
+      {
+        "w": "Cuando",
+        "t0": 28.66,
+        "t1": 28.84
+      },
+      {
+        "w": "se",
+        "t0": 28.84,
+        "t1": 29.16
+      },
+      {
+        "w": "detenía",
+        "t0": 29.16,
+        "t1": 29.58
+      },
+      {
+        "w": "la",
+        "t0": 29.58,
+        "t1": 30.28
+      },
+      {
+        "w": "luz",
+        "t0": 30.28,
+        "t1": 30.5
+      },
+      {
+        "w": "esperaba",
+        "t0": 30.5,
+        "t1": 31.1
+      },
+      {
+        "w": "—Pareces",
+        "t0": 31.8,
+        "t1": 32.32
+      },
+      {
+        "w": "querer",
+        "t0": 32.32,
+        "t1": 32.72
+      },
+      {
+        "w": "mostrarme",
+        "t0": 32.72,
+        "t1": 33.44
+      },
+      {
+        "w": "algo",
+        "t0": 33.44,
+        "t1": 33.68
+      },
+      {
+        "w": "—dijo",
+        "t0": 33.68,
+        "t1": 34.76
+      },
+      {
+        "w": "Luna",
+        "t0": 34.76,
+        "t1": 35.12
+      },
+      {
+        "w": "y",
+        "t0": 35.36,
+        "t1": 36.22
+      },
+      {
+        "w": "sus",
+        "t0": 36.22,
+        "t1": 36.4
+      },
+      {
+        "w": "orejas",
+        "t0": 36.4,
+        "t1": 36.72
+      },
+      {
+        "w": "se",
+        "t0": 36.72,
+        "t1": 37.1
+      },
+      {
+        "w": "movieron",
+        "t0": 37.1,
+        "t1": 37.34
+      },
+      {
+        "w": "curiosas",
+        "t0": 37.34,
+        "t1": 38.12
+      },
+      {
+        "w": "La",
+        "t0": 39.02,
+        "t1": 39.16
+      },
+      {
+        "w": "luz",
+        "t0": 39.16,
+        "t1": 39.38
+      },
+      {
+        "w": "la",
+        "t0": 39.38,
+        "t1": 39.84
+      },
+      {
+        "w": "guió",
+        "t0": 39.84,
+        "t1": 39.84
+      },
+      {
+        "w": "por",
+        "t0": 39.84,
+        "t1": 40.08
+      },
+      {
+        "w": "un",
+        "t0": 40.08,
+        "t1": 40.32
+      },
+      {
+        "w": "camino",
+        "t0": 40.32,
+        "t1": 40.54
+      },
+      {
+        "w": "que",
+        "t0": 40.54,
+        "t1": 40.9
+      },
+      {
+        "w": "nunca",
+        "t0": 40.9,
+        "t1": 41.16
+      },
+      {
+        "w": "había",
+        "t0": 41.16,
+        "t1": 41.5
+      },
+      {
+        "w": "visto",
+        "t0": 41.5,
+        "t1": 41.82
+      },
+      {
+        "w": "Las",
+        "t0": 43.38,
+        "t1": 43.54
+      },
+      {
+        "w": "raíces",
+        "t0": 43.54,
+        "t1": 43.88
+      },
+      {
+        "w": "de",
+        "t0": 43.88,
+        "t1": 44.1
+      },
+      {
+        "w": "los",
+        "t0": 44.1,
+        "t1": 44.56
+      },
+      {
+        "w": "árboles",
+        "t0": 44.56,
+        "t1": 44.64
+      },
+      {
+        "w": "formaban",
+        "t0": 44.64,
+        "t1": 45.14
+      },
+      {
+        "w": "escalones",
+        "t0": 45.14,
+        "t1": 45.68
+      },
+      {
+        "w": "naturales",
+        "t0": 45.68,
+        "t1": 46.46
+      },
+      {
+        "w": "cubiertos",
+        "t0": 47.42,
+        "t1": 47.8
+      },
+      {
+        "w": "de",
+        "t0": 47.8,
+        "t1": 48.0
+      },
+      {
+        "w": "musgo",
+        "t0": 48.0,
+        "t1": 48.28
+      },
+      {
+        "w": "suave",
+        "t0": 48.28,
+        "t1": 48.66
+      },
+      {
+        "w": "El",
+        "t0": 49.58,
+        "t1": 49.78
+      },
+      {
+        "w": "aire",
+        "t0": 49.78,
+        "t1": 50.0
+      },
+      {
+        "w": "olía",
+        "t0": 50.0,
+        "t1": 50.32
+      },
+      {
+        "w": "a",
+        "t0": 50.32,
+        "t1": 50.76
+      },
+      {
+        "w": "tierra",
+        "t0": 50.76,
+        "t1": 50.76
+      },
+      {
+        "w": "fresca",
+        "t0": 50.76,
+        "t1": 51.28
+      },
+      {
+        "w": "y",
+        "t0": 51.28,
+        "t1": 51.64
+      },
+      {
+        "w": "flores",
+        "t0": 51.64,
+        "t1": 51.88
+      },
+      {
+        "w": "nocturnas",
+        "t0": 51.88,
+        "t1": 52.84
+      },
+      {
+        "w": "Después",
+        "t0": 53.7,
+        "t1": 53.86
+      },
+      {
+        "w": "de",
+        "t0": 53.86,
+        "t1": 54.14
+      },
+      {
+        "w": "caminar",
+        "t0": 54.14,
+        "t1": 54.34
+      },
+      {
+        "w": "un",
+        "t0": 54.34,
+        "t1": 54.86
+      },
+      {
+        "w": "rato",
+        "t0": 54.86,
+        "t1": 54.9
+      },
+      {
+        "w": "Luna",
+        "t0": 55.7,
+        "t1": 55.82
+      },
+      {
+        "w": "llevó",
+        "t0": 55.82,
+        "t1": 56.16
+      },
+      {
+        "w": "a",
+        "t0": 56.16,
+        "t1": 56.28
+      },
+      {
+        "w": "un",
+        "t0": 56.28,
+        "t1": 56.46
+      },
+      {
+        "w": "claro",
+        "t0": 56.46,
+        "t1": 56.68
+      },
+      {
+        "w": "donde",
+        "t0": 56.68,
+        "t1": 56.98
+      },
+      {
+        "w": "crecía",
+        "t0": 56.98,
+        "t1": 57.38
+      },
+      {
+        "w": "el",
+        "t0": 57.38,
+        "t1": 57.64
+      },
+      {
+        "w": "roble",
+        "t0": 57.64,
+        "t1": 57.88
+      },
+      {
+        "w": "más",
+        "t0": 57.88,
+        "t1": 58.26
+      },
+      {
+        "w": "antiguo",
+        "t0": 58.26,
+        "t1": 58.78
+      },
+      {
+        "w": "del",
+        "t0": 58.78,
+        "t1": 59.0
+      },
+      {
+        "w": "bosque",
+        "t0": 59.0,
+        "t1": 59.3
+      },
+      {
+        "w": "Su",
+        "t0": 59.82,
+        "t1": 60.48
+      },
+      {
+        "w": "tronco",
+        "t0": 60.48,
+        "t1": 60.74
+      },
+      {
+        "w": "era",
+        "t0": 60.74,
+        "t1": 61.04
+      },
+      {
+        "w": "tan",
+        "t0": 61.04,
+        "t1": 61.54
+      },
+      {
+        "w": "ancho",
+        "t0": 61.54,
+        "t1": 61.64
+      },
+      {
+        "w": "que",
+        "t0": 61.64,
+        "t1": 62.12
+      },
+      {
+        "w": "diez",
+        "t0": 62.12,
+        "t1": 62.42
+      },
+      {
+        "w": "conejitos",
+        "t0": 62.42,
+        "t1": 62.9
+      },
+      {
+        "w": "juntos",
+        "t0": 62.9,
+        "t1": 63.38
+      },
+      {
+        "w": "no",
+        "t0": 63.38,
+        "t1": 63.66
+      },
+      {
+        "w": "podrían",
+        "t0": 63.66,
+        "t1": 64.02
+      },
+      {
+        "w": "rodearlo",
+        "t0": 64.02,
+        "t1": 64.56
+      },
+      {
+        "w": "La",
+        "t0": 65.88,
+        "t1": 65.98
+      },
+      {
+        "w": "luz",
+        "t0": 65.98,
+        "t1": 66.16
+      },
+      {
+        "w": "dorada",
+        "t0": 66.16,
+        "t1": 66.6
+      },
+      {
+        "w": "se",
+        "t0": 66.6,
+        "t1": 67.12
+      },
+      {
+        "w": "detuvo",
+        "t0": 67.12,
+        "t1": 67.48
+      },
+      {
+        "w": "frente",
+        "t0": 67.48,
+        "t1": 67.8
+      },
+      {
+        "w": "al",
+        "t0": 67.8,
+        "t1": 68.0
+      },
+      {
+        "w": "árbol",
+        "t0": 68.0,
+        "t1": 68.26
+      },
+      {
+        "w": "y",
+        "t0": 68.26,
+        "t1": 68.8
+      },
+      {
+        "w": "comenzó",
+        "t0": 68.8,
+        "t1": 69.16
+      },
+      {
+        "w": "a",
+        "t0": 69.16,
+        "t1": 69.48
+      },
+      {
+        "w": "brillar",
+        "t0": 69.48,
+        "t1": 69.6
+      },
+      {
+        "w": "más",
+        "t0": 69.6,
+        "t1": 69.94
+      },
+      {
+        "w": "fuerte",
+        "t0": 69.94,
+        "t1": 70.22
+      },
+      {
+        "w": "—¡Guau",
+        "t0": 71.28,
+        "t1": 72.0
+      },
+      {
+        "w": "Luna",
+        "t0": 72.34,
+        "t1": 73.06
+      },
+      {
+        "w": "se",
+        "t0": 73.06,
+        "t1": 73.66
+      },
+      {
+        "w": "acercó",
+        "t0": 73.66,
+        "t1": 73.92
+      },
+      {
+        "w": "despacio",
+        "t0": 73.92,
+        "t1": 74.52
+      },
+      {
+        "w": "En",
+        "t0": 75.3,
+        "t1": 75.34
+      },
+      {
+        "w": "la",
+        "t0": 75.34,
+        "t1": 75.62
+      },
+      {
+        "w": "corteza",
+        "t0": 75.62,
+        "t1": 75.84
+      },
+      {
+        "w": "del",
+        "t0": 75.84,
+        "t1": 76.12
+      },
+      {
+        "w": "roble",
+        "t0": 76.12,
+        "t1": 76.38
+      },
+      {
+        "w": "tallado",
+        "t0": 76.96,
+        "t1": 77.18
+      },
+      {
+        "w": "con",
+        "t0": 77.18,
+        "t1": 77.48
+      },
+      {
+        "w": "líneas",
+        "t0": 77.48,
+        "t1": 77.78
+      },
+      {
+        "w": "delicadas",
+        "t0": 77.78,
+        "t1": 78.44
+      },
+      {
+        "w": "había",
+        "t0": 79.06,
+        "t1": 79.14
+      },
+      {
+        "w": "un",
+        "t0": 79.14,
+        "t1": 79.66
+      },
+      {
+        "w": "símbolo",
+        "t0": 79.66,
+        "t1": 80.06
+      },
+      {
+        "w": "una",
+        "t0": 80.16,
+        "t1": 80.36
+      },
+      {
+        "w": "luna",
+        "t0": 80.36,
+        "t1": 80.54
+      },
+      {
+        "w": "creciente",
+        "t0": 80.54,
+        "t1": 81.1
+      },
+      {
+        "w": "un",
+        "t0": 81.6,
+        "t1": 81.98
+      },
+      {
+        "w": "sol",
+        "t0": 81.98,
+        "t1": 81.98
+      },
+      {
+        "w": "radiante",
+        "t0": 81.98,
+        "t1": 82.52
+      },
+      {
+        "w": "y",
+        "t0": 82.52,
+        "t1": 83.12
+      },
+      {
+        "w": "una",
+        "t0": 83.12,
+        "t1": 83.48
+      },
+      {
+        "w": "estrella",
+        "t0": 83.48,
+        "t1": 83.64
+      },
+      {
+        "w": "brillante",
+        "t0": 83.64,
+        "t1": 84.2
+      },
+      {
+        "w": "unidos",
+        "t0": 84.2,
+        "t1": 84.98
+      },
+      {
+        "w": "en",
+        "t0": 84.98,
+        "t1": 85.16
+      },
+      {
+        "w": "un",
+        "t0": 85.16,
+        "t1": 85.52
+      },
+      {
+        "w": "círculo",
+        "t0": 85.52,
+        "t1": 85.66
+      },
+      {
+        "w": "perfecto",
+        "t0": 85.66,
+        "t1": 86.3
+      },
+      {
+        "w": "La",
+        "t0": 87.0,
+        "t1": 87.24
+      },
+      {
+        "w": "luz",
+        "t0": 87.24,
+        "t1": 87.38
+      },
+      {
+        "w": "tocó",
+        "t0": 87.38,
+        "t1": 87.66
+      },
+      {
+        "w": "el",
+        "t0": 87.66,
+        "t1": 88.14
+      },
+      {
+        "w": "símbolo",
+        "t0": 88.14,
+        "t1": 88.28
+      },
+      {
+        "w": "y",
+        "t0": 88.28,
+        "t1": 88.62
+      },
+      {
+        "w": "¡crack",
+        "t0": 88.62,
+        "t1": 89.38
+      },
+      {
+        "w": "Una",
+        "t0": 89.78,
+        "t1": 90.14
+      },
+      {
+        "w": "grieta",
+        "t0": 90.14,
+        "t1": 90.44
+      },
+      {
+        "w": "apareció",
+        "t0": 90.44,
+        "t1": 90.88
+      },
+      {
+        "w": "en",
+        "t0": 90.88,
+        "t1": 91.0
+      },
+      {
+        "w": "el",
+        "t0": 91.0,
+        "t1": 91.44
+      },
+      {
+        "w": "tronco",
+        "t0": 91.44,
+        "t1": 91.44
+      },
+      {
+        "w": "como",
+        "t0": 92.02,
+        "t1": 92.14
+      },
+      {
+        "w": "si",
+        "t0": 92.14,
+        "t1": 92.56
+      },
+      {
+        "w": "fuera",
+        "t0": 92.56,
+        "t1": 92.56
+      },
+      {
+        "w": "una",
+        "t0": 92.56,
+        "t1": 92.94
+      },
+      {
+        "w": "puerta",
+        "t0": 92.94,
+        "t1": 93.1
+      },
+      {
+        "w": "secreta",
+        "t0": 93.1,
+        "t1": 93.68
+      },
+      {
+        "w": "En",
+        "t0": 94.38,
+        "t1": 94.54
+      },
+      {
+        "w": "ese",
+        "t0": 94.54,
+        "t1": 94.74
+      },
+      {
+        "w": "momento",
+        "t0": 94.74,
+        "t1": 95.16
+      },
+      {
+        "w": "Luna",
+        "t0": 95.86,
+        "t1": 95.88
+      },
+      {
+        "w": "escuchó",
+        "t0": 95.88,
+        "t1": 96.3
+      },
+      {
+        "w": "el",
+        "t0": 96.3,
+        "t1": 96.56
+      },
+      {
+        "w": "batir",
+        "t0": 96.56,
+        "t1": 96.74
+      },
+      {
+        "w": "de",
+        "t0": 96.74,
+        "t1": 97.14
+      },
+      {
+        "w": "alas",
+        "t0": 97.14,
+        "t1": 97.26
+      },
+      {
+        "w": "y",
+        "t0": 97.26,
+        "t1": 97.54
+      },
+      {
+        "w": "el",
+        "t0": 97.54,
+        "t1": 97.98
+      },
+      {
+        "w": "sonido",
+        "t0": 97.98,
+        "t1": 97.98
+      },
+      {
+        "w": "de",
+        "t0": 97.98,
+        "t1": 98.5
+      },
+      {
+        "w": "burbujas",
+        "t0": 98.5,
+        "t1": 98.7
+      },
+      {
+        "w": "Timo",
+        "t0": 99.64,
+        "t1": 99.66
+      },
+      {
+        "w": "y",
+        "t0": 99.66,
+        "t1": 100.04
+      },
+      {
+        "w": "Lynn",
+        "t0": 100.04,
+        "t1": 100.26
+      },
+      {
+        "w": "venían",
+        "t0": 100.26,
+        "t1": 100.92
+      },
+      {
+        "w": "volando",
+        "t0": 100.92,
+        "t1": 101.32
+      },
+      {
+        "w": "entre",
+        "t0": 101.32,
+        "t1": 101.56
+      },
+      {
+        "w": "los",
+        "t0": 101.56,
+        "t1": 102.24
+      },
+      {
+        "w": "árboles",
+        "t0": 102.24,
+        "t1": 102.24
+      },
+      {
+        "w": "—Luna",
+        "t0": 102.54,
+        "t1": 102.84
+      },
+      {
+        "w": "espera",
+        "t0": 103.62,
+        "t1": 103.92
+      },
+      {
+        "w": "tengo",
+        "t0": 104.44,
+        "t1": 104.68
+      },
+      {
+        "w": "que",
+        "t0": 104.68,
+        "t1": 105.04
+      },
+      {
+        "w": "contarte",
+        "t0": 105.04,
+        "t1": 105.28
+      },
+      {
+        "w": "algo",
+        "t0": 105.28,
+        "t1": 105.56
+      },
+      {
+        "w": "importante",
+        "t0": 105.74,
+        "t1": 106.46
+      },
+      {
+        "w": "—gritó",
+        "t0": 106.46,
+        "t1": 107.18
+      },
+      {
+        "w": "Timo",
+        "t0": 107.18,
+        "t1": 107.68
+      },
+      {
+        "w": "Pero",
+        "t0": 108.58,
+        "t1": 108.78
+      },
+      {
+        "w": "antes",
+        "t0": 108.78,
+        "t1": 109.02
+      },
+      {
+        "w": "de",
+        "t0": 109.02,
+        "t1": 109.28
+      },
+      {
+        "w": "que",
+        "t0": 109.28,
+        "t1": 109.48
+      },
+      {
+        "w": "Luna",
+        "t0": 109.48,
+        "t1": 109.6
+      },
+      {
+        "w": "pudiera",
+        "t0": 109.6,
+        "t1": 110.04
+      },
+      {
+        "w": "responder",
+        "t0": 110.04,
+        "t1": 110.58
+      },
+      {
+        "w": "el",
+        "t0": 111.14,
+        "t1": 111.4
+      },
+      {
+        "w": "símbolo",
+        "t0": 111.4,
+        "t1": 111.88
+      },
+      {
+        "w": "comenzó",
+        "t0": 111.88,
+        "t1": 112.32
+      },
+      {
+        "w": "a",
+        "t0": 112.32,
+        "t1": 112.7
+      },
+      {
+        "w": "brillar",
+        "t0": 112.7,
+        "t1": 112.84
+      },
+      {
+        "w": "en",
+        "t0": 112.84,
+        "t1": 113.16
+      },
+      {
+        "w": "tres",
+        "t0": 113.16,
+        "t1": 113.5
+      },
+      {
+        "w": "colores",
+        "t0": 113.5,
+        "t1": 113.9
+      },
+      {
+        "w": "distintos",
+        "t0": 113.9,
+        "t1": 114.38
+      }
+    ],
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_00_es.png"
   },
   {
-    "id": "20260408_02_en",
+    "id": "20260408_01_en",
     "fecha": "08/04/2026",
     "lang": "en",
-    "titulo": "Chapter 1 — The Ancient Forest's Light",
-    "texto": "Luna was hopping through the meadow when she spotted something strange—a golden light dancing between the trees of the ancient forest.\n\n\"Timo! Lin!\" she called out. \"Come quick! There's a mysterious light!\"\n\nTimo, the wise owl with round spectacles, peered carefully. \"In all my years, I've never seen anything like it.\"\n\nLin, the clever fox, sniffed the evening air. \"Smells like old magic. Let's follow it.\"\n\nThe three friends walked along the shadowy path. The golden light floated ahead, weaving through darkness until it stopped at the oldest oak tree in the forest.\n\n\"Look,\" Luna whispered, pointing at the trunk.\n\nThere, hidden in the bark, was a tiny door they'd never noticed before. Carved into the wood was a glowing symbol—a moon, a sun, and a star woven together.\n\n\"It's beautiful,\" Timo said, stepping closer.\n\nAs his wing brushed the symbol, the door creaked open slowly. Stone stairs spiraled down into darkness, lit by the same golden light that had led them here.\n\nLuna felt butterflies in her tummy. Lin's tail twitched nervously. Timo adjusted his spectacles.\n\n\"Should we go down?\" Luna asked softly.\n\nThe three friends looked at each other. In their eyes shone the same question: what secret was the ancient forest hiding beneath its roots?\n\nTheir adventure was about to begin.",
-    "traduccion": "Luna descubre una luz dorada misteriosa en el bosque antiguo. Con Timo y Lin, encuentran una puerta secreta en un viejo roble con un símbolo mágico. La puerta se abre revelando escaleras que bajan.",
-    "moraleja": "The greatest adventures begin when we follow our curiosity with brave friends by our side.",
-    "pregunta": "If you found a secret door in a tree, would you open it right away or call your friends first?",
-    "palabra": "🔤 light = luz (es) / light (en) / luce (it)",
-    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260408_02_en.mp3",
-    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_02_en.png"
+    "titulo": "Chapter 1 — The Ancient Book's Secret",
+    "texto": "Timo the wise owl sat in his tree library, surrounded by old books and scrolls. His glasses slipped down his beak as he read a dusty volume he'd found that morning.\n\n\"Hmm... very interesting,\" Timo murmured, turning the yellowed pages carefully.\n\nThe book spoke of an ancient prophecy. Long ago, three guardians protected the forest: one who walked softly, one who flew high, and one whose heart burned bright without fire.\n\n\"A walker, a flyer, and a... bubble-maker?\" Timo wondered aloud.\n\nThe text described a secret door in the oldest oak tree. It could only be opened when three symbols glowed together: moon, sun, and star. Each symbol needed a different kind of courage.\n\n\"Moon for curiosity, sun for wisdom, star for joy,\" Timo read. \"When the golden light appears, the three friends must—\"\n\nSuddenly, through his window, Timo saw it: a golden glow dancing between the trees, moving toward the ancient oak.\n\n\"The light! It's real!\" Timo's feathers ruffled with excitement.\n\nHe grabbed the book and spread his wings. As he flew over the forest, he spotted Luna hopping quickly below, following the same mysterious glow. And there, flying in loops and spirals, was Lin the little blue dragon, leaving trails of shimmering bubbles in the evening air.\n\n\"We're all being called,\" Timo realized.\n\nWhen he reached the oak tree, Luna was already there, staring at the carved symbols. Lin swooped down beside them.\n\nThe symbols began to glow—silver, gold, and bright white.\n\n\"According to this book,\" Timo said breathlessly, \"we need to touch the symbols at the exact same moment, but...\"\n\nHe turned the page. It was torn. The rest was missing.",
+    "traduccion": "Timo el búho lee en un libro antiguo sobre una profecía: tres amigos deben tocar los símbolos de luna, sol y estrella al mismo tiempo en el roble antiguo. Pero la página final del libro está rota...",
+    "moraleja": "Knowledge shows us the path, but courage walks it",
+    "pregunta": "If you found a book with a missing page, what would you do?",
+    "palabra": "🔤 book = libro (es) / libro (it)",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260408_01_en.mp3",
+    "words": [
+      {
+        "w": "Chapter",
+        "t0": 0.0,
+        "t1": 0.52
+      },
+      {
+        "w": "1",
+        "t0": 0.52,
+        "t1": 0.96
+      },
+      {
+        "w": "The",
+        "t0": 0.96,
+        "t1": 1.78
+      },
+      {
+        "w": "Ancient",
+        "t0": 1.78,
+        "t1": 2.22
+      },
+      {
+        "w": "Book's",
+        "t0": 2.22,
+        "t1": 3.18
+      },
+      {
+        "w": "Secret",
+        "t0": 3.18,
+        "t1": 3.18
+      },
+      {
+        "w": "Teemo",
+        "t0": 3.18,
+        "t1": 3.76
+      },
+      {
+        "w": "the",
+        "t0": 3.76,
+        "t1": 4.08
+      },
+      {
+        "w": "wise",
+        "t0": 4.08,
+        "t1": 4.46
+      },
+      {
+        "w": "owl",
+        "t0": 4.46,
+        "t1": 4.66
+      },
+      {
+        "w": "sat",
+        "t0": 4.66,
+        "t1": 5.06
+      },
+      {
+        "w": "in",
+        "t0": 5.06,
+        "t1": 5.24
+      },
+      {
+        "w": "his",
+        "t0": 5.24,
+        "t1": 5.46
+      },
+      {
+        "w": "tree",
+        "t0": 5.46,
+        "t1": 5.72
+      },
+      {
+        "w": "library",
+        "t0": 5.72,
+        "t1": 6.18
+      },
+      {
+        "w": "surrounded",
+        "t0": 7.04,
+        "t1": 7.04
+      },
+      {
+        "w": "by",
+        "t0": 7.04,
+        "t1": 7.4
+      },
+      {
+        "w": "old",
+        "t0": 7.4,
+        "t1": 7.82
+      },
+      {
+        "w": "books",
+        "t0": 7.82,
+        "t1": 8.04
+      },
+      {
+        "w": "and",
+        "t0": 8.04,
+        "t1": 8.36
+      },
+      {
+        "w": "scrolls",
+        "t0": 8.36,
+        "t1": 8.92
+      },
+      {
+        "w": "His",
+        "t0": 9.26,
+        "t1": 9.48
+      },
+      {
+        "w": "glasses",
+        "t0": 9.48,
+        "t1": 9.9
+      },
+      {
+        "w": "slipped",
+        "t0": 9.9,
+        "t1": 10.26
+      },
+      {
+        "w": "down",
+        "t0": 10.26,
+        "t1": 10.56
+      },
+      {
+        "w": "his",
+        "t0": 10.56,
+        "t1": 10.8
+      },
+      {
+        "w": "beak",
+        "t0": 10.8,
+        "t1": 11.02
+      },
+      {
+        "w": "as",
+        "t0": 11.02,
+        "t1": 11.5
+      },
+      {
+        "w": "he",
+        "t0": 11.5,
+        "t1": 11.84
+      },
+      {
+        "w": "read",
+        "t0": 11.84,
+        "t1": 11.86
+      },
+      {
+        "w": "a",
+        "t0": 11.86,
+        "t1": 12.28
+      },
+      {
+        "w": "dusty",
+        "t0": 12.28,
+        "t1": 12.42
+      },
+      {
+        "w": "volume",
+        "t0": 12.42,
+        "t1": 12.94
+      },
+      {
+        "w": "he'd",
+        "t0": 12.94,
+        "t1": 13.34
+      },
+      {
+        "w": "found",
+        "t0": 13.34,
+        "t1": 13.54
+      },
+      {
+        "w": "that",
+        "t0": 13.54,
+        "t1": 13.9
+      },
+      {
+        "w": "morning",
+        "t0": 13.9,
+        "t1": 14.14
+      },
+      {
+        "w": "Hmm",
+        "t0": 14.92,
+        "t1": 15.68
+      },
+      {
+        "w": "very",
+        "t0": 15.76,
+        "t1": 16.14
+      },
+      {
+        "w": "interesting",
+        "t0": 16.14,
+        "t1": 16.56
+      },
+      {
+        "w": "Teemo",
+        "t0": 17.08,
+        "t1": 17.56
+      },
+      {
+        "w": "murmured",
+        "t0": 17.56,
+        "t1": 18.04
+      },
+      {
+        "w": "turning",
+        "t0": 18.78,
+        "t1": 18.78
+      },
+      {
+        "w": "the",
+        "t0": 18.78,
+        "t1": 19.32
+      },
+      {
+        "w": "yellowed",
+        "t0": 19.32,
+        "t1": 19.54
+      },
+      {
+        "w": "pages",
+        "t0": 19.54,
+        "t1": 19.9
+      },
+      {
+        "w": "carefully",
+        "t0": 19.9,
+        "t1": 20.5
+      },
+      {
+        "w": "The",
+        "t0": 22.14,
+        "t1": 22.9
+      },
+      {
+        "w": "book",
+        "t0": 22.9,
+        "t1": 23.1
+      },
+      {
+        "w": "spoke",
+        "t0": 23.1,
+        "t1": 23.36
+      },
+      {
+        "w": "of",
+        "t0": 23.36,
+        "t1": 23.54
+      },
+      {
+        "w": "an",
+        "t0": 23.54,
+        "t1": 23.8
+      },
+      {
+        "w": "ancient",
+        "t0": 23.8,
+        "t1": 24.04
+      },
+      {
+        "w": "prophecy",
+        "t0": 24.04,
+        "t1": 24.46
+      },
+      {
+        "w": "Long",
+        "t0": 25.34,
+        "t1": 25.46
+      },
+      {
+        "w": "ago",
+        "t0": 25.46,
+        "t1": 25.84
+      },
+      {
+        "w": "three",
+        "t0": 26.1,
+        "t1": 26.3
+      },
+      {
+        "w": "guardians",
+        "t0": 26.3,
+        "t1": 26.68
+      },
+      {
+        "w": "protected",
+        "t0": 26.68,
+        "t1": 27.12
+      },
+      {
+        "w": "the",
+        "t0": 27.12,
+        "t1": 27.74
+      },
+      {
+        "w": "forest",
+        "t0": 27.74,
+        "t1": 27.74
+      },
+      {
+        "w": "One",
+        "t0": 27.74,
+        "t1": 28.52
+      },
+      {
+        "w": "who",
+        "t0": 28.52,
+        "t1": 28.7
+      },
+      {
+        "w": "walked",
+        "t0": 28.7,
+        "t1": 29.04
+      },
+      {
+        "w": "softly",
+        "t0": 29.04,
+        "t1": 29.5
+      },
+      {
+        "w": "one",
+        "t0": 30.3,
+        "t1": 30.4
+      },
+      {
+        "w": "who",
+        "t0": 30.4,
+        "t1": 30.7
+      },
+      {
+        "w": "flew",
+        "t0": 30.7,
+        "t1": 30.78
+      },
+      {
+        "w": "high",
+        "t0": 30.78,
+        "t1": 31.26
+      },
+      {
+        "w": "and",
+        "t0": 32.02,
+        "t1": 32.12
+      },
+      {
+        "w": "one",
+        "t0": 32.12,
+        "t1": 32.3
+      },
+      {
+        "w": "whose",
+        "t0": 32.3,
+        "t1": 32.5
+      },
+      {
+        "w": "heart",
+        "t0": 32.5,
+        "t1": 32.78
+      },
+      {
+        "w": "burned",
+        "t0": 32.78,
+        "t1": 33.06
+      },
+      {
+        "w": "bright",
+        "t0": 33.06,
+        "t1": 33.44
+      },
+      {
+        "w": "without",
+        "t0": 33.44,
+        "t1": 33.82
+      },
+      {
+        "w": "fire",
+        "t0": 33.82,
+        "t1": 34.24
+      },
+      {
+        "w": "A",
+        "t0": 34.54,
+        "t1": 34.54
+      },
+      {
+        "w": "walker",
+        "t0": 34.54,
+        "t1": 35.04
+      },
+      {
+        "w": "a",
+        "t0": 35.52,
+        "t1": 36.0
+      },
+      {
+        "w": "flyer",
+        "t0": 36.0,
+        "t1": 36.28
+      },
+      {
+        "w": "and",
+        "t0": 36.56,
+        "t1": 36.72
+      },
+      {
+        "w": "a",
+        "t0": 36.72,
+        "t1": 37.44
+      },
+      {
+        "w": "bubble",
+        "t0": 37.44,
+        "t1": 37.7
+      },
+      {
+        "w": "maker",
+        "t0": 37.7,
+        "t1": 38.06
+      },
+      {
+        "w": "Teemo",
+        "t0": 38.88,
+        "t1": 39.0
+      },
+      {
+        "w": "wondered",
+        "t0": 39.0,
+        "t1": 39.58
+      },
+      {
+        "w": "aloud",
+        "t0": 39.58,
+        "t1": 40.42
+      },
+      {
+        "w": "The",
+        "t0": 40.8,
+        "t1": 40.8
+      },
+      {
+        "w": "text",
+        "t0": 40.8,
+        "t1": 41.24
+      },
+      {
+        "w": "described",
+        "t0": 41.24,
+        "t1": 41.82
+      },
+      {
+        "w": "the",
+        "t0": 41.82,
+        "t1": 42.1
+      },
+      {
+        "w": "secret",
+        "t0": 42.1,
+        "t1": 42.42
+      },
+      {
+        "w": "door",
+        "t0": 42.42,
+        "t1": 42.72
+      },
+      {
+        "w": "in",
+        "t0": 42.72,
+        "t1": 42.92
+      },
+      {
+        "w": "the",
+        "t0": 42.92,
+        "t1": 43.1
+      },
+      {
+        "w": "oldest",
+        "t0": 43.1,
+        "t1": 43.42
+      },
+      {
+        "w": "oak",
+        "t0": 43.42,
+        "t1": 43.74
+      },
+      {
+        "w": "tree",
+        "t0": 43.74,
+        "t1": 44.02
+      },
+      {
+        "w": "It",
+        "t0": 44.46,
+        "t1": 44.46
+      },
+      {
+        "w": "could",
+        "t0": 44.46,
+        "t1": 44.62
+      },
+      {
+        "w": "only",
+        "t0": 44.62,
+        "t1": 44.98
+      },
+      {
+        "w": "be",
+        "t0": 44.98,
+        "t1": 45.48
+      },
+      {
+        "w": "opened",
+        "t0": 45.48,
+        "t1": 45.48
+      },
+      {
+        "w": "when",
+        "t0": 45.48,
+        "t1": 45.78
+      },
+      {
+        "w": "three",
+        "t0": 45.78,
+        "t1": 46.22
+      },
+      {
+        "w": "symbols",
+        "t0": 46.22,
+        "t1": 46.6
+      },
+      {
+        "w": "glowed",
+        "t0": 46.6,
+        "t1": 47.46
+      },
+      {
+        "w": "together",
+        "t0": 47.46,
+        "t1": 47.46
+      },
+      {
+        "w": "Moon",
+        "t0": 48.2,
+        "t1": 48.2
+      },
+      {
+        "w": "sun",
+        "t0": 48.56,
+        "t1": 48.84
+      },
+      {
+        "w": "and",
+        "t0": 48.9,
+        "t1": 49.48
+      },
+      {
+        "w": "star",
+        "t0": 49.48,
+        "t1": 49.48
+      },
+      {
+        "w": "Each",
+        "t0": 50.18,
+        "t1": 50.32
+      },
+      {
+        "w": "symbol",
+        "t0": 50.32,
+        "t1": 50.7
+      },
+      {
+        "w": "needed",
+        "t0": 50.7,
+        "t1": 50.98
+      },
+      {
+        "w": "a",
+        "t0": 50.98,
+        "t1": 51.18
+      },
+      {
+        "w": "different",
+        "t0": 51.18,
+        "t1": 51.5
+      },
+      {
+        "w": "kind",
+        "t0": 51.5,
+        "t1": 51.8
+      },
+      {
+        "w": "of",
+        "t0": 51.8,
+        "t1": 52.4
+      },
+      {
+        "w": "courage",
+        "t0": 52.4,
+        "t1": 52.4
+      },
+      {
+        "w": "Moon",
+        "t0": 52.74,
+        "t1": 53.02
+      },
+      {
+        "w": "for",
+        "t0": 53.02,
+        "t1": 53.3
+      },
+      {
+        "w": "curiosity",
+        "t0": 53.3,
+        "t1": 53.98
+      },
+      {
+        "w": "sun",
+        "t0": 54.78,
+        "t1": 54.78
+      },
+      {
+        "w": "for",
+        "t0": 54.78,
+        "t1": 55.54
+      },
+      {
+        "w": "wisdom",
+        "t0": 55.54,
+        "t1": 55.54
+      },
+      {
+        "w": "star",
+        "t0": 56.2,
+        "t1": 56.22
+      },
+      {
+        "w": "for",
+        "t0": 56.22,
+        "t1": 56.64
+      },
+      {
+        "w": "joy",
+        "t0": 56.64,
+        "t1": 56.86
+      },
+      {
+        "w": "Teemo",
+        "t0": 57.58,
+        "t1": 57.98
+      },
+      {
+        "w": "read",
+        "t0": 57.98,
+        "t1": 58.78
+      },
+      {
+        "w": "When",
+        "t0": 59.2,
+        "t1": 59.3
+      },
+      {
+        "w": "the",
+        "t0": 59.3,
+        "t1": 59.54
+      },
+      {
+        "w": "golden",
+        "t0": 59.54,
+        "t1": 59.96
+      },
+      {
+        "w": "light",
+        "t0": 59.96,
+        "t1": 60.32
+      },
+      {
+        "w": "appears",
+        "t0": 60.32,
+        "t1": 60.84
+      },
+      {
+        "w": "the",
+        "t0": 61.28,
+        "t1": 61.36
+      },
+      {
+        "w": "three",
+        "t0": 61.36,
+        "t1": 61.74
+      },
+      {
+        "w": "friends",
+        "t0": 61.74,
+        "t1": 62.02
+      },
+      {
+        "w": "must",
+        "t0": 62.02,
+        "t1": 62.54
+      },
+      {
+        "w": "Suddenly",
+        "t0": 63.34,
+        "t1": 63.34
+      },
+      {
+        "w": "through",
+        "t0": 63.8,
+        "t1": 63.88
+      },
+      {
+        "w": "his",
+        "t0": 63.88,
+        "t1": 64.16
+      },
+      {
+        "w": "window",
+        "t0": 64.16,
+        "t1": 64.52
+      },
+      {
+        "w": "Teemo",
+        "t0": 64.86,
+        "t1": 65.04
+      },
+      {
+        "w": "saw",
+        "t0": 65.04,
+        "t1": 65.46
+      },
+      {
+        "w": "it",
+        "t0": 65.46,
+        "t1": 65.66
+      },
+      {
+        "w": "A",
+        "t0": 65.98,
+        "t1": 66.04
+      },
+      {
+        "w": "golden",
+        "t0": 66.04,
+        "t1": 66.4
+      },
+      {
+        "w": "glow",
+        "t0": 66.4,
+        "t1": 66.74
+      },
+      {
+        "w": "dancing",
+        "t0": 66.74,
+        "t1": 67.24
+      },
+      {
+        "w": "between",
+        "t0": 67.24,
+        "t1": 67.58
+      },
+      {
+        "w": "the",
+        "t0": 67.58,
+        "t1": 68.16
+      },
+      {
+        "w": "trees",
+        "t0": 68.16,
+        "t1": 68.16
+      },
+      {
+        "w": "moving",
+        "t0": 68.76,
+        "t1": 68.76
+      },
+      {
+        "w": "toward",
+        "t0": 68.76,
+        "t1": 69.0
+      },
+      {
+        "w": "the",
+        "t0": 69.0,
+        "t1": 69.22
+      },
+      {
+        "w": "ancient",
+        "t0": 69.22,
+        "t1": 69.56
+      },
+      {
+        "w": "oak",
+        "t0": 69.56,
+        "t1": 69.86
+      },
+      {
+        "w": "The",
+        "t0": 70.08,
+        "t1": 70.28
+      },
+      {
+        "w": "light",
+        "t0": 70.28,
+        "t1": 70.56
+      },
+      {
+        "w": "it's",
+        "t0": 70.78,
+        "t1": 71.34
+      },
+      {
+        "w": "real",
+        "t0": 71.34,
+        "t1": 71.72
+      },
+      {
+        "w": "Teemo's",
+        "t0": 72.64,
+        "t1": 73.36
+      },
+      {
+        "w": "feathers",
+        "t0": 73.36,
+        "t1": 73.36
+      },
+      {
+        "w": "ruffled",
+        "t0": 73.36,
+        "t1": 73.82
+      },
+      {
+        "w": "with",
+        "t0": 73.82,
+        "t1": 74.3
+      },
+      {
+        "w": "excitement",
+        "t0": 74.3,
+        "t1": 74.66
+      },
+      {
+        "w": "He",
+        "t0": 75.24,
+        "t1": 75.42
+      },
+      {
+        "w": "grabbed",
+        "t0": 75.42,
+        "t1": 75.78
+      },
+      {
+        "w": "the",
+        "t0": 75.78,
+        "t1": 76.22
+      },
+      {
+        "w": "book",
+        "t0": 76.22,
+        "t1": 76.28
+      },
+      {
+        "w": "and",
+        "t0": 76.28,
+        "t1": 76.72
+      },
+      {
+        "w": "spread",
+        "t0": 76.72,
+        "t1": 77.0
+      },
+      {
+        "w": "his",
+        "t0": 77.0,
+        "t1": 77.34
+      },
+      {
+        "w": "wings",
+        "t0": 77.34,
+        "t1": 77.7
+      },
+      {
+        "w": "As",
+        "t0": 78.3,
+        "t1": 78.44
+      },
+      {
+        "w": "he",
+        "t0": 78.44,
+        "t1": 78.84
+      },
+      {
+        "w": "flew",
+        "t0": 78.84,
+        "t1": 78.88
+      },
+      {
+        "w": "over",
+        "t0": 78.88,
+        "t1": 79.1
+      },
+      {
+        "w": "the",
+        "t0": 79.1,
+        "t1": 79.7
+      },
+      {
+        "w": "forest",
+        "t0": 79.7,
+        "t1": 79.7
+      },
+      {
+        "w": "he",
+        "t0": 79.8,
+        "t1": 80.22
+      },
+      {
+        "w": "spotted",
+        "t0": 80.22,
+        "t1": 80.52
+      },
+      {
+        "w": "Luna",
+        "t0": 80.52,
+        "t1": 80.88
+      },
+      {
+        "w": "hopping",
+        "t0": 80.88,
+        "t1": 81.3
+      },
+      {
+        "w": "quickly",
+        "t0": 81.3,
+        "t1": 81.74
+      },
+      {
+        "w": "below",
+        "t0": 81.74,
+        "t1": 82.18
+      },
+      {
+        "w": "following",
+        "t0": 82.18,
+        "t1": 82.96
+      },
+      {
+        "w": "the",
+        "t0": 82.96,
+        "t1": 83.2
+      },
+      {
+        "w": "same",
+        "t0": 83.2,
+        "t1": 83.6
+      },
+      {
+        "w": "mysterious",
+        "t0": 83.6,
+        "t1": 84.12
+      },
+      {
+        "w": "glow",
+        "t0": 84.12,
+        "t1": 84.5
+      },
+      {
+        "w": "And",
+        "t0": 85.24,
+        "t1": 85.44
+      },
+      {
+        "w": "there",
+        "t0": 85.44,
+        "t1": 85.8
+      },
+      {
+        "w": "flying",
+        "t0": 86.44,
+        "t1": 86.44
+      },
+      {
+        "w": "in",
+        "t0": 86.44,
+        "t1": 86.92
+      },
+      {
+        "w": "loops",
+        "t0": 86.92,
+        "t1": 86.92
+      },
+      {
+        "w": "and",
+        "t0": 86.92,
+        "t1": 87.26
+      },
+      {
+        "w": "spirals",
+        "t0": 87.26,
+        "t1": 87.66
+      },
+      {
+        "w": "was",
+        "t0": 88.0,
+        "t1": 88.28
+      },
+      {
+        "w": "Lin",
+        "t0": 88.28,
+        "t1": 88.48
+      },
+      {
+        "w": "the",
+        "t0": 88.62,
+        "t1": 88.92
+      },
+      {
+        "w": "little",
+        "t0": 88.92,
+        "t1": 89.12
+      },
+      {
+        "w": "blue",
+        "t0": 89.12,
+        "t1": 89.36
+      },
+      {
+        "w": "dragon",
+        "t0": 89.36,
+        "t1": 89.72
+      },
+      {
+        "w": "leaving",
+        "t0": 90.18,
+        "t1": 90.52
+      },
+      {
+        "w": "trails",
+        "t0": 90.52,
+        "t1": 90.92
+      },
+      {
+        "w": "of",
+        "t0": 90.92,
+        "t1": 91.38
+      },
+      {
+        "w": "shimmering",
+        "t0": 91.38,
+        "t1": 91.98
+      },
+      {
+        "w": "bubbles",
+        "t0": 91.98,
+        "t1": 91.98
+      },
+      {
+        "w": "in",
+        "t0": 91.98,
+        "t1": 92.3
+      },
+      {
+        "w": "the",
+        "t0": 92.3,
+        "t1": 92.64
+      },
+      {
+        "w": "evening",
+        "t0": 92.64,
+        "t1": 92.66
+      },
+      {
+        "w": "air",
+        "t0": 92.66,
+        "t1": 93.0
+      },
+      {
+        "w": "We're",
+        "t0": 93.42,
+        "t1": 93.64
+      },
+      {
+        "w": "all",
+        "t0": 93.64,
+        "t1": 93.94
+      },
+      {
+        "w": "being",
+        "t0": 93.94,
+        "t1": 94.36
+      },
+      {
+        "w": "called",
+        "t0": 94.36,
+        "t1": 94.82
+      },
+      {
+        "w": "Teemo",
+        "t0": 95.56,
+        "t1": 95.56
+      },
+      {
+        "w": "realized",
+        "t0": 95.56,
+        "t1": 96.36
+      },
+      {
+        "w": "When",
+        "t0": 96.84,
+        "t1": 96.92
+      },
+      {
+        "w": "he",
+        "t0": 96.92,
+        "t1": 97.18
+      },
+      {
+        "w": "reached",
+        "t0": 97.18,
+        "t1": 97.46
+      },
+      {
+        "w": "the",
+        "t0": 97.46,
+        "t1": 97.78
+      },
+      {
+        "w": "oak",
+        "t0": 97.78,
+        "t1": 97.92
+      },
+      {
+        "w": "tree",
+        "t0": 97.92,
+        "t1": 98.22
+      },
+      {
+        "w": "Luna",
+        "t0": 98.78,
+        "t1": 98.88
+      },
+      {
+        "w": "was",
+        "t0": 98.88,
+        "t1": 99.12
+      },
+      {
+        "w": "already",
+        "t0": 99.12,
+        "t1": 99.46
+      },
+      {
+        "w": "there",
+        "t0": 99.46,
+        "t1": 99.82
+      },
+      {
+        "w": "Staring",
+        "t0": 100.54,
+        "t1": 100.54
+      },
+      {
+        "w": "at",
+        "t0": 100.54,
+        "t1": 101.0
+      },
+      {
+        "w": "the",
+        "t0": 101.0,
+        "t1": 101.48
+      },
+      {
+        "w": "carved",
+        "t0": 101.48,
+        "t1": 101.48
+      },
+      {
+        "w": "symbols",
+        "t0": 101.48,
+        "t1": 101.92
+      },
+      {
+        "w": "Lin",
+        "t0": 102.6,
+        "t1": 102.82
+      },
+      {
+        "w": "swooped",
+        "t0": 102.82,
+        "t1": 103.16
+      },
+      {
+        "w": "down",
+        "t0": 103.16,
+        "t1": 103.54
+      },
+      {
+        "w": "beside",
+        "t0": 103.54,
+        "t1": 103.88
+      },
+      {
+        "w": "them",
+        "t0": 103.88,
+        "t1": 104.14
+      },
+      {
+        "w": "The",
+        "t0": 104.36,
+        "t1": 104.62
+      },
+      {
+        "w": "symbols",
+        "t0": 104.62,
+        "t1": 104.94
+      },
+      {
+        "w": "began",
+        "t0": 104.94,
+        "t1": 105.38
+      },
+      {
+        "w": "to",
+        "t0": 105.38,
+        "t1": 105.94
+      },
+      {
+        "w": "glow",
+        "t0": 105.94,
+        "t1": 105.94
+      },
+      {
+        "w": "Silver",
+        "t0": 106.7,
+        "t1": 107.04
+      },
+      {
+        "w": "gold",
+        "t0": 107.62,
+        "t1": 107.84
+      },
+      {
+        "w": "and",
+        "t0": 107.86,
+        "t1": 108.48
+      },
+      {
+        "w": "bright",
+        "t0": 108.48,
+        "t1": 108.56
+      },
+      {
+        "w": "white",
+        "t0": 108.56,
+        "t1": 108.92
+      },
+      {
+        "w": "According",
+        "t0": 108.92,
+        "t1": 109.6
+      },
+      {
+        "w": "to",
+        "t0": 109.6,
+        "t1": 110.0
+      },
+      {
+        "w": "this",
+        "t0": 110.0,
+        "t1": 110.3
+      },
+      {
+        "w": "book",
+        "t0": 110.3,
+        "t1": 110.68
+      },
+      {
+        "w": "Teemo",
+        "t0": 112.86,
+        "t1": 112.94
+      },
+      {
+        "w": "said",
+        "t0": 112.94,
+        "t1": 113.46
+      },
+      {
+        "w": "breathlessly",
+        "t0": 113.46,
+        "t1": 114.24
+      },
+      {
+        "w": "We",
+        "t0": 114.96,
+        "t1": 115.0
+      },
+      {
+        "w": "need",
+        "t0": 115.0,
+        "t1": 115.42
+      },
+      {
+        "w": "to",
+        "t0": 115.42,
+        "t1": 115.84
+      },
+      {
+        "w": "touch",
+        "t0": 115.84,
+        "t1": 116.1
+      },
+      {
+        "w": "the",
+        "t0": 116.1,
+        "t1": 116.42
+      },
+      {
+        "w": "symbols",
+        "t0": 116.42,
+        "t1": 116.78
+      },
+      {
+        "w": "at",
+        "t0": 116.78,
+        "t1": 117.12
+      },
+      {
+        "w": "the",
+        "t0": 117.12,
+        "t1": 117.42
+      },
+      {
+        "w": "exact",
+        "t0": 117.42,
+        "t1": 117.78
+      },
+      {
+        "w": "same",
+        "t0": 117.78,
+        "t1": 118.16
+      },
+      {
+        "w": "moment",
+        "t0": 118.16,
+        "t1": 118.48
+      },
+      {
+        "w": "But",
+        "t0": 118.98,
+        "t1": 119.12
+      },
+      {
+        "w": "he",
+        "t0": 119.12,
+        "t1": 120.26
+      },
+      {
+        "w": "turned",
+        "t0": 120.26,
+        "t1": 120.6
+      },
+      {
+        "w": "the",
+        "t0": 120.6,
+        "t1": 120.84
+      },
+      {
+        "w": "page",
+        "t0": 120.84,
+        "t1": 121.2
+      },
+      {
+        "w": "It",
+        "t0": 121.98,
+        "t1": 121.98
+      },
+      {
+        "w": "was",
+        "t0": 121.98,
+        "t1": 122.22
+      },
+      {
+        "w": "torn",
+        "t0": 122.22,
+        "t1": 122.54
+      },
+      {
+        "w": "The",
+        "t0": 123.44,
+        "t1": 123.62
+      },
+      {
+        "w": "rest",
+        "t0": 123.62,
+        "t1": 123.86
+      },
+      {
+        "w": "was",
+        "t0": 123.86,
+        "t1": 124.18
+      },
+      {
+        "w": "missing",
+        "t0": 124.18,
+        "t1": 124.42
+      }
+    ],
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_01_en.png"
   },
   {
-    "id": "20260408_00_it",
+    "id": "20260408_02_it",
     "fecha": "08/04/2026",
     "lang": "it",
-    "titulo": "Capitolo 1 — La luce misteriosa nel bosco",
-    "texto": "Era una sera tranquilla quando Luna, la coniglietta curiosa, vide qualcosa di strano tra gli alberi. Una luce dorata brillava nel cuore del bosco!\n\n«Timo! Lin! Venite subito!» chiamò emozionata.\n\nTimo, il gufo saggio, volò giù dal suo ramo. Lin, la volpe astuta, uscì dalla sua tana. Insieme guardarono la luce misteriosa che danzava tra le foglie.\n\n«Non l'ho mai vista prima,» disse Timo aggiustando i suoi occhiali. «Sembra... magica.\"\n\nLin annusò l'aria. «Profuma di miele e stelle. Dobbiamo scoprire cos'è!\"\n\nMa quando si avvicinarono, la luce cominciò a muoversi, saltellando da un albero all'altro, come se volesse che la seguissero.\n\n«È come se ci stesse chiamando,» sussurrò Luna, le sue orecchie dritte per l'emozione.\n\nLa luce si fermò davanti a una vecchia quercia enorme. Lì, inciso nella corteccia, c'era un simbolo che nessuno di loro aveva mai visto: una luna, un sole e una stella, tutti insieme.\n\n«Cosa significherà?\" chiese Lin.\n\nPrima che qualcuno potesse rispondere, la luce entrò dentro l'albero... e una porta segreta si aprì lentamente, rivelando scale che scendevano sottoterra.\n\nI tre amici si guardarono. L'avventura stava per cominciare.",
-    "traduccion": "Era una tarde tranquila cuando Luna, la conejita curiosa, vio algo extraño entre los árboles. ¡Una luz dorada brillaba en el corazón del bosque!\n\n«¡Timo! ¡Lin! ¡Vengan enseguida!» llamó emocionada.\n\nTimo, el búho sabio, voló desde su rama. Lin, la zorra astuta, salió de su madriguera. Juntos miraron la luz misteriosa que danzaba entre las hojas.\n\n«Nunca la he visto antes,» dijo Timo ajustando sus gafas. «Parece... mágica.\"\n\nLin olió el aire. «Huele a miel y estrellas. ¡Debemos descubrir qué es!»\n\nPero cuando se acercaron, la luz comenzó a moverse, saltando de un árbol a otro, como si quisiera que la siguieran.\n\n«Es como si nos estuviera llamando,» susurró Luna, con sus orejas erguidas de emoción.\n\nLa luz se detuvo frente a un enorme roble antiguo. Allí, grabado en la corteza, había un símbolo que ninguno había visto antes: una luna, un sol y una estrella, todos juntos.\n\n«¿Qué significará?» preguntó Lin.\n\nAntes de que alguien pudiera responder, la luz entró dentro del árbol... y una puerta secreta se abrió lentamente, revelando escaleras que descendían bajo tierra.\n\nLos tres amigos se miraron. La aventura estaba por comenzar.",
-    "moraleja": "La curiosidad nos lleva a descubrir maravillas ocultas.",
-    "pregunta": "¿Crees que Luna, Timo y Lin deberían bajar por las escaleras secretas?",
-    "palabra": "🔤 luce = luz (italiano) | light (inglés)",
-    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260408_00_it.mp3",
-    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_00_it.png"
+    "titulo": "Capitolo 1 — Le bolle magiche di Lin",
+    "texto": "Lin, il piccolo drago azzurro, stava giocando vicino al ruscello quando vide qualcosa di strano. Una luce dorata brillava tra gli alberi.\n\n—Che cos'è? —Lin svolazzò più in alto per vedere meglio.\n\nLe sue ali battevano velocemente mentre seguiva la luce misteriosa. Lin era emozionato! Quando era felice, soffiava bolle invece di fuoco. E ora le bolle uscivano dalla sua bocca come piccole stelle lucenti.\n\n—Sto arrivando, luce magica! —gridò Lin.\n\nLe bolle di Lin fluttuavano nell'aria, creando un sentiero scintillante. Alcune erano piccole come perle, altre grandi come mele. Tutte brillavano con colori dell'arcobaleno.\n\nQuando Lin arrivò alla grande quercia antica, vide Luna la coniglietta e Timo il gufo già lì. Sul tronco c'era un simbolo: luna, sole e stella.\n\n—Guardate! —disse Lin eccitato. Soffiò una grande bolla verso il simbolo.\n\nLa bolla toccò la stella incisa... e successe qualcosa incredibile! Dal terreno cominciarono ad apparire scalini di pietra, uno dopo l'altro, come se stessero crescendo dal nulla. Ma erano coperti di muschio scuro e non si vedevano bene.\n\n—Sono troppo scuri! —disse Luna preoccupata.\n\n—Nessun problema! —Lin sorrise.\n\nIl draghetto azzurro cominciò a soffiare bolle che si fermavano sui gradini, illuminandoli come piccole lanterne magiche. Ogni bolla splendeva con una luce gentile che mostrava la via verso il basso.\n\n—Gli scalini vanno sotto terra! —disse Timo, guardando con i suoi occhiali.\n\nMa quanti scalini c'erano? E dove portavano? Lin contò: uno, due, tre... ma dopo il decimo gradino, tutto era buio.\n\n—Dobbiamo scendere insieme?",
+    "traduccion": "Lin el dragón azul sigue la luz misteriosa soplando burbujas brillantes. Cuando llega al roble con Luna y Timo, sus burbujas mágicas iluminan unas escaleras secretas que bajan bajo tierra. Pero no saben adónde llevan...",
+    "moraleja": "La gioia illumina anche i sentieri più bui",
+    "pregunta": "Se avessi le bolle magiche di Lin, cosa vorresti illuminare?",
+    "palabra": "🔤 bolla = burbuja (es) / bubble (en)",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260408_02_it.mp3",
+    "words": [
+      {
+        "w": "Capitolo",
+        "t0": 0.0,
+        "t1": 0.62
+      },
+      {
+        "w": "uno",
+        "t0": 0.62,
+        "t1": 1.2
+      },
+      {
+        "w": "Le",
+        "t0": 1.84,
+        "t1": 1.98
+      },
+      {
+        "w": "bolle",
+        "t0": 1.98,
+        "t1": 2.32
+      },
+      {
+        "w": "magiche",
+        "t0": 2.32,
+        "t1": 2.8
+      },
+      {
+        "w": "di",
+        "t0": 2.8,
+        "t1": 3.26
+      },
+      {
+        "w": "Lin",
+        "t0": 3.26,
+        "t1": 3.26
+      },
+      {
+        "w": "Lin",
+        "t0": 3.66,
+        "t1": 4.32
+      },
+      {
+        "w": "il",
+        "t0": 4.68,
+        "t1": 4.9
+      },
+      {
+        "w": "piccolo",
+        "t0": 4.9,
+        "t1": 5.24
+      },
+      {
+        "w": "drago",
+        "t0": 5.24,
+        "t1": 5.56
+      },
+      {
+        "w": "azzurro",
+        "t0": 5.56,
+        "t1": 6.12
+      },
+      {
+        "w": "stava",
+        "t0": 6.84,
+        "t1": 6.9
+      },
+      {
+        "w": "giocando",
+        "t0": 6.9,
+        "t1": 7.38
+      },
+      {
+        "w": "vicino",
+        "t0": 7.38,
+        "t1": 7.78
+      },
+      {
+        "w": "al",
+        "t0": 7.78,
+        "t1": 7.98
+      },
+      {
+        "w": "ruscello",
+        "t0": 7.98,
+        "t1": 8.52
+      },
+      {
+        "w": "quando",
+        "t0": 9.3,
+        "t1": 9.42
+      },
+      {
+        "w": "vide",
+        "t0": 9.42,
+        "t1": 9.7
+      },
+      {
+        "w": "qualcosa",
+        "t0": 9.7,
+        "t1": 10.2
+      },
+      {
+        "w": "di",
+        "t0": 10.2,
+        "t1": 10.72
+      },
+      {
+        "w": "strano",
+        "t0": 10.72,
+        "t1": 10.8
+      },
+      {
+        "w": "Una",
+        "t0": 11.76,
+        "t1": 11.86
+      },
+      {
+        "w": "luce",
+        "t0": 11.86,
+        "t1": 12.1
+      },
+      {
+        "w": "dorata",
+        "t0": 12.1,
+        "t1": 12.54
+      },
+      {
+        "w": "brillava",
+        "t0": 12.54,
+        "t1": 13.08
+      },
+      {
+        "w": "tra",
+        "t0": 13.08,
+        "t1": 13.32
+      },
+      {
+        "w": "gli",
+        "t0": 13.32,
+        "t1": 13.56
+      },
+      {
+        "w": "alberi",
+        "t0": 13.56,
+        "t1": 13.84
+      },
+      {
+        "w": "Che",
+        "t0": 14.16,
+        "t1": 14.3
+      },
+      {
+        "w": "cos",
+        "t0": 14.3,
+        "t1": 14.66
+      },
+      {
+        "w": "è",
+        "t0": 14.66,
+        "t1": 14.76
+      },
+      {
+        "w": "Lin",
+        "t0": 16.96,
+        "t1": 17.18
+      },
+      {
+        "w": "svolazzò",
+        "t0": 17.18,
+        "t1": 18.04
+      },
+      {
+        "w": "più",
+        "t0": 18.32,
+        "t1": 18.32
+      },
+      {
+        "w": "in",
+        "t0": 18.32,
+        "t1": 18.66
+      },
+      {
+        "w": "alto",
+        "t0": 18.66,
+        "t1": 18.78
+      },
+      {
+        "w": "per",
+        "t0": 19.38,
+        "t1": 19.58
+      },
+      {
+        "w": "vedere",
+        "t0": 19.58,
+        "t1": 19.84
+      },
+      {
+        "w": "meglio",
+        "t0": 19.84,
+        "t1": 20.28
+      },
+      {
+        "w": "Le",
+        "t0": 21.2,
+        "t1": 21.32
+      },
+      {
+        "w": "sue",
+        "t0": 21.32,
+        "t1": 21.52
+      },
+      {
+        "w": "ali",
+        "t0": 21.52,
+        "t1": 21.72
+      },
+      {
+        "w": "battevano",
+        "t0": 21.72,
+        "t1": 22.28
+      },
+      {
+        "w": "velocemente",
+        "t0": 22.28,
+        "t1": 23.08
+      },
+      {
+        "w": "mentre",
+        "t0": 23.92,
+        "t1": 24.12
+      },
+      {
+        "w": "seguiva",
+        "t0": 24.12,
+        "t1": 24.54
+      },
+      {
+        "w": "la",
+        "t0": 24.54,
+        "t1": 24.76
+      },
+      {
+        "w": "luce",
+        "t0": 24.76,
+        "t1": 24.9
+      },
+      {
+        "w": "misteriosa",
+        "t0": 24.9,
+        "t1": 25.62
+      },
+      {
+        "w": "Lin",
+        "t0": 27.04,
+        "t1": 27.28
+      },
+      {
+        "w": "era",
+        "t0": 27.28,
+        "t1": 27.58
+      },
+      {
+        "w": "emozionato",
+        "t0": 27.58,
+        "t1": 28.26
+      },
+      {
+        "w": "Quando",
+        "t0": 28.82,
+        "t1": 29.18
+      },
+      {
+        "w": "era",
+        "t0": 29.18,
+        "t1": 29.4
+      },
+      {
+        "w": "felice",
+        "t0": 29.4,
+        "t1": 29.88
+      },
+      {
+        "w": "soffiava",
+        "t0": 30.64,
+        "t1": 30.94
+      },
+      {
+        "w": "bolle",
+        "t0": 30.94,
+        "t1": 31.2
+      },
+      {
+        "w": "invece",
+        "t0": 31.2,
+        "t1": 31.54
+      },
+      {
+        "w": "di",
+        "t0": 31.54,
+        "t1": 31.8
+      },
+      {
+        "w": "fuoco",
+        "t0": 31.8,
+        "t1": 32.08
+      },
+      {
+        "w": "E",
+        "t0": 33.04,
+        "t1": 33.22
+      },
+      {
+        "w": "ora",
+        "t0": 33.22,
+        "t1": 33.36
+      },
+      {
+        "w": "le",
+        "t0": 33.36,
+        "t1": 33.58
+      },
+      {
+        "w": "bolle",
+        "t0": 33.58,
+        "t1": 33.72
+      },
+      {
+        "w": "uscivano",
+        "t0": 33.72,
+        "t1": 34.24
+      },
+      {
+        "w": "dalla",
+        "t0": 34.24,
+        "t1": 34.48
+      },
+      {
+        "w": "sua",
+        "t0": 34.48,
+        "t1": 34.96
+      },
+      {
+        "w": "bocca",
+        "t0": 34.96,
+        "t1": 35.04
+      },
+      {
+        "w": "come",
+        "t0": 35.38,
+        "t1": 36.1
+      },
+      {
+        "w": "piccole",
+        "t0": 36.1,
+        "t1": 36.64
+      },
+      {
+        "w": "stelle",
+        "t0": 36.64,
+        "t1": 36.92
+      },
+      {
+        "w": "lucenti",
+        "t0": 36.92,
+        "t1": 37.5
+      },
+      {
+        "w": "Sto",
+        "t0": 38.0,
+        "t1": 38.56
+      },
+      {
+        "w": "arrivando",
+        "t0": 38.56,
+        "t1": 39.34
+      },
+      {
+        "w": "luce",
+        "t0": 40.04,
+        "t1": 40.04
+      },
+      {
+        "w": "magica",
+        "t0": 40.04,
+        "t1": 40.7
+      },
+      {
+        "w": "gridò",
+        "t0": 41.44,
+        "t1": 41.66
+      },
+      {
+        "w": "Lin",
+        "t0": 41.66,
+        "t1": 41.96
+      },
+      {
+        "w": "Le",
+        "t0": 42.52,
+        "t1": 42.82
+      },
+      {
+        "w": "bolle",
+        "t0": 42.82,
+        "t1": 43.06
+      },
+      {
+        "w": "di",
+        "t0": 43.06,
+        "t1": 43.28
+      },
+      {
+        "w": "Lin",
+        "t0": 43.28,
+        "t1": 43.48
+      },
+      {
+        "w": "fluttuavano",
+        "t0": 43.48,
+        "t1": 44.22
+      },
+      {
+        "w": "nell",
+        "t0": 44.22,
+        "t1": 44.52
+      },
+      {
+        "w": "aria",
+        "t0": 44.52,
+        "t1": 44.82
+      },
+      {
+        "w": "creando",
+        "t0": 45.48,
+        "t1": 45.5
+      },
+      {
+        "w": "un",
+        "t0": 45.5,
+        "t1": 45.88
+      },
+      {
+        "w": "sentiero",
+        "t0": 45.88,
+        "t1": 46.16
+      },
+      {
+        "w": "scintillante",
+        "t0": 46.16,
+        "t1": 46.96
+      },
+      {
+        "w": "Alcune",
+        "t0": 48.0,
+        "t1": 48.0
+      },
+      {
+        "w": "erano",
+        "t0": 48.0,
+        "t1": 48.34
+      },
+      {
+        "w": "piccole",
+        "t0": 48.34,
+        "t1": 48.76
+      },
+      {
+        "w": "come",
+        "t0": 48.76,
+        "t1": 49.06
+      },
+      {
+        "w": "perle",
+        "t0": 49.06,
+        "t1": 49.42
+      },
+      {
+        "w": "altre",
+        "t0": 50.16,
+        "t1": 50.24
+      },
+      {
+        "w": "grandi",
+        "t0": 50.24,
+        "t1": 50.64
+      },
+      {
+        "w": "come",
+        "t0": 50.64,
+        "t1": 50.94
+      },
+      {
+        "w": "mele",
+        "t0": 50.94,
+        "t1": 51.2
+      },
+      {
+        "w": "Tutte",
+        "t0": 52.24,
+        "t1": 52.34
+      },
+      {
+        "w": "brillavano",
+        "t0": 52.34,
+        "t1": 52.86
+      },
+      {
+        "w": "con",
+        "t0": 52.86,
+        "t1": 53.18
+      },
+      {
+        "w": "colori",
+        "t0": 53.18,
+        "t1": 53.54
+      },
+      {
+        "w": "dell",
+        "t0": 53.54,
+        "t1": 53.74
+      },
+      {
+        "w": "arcobaleno",
+        "t0": 53.74,
+        "t1": 54.3
+      },
+      {
+        "w": "Quando",
+        "t0": 55.3,
+        "t1": 55.44
+      },
+      {
+        "w": "Lin",
+        "t0": 55.44,
+        "t1": 55.8
+      },
+      {
+        "w": "arrivò",
+        "t0": 55.8,
+        "t1": 56.32
+      },
+      {
+        "w": "alla",
+        "t0": 56.32,
+        "t1": 56.52
+      },
+      {
+        "w": "grande",
+        "t0": 56.52,
+        "t1": 56.94
+      },
+      {
+        "w": "quercia",
+        "t0": 56.94,
+        "t1": 57.28
+      },
+      {
+        "w": "antica",
+        "t0": 57.28,
+        "t1": 57.74
+      },
+      {
+        "w": "vide",
+        "t0": 58.26,
+        "t1": 58.48
+      },
+      {
+        "w": "luna",
+        "t0": 58.48,
+        "t1": 58.78
+      },
+      {
+        "w": "la",
+        "t0": 58.78,
+        "t1": 58.98
+      },
+      {
+        "w": "coniglietta",
+        "t0": 58.98,
+        "t1": 59.58
+      },
+      {
+        "w": "e",
+        "t0": 59.58,
+        "t1": 60.12
+      },
+      {
+        "w": "timo",
+        "t0": 60.12,
+        "t1": 60.36
+      },
+      {
+        "w": "il",
+        "t0": 60.36,
+        "t1": 60.5
+      },
+      {
+        "w": "gufo",
+        "t0": 60.5,
+        "t1": 60.72
+      },
+      {
+        "w": "già",
+        "t0": 60.72,
+        "t1": 61.04
+      },
+      {
+        "w": "lì",
+        "t0": 61.04,
+        "t1": 61.2
+      },
+      {
+        "w": "Sul",
+        "t0": 62.02,
+        "t1": 62.02
+      },
+      {
+        "w": "tronco",
+        "t0": 62.02,
+        "t1": 62.44
+      },
+      {
+        "w": "c",
+        "t0": 62.44,
+        "t1": 62.74
+      },
+      {
+        "w": "era",
+        "t0": 62.74,
+        "t1": 62.74
+      },
+      {
+        "w": "un",
+        "t0": 62.74,
+        "t1": 63.5
+      },
+      {
+        "w": "simbolo",
+        "t0": 63.5,
+        "t1": 63.76
+      },
+      {
+        "w": "luna",
+        "t0": 64.1,
+        "t1": 64.2
+      },
+      {
+        "w": "sole",
+        "t0": 64.88,
+        "t1": 64.88
+      },
+      {
+        "w": "e",
+        "t0": 64.88,
+        "t1": 65.36
+      },
+      {
+        "w": "stella",
+        "t0": 65.36,
+        "t1": 65.64
+      },
+      {
+        "w": "Guardate",
+        "t0": 66.86,
+        "t1": 67.48
+      },
+      {
+        "w": "disse",
+        "t0": 68.42,
+        "t1": 68.42
+      },
+      {
+        "w": "Lin",
+        "t0": 68.42,
+        "t1": 69.08
+      },
+      {
+        "w": "eccitato",
+        "t0": 69.08,
+        "t1": 70.04
+      },
+      {
+        "w": "Soffiò",
+        "t0": 70.84,
+        "t1": 71.0
+      },
+      {
+        "w": "una",
+        "t0": 71.0,
+        "t1": 71.2
+      },
+      {
+        "w": "grande",
+        "t0": 71.2,
+        "t1": 71.54
+      },
+      {
+        "w": "bolla",
+        "t0": 71.54,
+        "t1": 71.76
+      },
+      {
+        "w": "verso",
+        "t0": 71.76,
+        "t1": 72.08
+      },
+      {
+        "w": "il",
+        "t0": 72.08,
+        "t1": 72.5
+      },
+      {
+        "w": "simbolo",
+        "t0": 72.5,
+        "t1": 72.62
+      },
+      {
+        "w": "La",
+        "t0": 73.32,
+        "t1": 73.42
+      },
+      {
+        "w": "bolla",
+        "t0": 73.42,
+        "t1": 73.66
+      },
+      {
+        "w": "toccò",
+        "t0": 73.66,
+        "t1": 74.0
+      },
+      {
+        "w": "la",
+        "t0": 74.0,
+        "t1": 74.32
+      },
+      {
+        "w": "stella",
+        "t0": 74.32,
+        "t1": 74.44
+      },
+      {
+        "w": "incisa",
+        "t0": 74.44,
+        "t1": 74.92
+      },
+      {
+        "w": "E",
+        "t0": 75.56,
+        "t1": 75.76
+      },
+      {
+        "w": "successe",
+        "t0": 75.76,
+        "t1": 76.66
+      },
+      {
+        "w": "qualcosa",
+        "t0": 76.66,
+        "t1": 77.18
+      },
+      {
+        "w": "incredibile",
+        "t0": 77.18,
+        "t1": 77.86
+      },
+      {
+        "w": "Dal",
+        "t0": 78.66,
+        "t1": 78.74
+      },
+      {
+        "w": "terreno",
+        "t0": 78.74,
+        "t1": 79.18
+      },
+      {
+        "w": "cominciarono",
+        "t0": 79.18,
+        "t1": 80.16
+      },
+      {
+        "w": "ad",
+        "t0": 80.16,
+        "t1": 80.4
+      },
+      {
+        "w": "apparire",
+        "t0": 80.4,
+        "t1": 80.68
+      },
+      {
+        "w": "scalini",
+        "t0": 80.68,
+        "t1": 81.16
+      },
+      {
+        "w": "di",
+        "t0": 81.16,
+        "t1": 81.58
+      },
+      {
+        "w": "pietra",
+        "t0": 81.58,
+        "t1": 81.78
+      },
+      {
+        "w": "uno",
+        "t0": 82.42,
+        "t1": 82.44
+      },
+      {
+        "w": "dopo",
+        "t0": 82.44,
+        "t1": 82.7
+      },
+      {
+        "w": "l",
+        "t0": 82.7,
+        "t1": 82.86
+      },
+      {
+        "w": "altro",
+        "t0": 82.86,
+        "t1": 83.08
+      },
+      {
+        "w": "come",
+        "t0": 83.7,
+        "t1": 83.8
+      },
+      {
+        "w": "se",
+        "t0": 83.8,
+        "t1": 84.1
+      },
+      {
+        "w": "stessero",
+        "t0": 84.1,
+        "t1": 84.4
+      },
+      {
+        "w": "crescendo",
+        "t0": 84.4,
+        "t1": 84.88
+      },
+      {
+        "w": "dal",
+        "t0": 84.88,
+        "t1": 85.16
+      },
+      {
+        "w": "nulla",
+        "t0": 85.16,
+        "t1": 86.02
+      },
+      {
+        "w": "Ma",
+        "t0": 86.16,
+        "t1": 86.44
+      },
+      {
+        "w": "erano",
+        "t0": 86.44,
+        "t1": 86.64
+      },
+      {
+        "w": "coperti",
+        "t0": 86.64,
+        "t1": 87.1
+      },
+      {
+        "w": "di",
+        "t0": 87.1,
+        "t1": 87.3
+      },
+      {
+        "w": "muschio",
+        "t0": 87.3,
+        "t1": 87.56
+      },
+      {
+        "w": "scuro",
+        "t0": 87.56,
+        "t1": 88.02
+      },
+      {
+        "w": "E",
+        "t0": 88.26,
+        "t1": 88.82
+      },
+      {
+        "w": "non",
+        "t0": 88.82,
+        "t1": 88.98
+      },
+      {
+        "w": "si",
+        "t0": 88.98,
+        "t1": 89.22
+      },
+      {
+        "w": "vedevano",
+        "t0": 89.22,
+        "t1": 89.52
+      },
+      {
+        "w": "bene",
+        "t0": 89.52,
+        "t1": 89.9
+      },
+      {
+        "w": "Sono",
+        "t0": 91.0,
+        "t1": 91.3
+      },
+      {
+        "w": "troppo",
+        "t0": 91.3,
+        "t1": 92.02
+      },
+      {
+        "w": "scuri",
+        "t0": 92.02,
+        "t1": 92.52
+      },
+      {
+        "w": "disse",
+        "t0": 93.32,
+        "t1": 93.46
+      },
+      {
+        "w": "luna",
+        "t0": 93.46,
+        "t1": 94.02
+      },
+      {
+        "w": "preoccupata",
+        "t0": 94.02,
+        "t1": 95.22
+      },
+      {
+        "w": "Nessun",
+        "t0": 95.92,
+        "t1": 96.26
+      },
+      {
+        "w": "problema",
+        "t0": 96.26,
+        "t1": 96.78
+      },
+      {
+        "w": "Lin",
+        "t0": 98.44,
+        "t1": 98.46
+      },
+      {
+        "w": "sorrise",
+        "t0": 98.46,
+        "t1": 99.38
+      },
+      {
+        "w": "Il",
+        "t0": 100.52,
+        "t1": 100.62
+      },
+      {
+        "w": "draghetto",
+        "t0": 100.62,
+        "t1": 101.06
+      },
+      {
+        "w": "azzurro",
+        "t0": 101.06,
+        "t1": 101.62
+      },
+      {
+        "w": "cominciò",
+        "t0": 101.62,
+        "t1": 102.12
+      },
+      {
+        "w": "a",
+        "t0": 102.12,
+        "t1": 102.5
+      },
+      {
+        "w": "soffiar",
+        "t0": 102.5,
+        "t1": 102.7
+      },
+      {
+        "w": "olle",
+        "t0": 102.7,
+        "t1": 103.22
+      },
+      {
+        "w": "che",
+        "t0": 103.22,
+        "t1": 103.76
+      },
+      {
+        "w": "si",
+        "t0": 103.76,
+        "t1": 103.98
+      },
+      {
+        "w": "fermavano",
+        "t0": 103.98,
+        "t1": 104.42
+      },
+      {
+        "w": "sui",
+        "t0": 104.42,
+        "t1": 104.82
+      },
+      {
+        "w": "gradini",
+        "t0": 104.82,
+        "t1": 105.18
+      },
+      {
+        "w": "illuminandoli",
+        "t0": 106.24,
+        "t1": 106.64
+      },
+      {
+        "w": "come",
+        "t0": 106.64,
+        "t1": 107.12
+      },
+      {
+        "w": "piccole",
+        "t0": 107.12,
+        "t1": 107.58
+      },
+      {
+        "w": "lanterne",
+        "t0": 107.58,
+        "t1": 108.08
+      },
+      {
+        "w": "magiche",
+        "t0": 108.08,
+        "t1": 108.54
+      },
+      {
+        "w": "Ogni",
+        "t0": 109.56,
+        "t1": 109.66
+      },
+      {
+        "w": "bolla",
+        "t0": 109.66,
+        "t1": 110.04
+      },
+      {
+        "w": "splendeva",
+        "t0": 110.04,
+        "t1": 111.02
+      },
+      {
+        "w": "con",
+        "t0": 111.02,
+        "t1": 111.28
+      },
+      {
+        "w": "una",
+        "t0": 111.28,
+        "t1": 111.56
+      },
+      {
+        "w": "luce",
+        "t0": 111.56,
+        "t1": 111.66
+      },
+      {
+        "w": "gentile",
+        "t0": 111.66,
+        "t1": 112.26
+      },
+      {
+        "w": "che",
+        "t0": 112.26,
+        "t1": 112.82
+      },
+      {
+        "w": "mostrava",
+        "t0": 112.82,
+        "t1": 113.34
+      },
+      {
+        "w": "la",
+        "t0": 113.34,
+        "t1": 113.6
+      },
+      {
+        "w": "via",
+        "t0": 113.6,
+        "t1": 113.66
+      },
+      {
+        "w": "verso",
+        "t0": 113.66,
+        "t1": 114.0
+      },
+      {
+        "w": "il",
+        "t0": 114.0,
+        "t1": 114.46
+      },
+      {
+        "w": "basso",
+        "t0": 114.46,
+        "t1": 114.54
+      },
+      {
+        "w": "Gli",
+        "t0": 115.34,
+        "t1": 115.5
+      },
+      {
+        "w": "scalini",
+        "t0": 115.5,
+        "t1": 116.0
+      },
+      {
+        "w": "vanno",
+        "t0": 116.0,
+        "t1": 116.58
+      },
+      {
+        "w": "sottoterra",
+        "t0": 116.58,
+        "t1": 117.46
+      },
+      {
+        "w": "Disse",
+        "t0": 118.26,
+        "t1": 118.76
+      },
+      {
+        "w": "timo",
+        "t0": 118.76,
+        "t1": 119.46
+      },
+      {
+        "w": "guardando",
+        "t0": 119.58,
+        "t1": 119.96
+      },
+      {
+        "w": "con",
+        "t0": 119.96,
+        "t1": 120.2
+      },
+      {
+        "w": "i",
+        "t0": 120.2,
+        "t1": 120.44
+      },
+      {
+        "w": "suoi",
+        "t0": 120.44,
+        "t1": 120.56
+      },
+      {
+        "w": "occhiali",
+        "t0": 120.56,
+        "t1": 121.08
+      },
+      {
+        "w": "Ma",
+        "t0": 121.82,
+        "t1": 121.98
+      },
+      {
+        "w": "quanti",
+        "t0": 121.98,
+        "t1": 122.42
+      },
+      {
+        "w": "scalini",
+        "t0": 122.42,
+        "t1": 122.76
+      },
+      {
+        "w": "c",
+        "t0": 122.76,
+        "t1": 123.16
+      },
+      {
+        "w": "erano",
+        "t0": 123.16,
+        "t1": 123.24
+      },
+      {
+        "w": "E",
+        "t0": 123.82,
+        "t1": 124.06
+      },
+      {
+        "w": "dove",
+        "t0": 124.06,
+        "t1": 124.18
+      },
+      {
+        "w": "portavano",
+        "t0": 124.18,
+        "t1": 124.78
+      },
+      {
+        "w": "Lin",
+        "t0": 125.7,
+        "t1": 125.98
+      },
+      {
+        "w": "contò",
+        "t0": 125.98,
+        "t1": 126.4
+      },
+      {
+        "w": "due",
+        "t0": 127.92,
+        "t1": 128.02
+      },
+      {
+        "w": "tre",
+        "t0": 128.58,
+        "t1": 128.74
+      },
+      {
+        "w": "Ma",
+        "t0": 129.32,
+        "t1": 129.52
+      },
+      {
+        "w": "dopo",
+        "t0": 129.52,
+        "t1": 129.68
+      },
+      {
+        "w": "il",
+        "t0": 129.68,
+        "t1": 129.9
+      },
+      {
+        "w": "decimo",
+        "t0": 129.9,
+        "t1": 130.22
+      },
+      {
+        "w": "gradino",
+        "t0": 130.22,
+        "t1": 130.68
+      },
+      {
+        "w": "tutto",
+        "t0": 131.38,
+        "t1": 131.48
+      },
+      {
+        "w": "era",
+        "t0": 131.48,
+        "t1": 131.72
+      },
+      {
+        "w": "buio",
+        "t0": 131.72,
+        "t1": 132.06
+      },
+      {
+        "w": "Dobbiamo",
+        "t0": 132.64,
+        "t1": 133.06
+      },
+      {
+        "w": "scendere",
+        "t0": 133.06,
+        "t1": 133.58
+      },
+      {
+        "w": "insieme",
+        "t0": 133.58,
+        "t1": 134.14
+      }
+    ],
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_02_it.png"
   },
   {
     "id": "20260407_00_es",
