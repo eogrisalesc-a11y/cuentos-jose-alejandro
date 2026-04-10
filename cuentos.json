@@ -1637,7 +1637,9 @@
         "t1": 152.33,
         "prompt": "The completed rope bridge suspended over the sparkling river at sunset, Bartolo gently plucking one vine that glows and vibrates like a harp string, while Luna, Timo and Lin stand together proudly admiring their work in the golden light."
       }
-    ]
+    ],
+    "saga": "Constructores de Puentes (Gnomo Bartolo)",
+    "chapter_num": 3
   },
   {
     "id": "20260409_01_en",
@@ -3040,7 +3042,9 @@
         "t1": 108.0,
         "prompt": "On the hill at night, Timo places small stones on the corners of papers while Lin creates sticky golden bubbles to keep the maps from blowing away in the wind. Luna looks relieved, and Eleanor smiles approvingly. The completed star maps showing moon, stars, tree and paths are visible on the papers."
       }
-    ]
+    ],
+    "saga": "Map-Making with Eleanor",
+    "chapter_num": 3
   },
   {
     "id": "20260409_02_it",
@@ -4358,7 +4362,9 @@
         "t1": 129.26,
         "prompt": "Luna, Timo and Lin laughing joyfully while eating round cookies, the magical oven glowing warm orange in the background, Lin blowing dancing sparkling bubbles that float around, cheerful and celebratory atmosphere in the cottage"
       }
-    ]
+    ],
+    "saga": "Cucina Magica con Rosalinda",
+    "chapter_num": 3
   },
   {
     "id": "20260408_00_es",
@@ -5353,7 +5359,9 @@
         "t1": 96.91,
         "prompt": "Luna, Timo, Lin, and Gnome Bartolo carry three heavy oak planks back to the workshop at sunset, working together with tired but happy expressions. The warm orange sky glows behind them as they approach the cozy wooden workshop."
       }
-    ]
+    ],
+    "saga": "Constructores de Puentes (Gnomo Bartolo)",
+    "chapter_num": 2
   },
   {
     "id": "20260408_01_en",
@@ -6326,7 +6334,9 @@
         "t1": 80.47,
         "prompt": "Lin the baby blue dragon blowing cheerful colorful bubbles that float in a line marking his counted steps, Luna the rabbit and Timo the fox cub watching happily, Eleanor the owl smiling proudly, warm afternoon forest atmosphere."
       }
-    ]
+    ],
+    "saga": "Map-Making with Eleanor",
+    "chapter_num": 2
   },
   {
     "id": "20260408_02_it",
@@ -7199,7 +7209,9 @@
         "t1": 84.29,
         "prompt": "Luna the rabbit, Timo the squirrel, and Lin the blue dragon sleep peacefully in their beds at night, each holding a small jar of pink dream soup. Soft dreamy clouds with stars and magical sparkles float above them, showing their beautiful dreams coming true."
       }
-    ]
+    ],
+    "saga": "Cucina Magica con Rosalinda",
+    "chapter_num": 2
   },
   {
     "id": "20260408_cap1_es",
@@ -8430,7 +8442,8 @@
         "t1": 114.83,
         "prompt": "Luna, Timo and Lin observing the river carefully, seeing small silver fish, round stones and branches dancing in the current, while Bartolo the gnome teaches them to observe first, then think, then build, as the sun sets and the three friends walk home dreaming of their future bridge"
       }
-    ]
+    ],
+    "chapter_num": 1
   },
   {
     "id": "20260408_cap1_en",
@@ -9874,7 +9887,8 @@
         "t1": 111.62,
         "prompt": "Luna, Timo, and Lin walking slowly through the forest path toward a sparkling stream, each holding blank paper and charcoal pencils, looking carefully at trees and nature around them with newfound curious eyes as the afternoon sun filters through the leaves"
       }
-    ]
+    ],
+    "chapter_num": 1
   },
   {
     "id": "20260408_cap1_it",
@@ -11203,6 +11217,7 @@
         "t1": 122.47,
         "prompt": "Luna the rabbit whispers to the crystal teapot while Timo and Lin watch amazed as the chamomile tea begins to glow with golden sparkles like little stars, Rosalinda smiling warmly beside them in her cozy magical kitchen."
       }
-    ]
+    ],
+    "chapter_num": 1
   }
 ]
