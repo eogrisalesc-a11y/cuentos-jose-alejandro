@@ -1615,29 +1615,29 @@
         "i": 1,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260409_00_es_s1.png",
         "t0": 0.0,
-        "t1": 36.55,
-        "prompt": "Gnome Bartolo with pointed hat leading Luna the rabbit, Timo with glasses, and Lin to the edge of a sparkling river. Three oak planks lie ready on the riverbank. Fast-flowing water with playful ripples. Morning light, riverside scene."
+        "t1": 37.42,
+        "prompt": "Gnome Bartolo wearing his hat leads Luna the rabbit, Timo the owl with glasses, and Lin the firefly to the riverbank at morning. Three oak planks rest nearby, fast-flowing sparkling river in background, sunlight filtering through trees."
       },
       {
         "i": 2,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260409_00_es_s2.png",
-        "t0": 36.55,
-        "t1": 73.1,
-        "prompt": "Luna the rabbit tugs on a long green vine stretched between two thick tree trunks across the river, but slips and falls sitting on soft moss with a surprised expression. Timo and Lin watch nearby, vines and leaves scattered around them."
+        "t0": 37.42,
+        "t1": 74.83,
+        "prompt": "Luna the rabbit slips and falls sitting on the mossy ground, surprised expression, while trying to pull a green vine rope. Timo the owl and Lin the firefly watch nearby, thick tree trunks on both sides of the river, vines scattered around."
       },
       {
         "i": 3,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260409_00_es_s3.png",
-        "t0": 73.1,
-        "t1": 109.66,
-        "prompt": "Luna pulls a vine while Timo counts rhythm with raised paw. Lin releases a large shimmering bubble that floats and rests perfectly centered on the taut vine. Bartolo watches approvingly, the bridge beginning to take shape across the sparkling river."
+        "t0": 74.83,
+        "t1": 112.25,
+        "prompt": "Luna pulls the vine rope with determination while Timo the owl counts the rhythm with raised wing. Lin the firefly releases a large shimmering bubble that floats perfectly centered on the taut rope between two tree trunks, magical afternoon light."
       },
       {
         "i": 4,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260409_00_es_s4.png",
-        "t0": 109.66,
-        "t1": 146.21,
-        "prompt": "At sunset, the completed rope bridge stretches across the river with multiple vines holding the oak planks. Bartolo gently plucks one vine creating a musical note. Luna, Timo and Lin stand together smiling proudly at their work, golden light bathing the scene."
+        "t0": 112.25,
+        "t1": 149.66,
+        "prompt": "Sunset scene at the river, completed rope bridge suspended between tree trunks without railings yet. Gnome Bartolo gently strikes a rope making it vibrate like a harp string, while Luna, Timo and Lin smile proudly watching, golden sunset colors over the water."
       }
     ]
   },
@@ -3023,22 +3023,22 @@
         "i": 1,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260409_01_en_s1.png",
         "t0": 0.0,
-        "t1": 35.31,
-        "prompt": "Eleanor the wise teacher meeting Luna the little rabbit, Timo, and Lin the blue baby dragon in a green forest, holding a small silver pencil and smiling, while Lin makes cheerful pink bubbles around them."
+        "t1": 39.69,
+        "prompt": "Eleanor the wise owl standing on a quiet grassy hill with Luna the small rabbit, Timo the young boy, and Lin the tiny blue baby dragon, all looking up together at a dark blue night sky filled with bright twinkling stars and a round glowing moon."
       },
       {
         "i": 2,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260409_01_en_s2.png",
-        "t0": 41.19,
-        "t1": 76.5,
-        "prompt": "On a quiet grassy hill at night, Eleanor, Luna, Timo, and Lin sit together looking up at a dark blue sky filled with many bright twinkling stars and a round glowing moon above them."
+        "t0": 39.69,
+        "t1": 79.38,
+        "prompt": "Luna, Timo, and Lin sitting on soft grass drawing on papers under the starry sky. Luna sketches the moon, Timo draws a tall tree nearby, and Lin creates shimmering blue bubbles above their work. Small stones hold down the corners of the papers and golden sticky bubbles shine around the edges as a gentle wind blows."
       },
       {
         "i": 3,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260409_01_en_s3.png",
-        "t0": 76.5,
-        "t1": 117.7,
-        "prompt": "The four friends sit on soft grass drawing their star maps on papers, Timo placing small stones on the edges, Lin creating shimmering gold bubbles over the papers, Luna sketching carefully, while Eleanor watches with a warm smile as simple drawings of moon, stars, and trees appear on each map."
+        "t0": 79.38,
+        "t1": 113.4,
+        "prompt": "Luna, Timo, and Lin proudly holding up their completed simple star maps to Eleanor the owl, who smiles warmly at them under the glowing starry night sky. The hand-drawn maps show moon, star, tree, and path. All four friends look happy together on the hill."
       }
     ]
   },
@@ -4341,21 +4341,21 @@
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260409_02_it_s1.png",
         "t0": 0.0,
         "t1": 46.5,
-        "prompt": "Inside Rosalinda's cozy cottage with a warm atmosphere, Luna the small rabbit and Timo the little mouse enter while Lin the baby blue dragon blows yellow and pink bubbles, Rosalinda the kind elderly cook smiles standing near a wooden table covered with baking ingredients including flour, honey, milk, and orange powder in jars and a blue mixing bowl"
+        "prompt": "Rosalinda the kind witch showing magical cookie ingredients on a wooden table to Luna the little rabbit, Timo the hedgehog, and Lin the baby blue dragon in a cozy cottage kitchen with floating orange sparkles and glass jars on shelves"
       },
       {
         "i": 2,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260409_02_it_s2.png",
         "t0": 46.5,
-        "t1": 86.36,
-        "prompt": "Luna the rabbit, Timo the boy, and Lin the baby blue dragon stand before a cold dark magical oven singing together, Lin creates three sparkling bubbles that go pop pop pop, the oven awakens glowing with warm orange light, Rosalinda smiles nearby"
+        "t1": 93.0,
+        "prompt": "Luna the rabbit mixing flour in a blue bowl while Timo the hedgehog adds honey and Lin the baby blue dragon blows a glowing azure bubble into the mixture, ten small round cookies laid out nearby, the magical oven dark and cold in the background"
       },
       {
         "i": 3,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260409_02_it_s3.png",
-        "t0": 86.36,
+        "t0": 93.0,
         "t1": 132.86,
-        "prompt": "Rosalinda the grandmother witch hands warm golden cookies to Luna the laughing rabbit, Timo the giggling boy, and Lin the baby blue dragon who creates dancing rainbow bubbles while laughing, everyone eating the magical laughter cookies in the warm cozy kitchen"
+        "prompt": "Luna, Timo and Lin singing together with musical notes floating around as the magical oven glows warm orange, golden laughter cookies on a plate, everyone laughing joyfully with colorful dancing bubbles filling the air"
       }
     ]
   },
@@ -5461,28 +5461,28 @@
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_00_es_s1.png",
         "t0": 0.0,
         "t1": 27.46,
-        "prompt": "Luna the little rabbit, Timo the bear cub with glasses, and Lin the baby blue dragon arrive at Gnomo Bartolo's workshop at dawn. The old gnome waits for them beside a wooden wheelbarrow, smiling warmly in his cozy workshop filled with tools."
+        "prompt": "Luna the little rabbit, Timo the small character with glasses, and Lin the baby blue dragon arriving early morning at Gnome Bartolo's wooden workshop, the old gnome waiting for them with a wooden wheelbarrow, warm sunrise light"
       },
       {
         "i": 2,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_00_es_s2.png",
         "t0": 27.46,
-        "t1": 49.43,
-        "prompt": "Luna the rabbit, Timo the mouse, Lin the baby blue dragon, and Bartolo the gnome walking together through narrow forest paths into the Old Forest with enormous thick trees like houses"
+        "t1": 54.92,
+        "prompt": "Luna the rabbit moving her ears thoughtfully, Timo adjusting his little glasses, and Lin the baby blue dragon blowing a giant iridescent bubble that floats up to the sky, Gnome Bartolo smiling and explaining about oak wood"
       },
       {
         "i": 3,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_00_es_s3.png",
-        "t0": 49.43,
-        "t1": 79.09,
-        "prompt": "Bartolo the gnome tapping a fallen oak trunk with his hammer while Luna the rabbit holds a measuring rope, Timo the mouse measures with a long stick, and Lin the baby blue dragon spits colorful bubbles to mark where to cut"
+        "t0": 54.92,
+        "t1": 82.39,
+        "prompt": "Deep in the Old Forest with enormous thick tree trunks like houses, Gnome Bartolo hitting a fallen oak trunk with his hammer, Luna, Timo and Lin listening carefully to the deep drum-like sound"
       },
       {
         "i": 4,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_00_es_s4.png",
-        "t0": 79.09,
+        "t0": 82.39,
         "t1": 109.85,
-        "prompt": "Luna the rabbit, Timo the mouse, Lin the baby blue dragon, and Bartolo the gnome carrying three heavy wooden planks back to the workshop at sunset, looking tired but happy"
+        "prompt": "Luna the rabbit holding a rope, Timo measuring with a long measuring stick, Lin the baby blue dragon spitting colorful bubbles to mark where to cut, all working together on the large oak planks in the forest"
       }
     ]
   },
@@ -6384,22 +6384,22 @@
         "i": 1,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_01_en_s1.png",
         "t0": 0.0,
-        "t1": 22.71,
-        "prompt": "Eleanor the wise owl standing near a large oak tree, talking to Luna the rabbit, Timo the squirrel, and Lin the small blue dragon baby who blows happy bubbles, morning sunlight filtering through leaves"
+        "t1": 25.54,
+        "prompt": "Eleanor the wise owl standing near a big oak tree, giving a small red flag to Luna the rabbit while Timo the mouse and Lin the baby blue dragon watch curiously in a sunny forest clearing"
       },
       {
         "i": 2,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_01_en_s2.png",
-        "t0": 22.71,
-        "t1": 46.1,
-        "prompt": "Luna the rabbit walking carefully while holding a small red flag, counting steps toward a tree. Timo the hedgehog is also walking and counting steps toward a river in the background. Eleanor the turtle watches them with encouragement."
+        "t0": 25.54,
+        "t1": 51.07,
+        "prompt": "Luna the rabbit walking and counting steps toward a tree holding a red flag, Timo the mouse counting steps toward a river, and Lin the baby blue dragon blowing a line of floating bubbles with each step in a bright forest landscape"
       },
       {
         "i": 3,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_01_en_s3.png",
-        "t0": 46.1,
-        "t1": 68.81,
-        "prompt": "Lin the blue dragon baby walking and blowing colorful bubbles that float in a line, one bubble per step. Luna, Timo, and Eleanor smile happily watching the bubbles create a magical trail. Joyful and celebratory scene."
+        "t0": 51.07,
+        "t1": 72.96,
+        "prompt": "Eleanor the owl smiling proudly while Luna the rabbit, Timo the mouse, and Lin the baby blue dragon stand together looking happy and accomplished, walking back home on a forest path at sunset"
       }
     ]
   },
@@ -7227,21 +7227,21 @@
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_02_it_s1.png",
         "t0": 0.0,
         "t1": 24.06,
-        "prompt": "Luna the little rabbit, Timo, and Lin the small blue dragon arrive at Rosalinda's cozy cottage, where the kind witch with a warm smile stirs a large magical pot over a bubbling stove, welcoming the three friends."
+        "prompt": "Luna the rabbit, Timo, and Lin the small blue dragon arriving at Rosalinda the good witch's cozy cottage in the morning, where she stands by a large bubbling pot and displays three ingredients on a wooden table: mint leaves, sweet carrots, and rose petals"
       },
       {
         "i": 2,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_02_it_s2.png",
-        "t0": 28.06,
-        "t1": 56.13,
-        "prompt": "Luna placing carrots into the big pot while Timo adds mint leaves, and Lin the blue dragon blowing colorful magical bubbles into the pot, with Rosalinda the witch stirring, the soup turning bright pink and glowing"
+        "t0": 24.06,
+        "t1": 52.12,
+        "prompt": "Inside the witch's cottage kitchen, Luna the rabbit adding carrots to the large pot, Timo adding mint leaves, and Lin the small blue dragon blowing colorful magical bubbles into the pot, everyone stirring together as the soup turns bright pink"
       },
       {
         "i": 3,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_02_it_s3.png",
-        "t0": 56.13,
+        "t0": 52.12,
         "t1": 80.18,
-        "prompt": "Luna the rabbit tasting the pink dream soup from a wooden spoon with a happy expression, while Rosalinda gives small magical jars of pink soup to Luna, Timo, and Lin, everyone smiling in the cozy cottage kitchen"
+        "prompt": "Luna the rabbit tasting a spoonful of glowing pink dream soup while Rosalinda the good witch gives magical glass jars filled with pink soup to the three happy friends in the warm cottage, and later the friends peacefully sleeping with beautiful dream clouds floating above them"
       }
     ]
   },
@@ -8477,28 +8477,28 @@
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_cap1_es_s1.png",
         "t0": 0.0,
         "t1": 30.28,
-        "prompt": "Luna the white rabbit, Timo the owl with glasses, and Lin the small blue dragon arrive at a broken wooden bridge over a river, looking worried. Lin blows a golden bubble that floats across. Sunny morning scene with flowers in the background."
+        "prompt": "Luna the little rabbit, Timo the owl with glasses, and Lin the small blue dragon running happily toward a river on a sunny morning, discovering a broken wooden bridge in the middle, with Lin blowing a golden bubble that floats to the other side."
       },
       {
         "i": 2,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_cap1_es_s2.png",
         "t0": 30.28,
         "t1": 60.55,
-        "prompt": "Bartolo the elderly gnome with white beard, green pointy hat and tool belt full of hammers and wrenches appears before the three friends, gesturing proudly with his hands near the broken bridge"
+        "prompt": "Bartolo the elderly gnome with white beard, green pointed hat and tool belt full of tools appearing before Luna, Timo and Lin near the broken bridge, holding up one finger while explaining with pride that he has been a bridge builder for one hundred years."
       },
       {
         "i": 3,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_cap1_es_s3.png",
         "t0": 60.55,
         "t1": 90.83,
-        "prompt": "Timo the owl flies over the river counting and measuring while Bartolo the gnome holds a rolled paper and pencil, Luna and Lin watch from the riverbank"
+        "prompt": "Bartolo the gnome holding a rolled paper and pencil, teaching the three friends how to measure, while Timo the owl flies counting steps toward a rock across the river, with Luna and Lin watching attentively from the riverbank."
       },
       {
         "i": 4,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_cap1_es_s4.png",
         "t0": 90.83,
         "t1": 121.1,
-        "prompt": "The four characters gather at the river edge observing the water together, silver fish swimming below, round stones and branches flowing with the current visible in the clear water"
+        "prompt": "Luna the rabbit, Timo the owl, and Lin the blue dragon observing the river water carefully with Bartolo the gnome beside them, seeing small silver fish, round stones and branches dancing in the current, as the gnome teaches them the importance of observing first before building."
       }
     ]
   },
@@ -9940,22 +9940,22 @@
         "i": 1,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_cap1_en_s1.png",
         "t0": 0.0,
-        "t1": 39.72,
-        "prompt": "Luna the bunny, Timo the owl with small glasses, and Lin the baby blue dragon playing hide-and-seek near the Great Oak Tree, looking up in wonder at Eleanor the fairy with silver wings and a backpack full of rolled papers, hovering above them in the forest sunlight"
+        "t1": 42.25,
+        "prompt": "Luna the bunny, Timo the owl with small glasses, and Lin the baby blue dragon playing near a massive ancient oak tree, looking up in wonder at Eleanor the fairy with silver wings and a backpack full of rolled papers floating above them in dappled forest sunlight."
       },
       {
         "i": 2,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_cap1_en_s2.png",
-        "t0": 37.45,
-        "t1": 76.03,
-        "prompt": "Eleanor the fairy with silver wings unrolling a beautiful illustrated map showing trees, rivers, mountains and tiny stars, while Luna the bunny, Timo the owl with glasses, and Lin the baby blue dragon gather around her with curious expressions, Lin blowing a purple bubble of excitement"
+        "t0": 42.25,
+        "t1": 84.5,
+        "prompt": "Eleanor the silver-winged fairy holding an unrolled beautiful map showing hand-drawn trees, rivers, mountains and tiny stars, while Luna the bunny, Timo the owl with glasses, and Lin the baby blue dragon gather around her looking at the map with curious excited expressions."
       },
       {
         "i": 3,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_cap1_en_s3.png",
-        "t0": 76.03,
-        "t1": 113.47,
-        "prompt": "Luna the bunny, Timo the owl with glasses, and Lin the baby blue dragon walking slowly through the forest path toward home, each holding blank paper and charcoal pencils, observing umbrella-shaped mushrooms, a dewdrop-covered spider web, and colorful wildflowers with newfound attention and wonder"
+        "t0": 84.5,
+        "t1": 120.72,
+        "prompt": "Luna the bunny, Timo the owl with glasses, and Lin the baby blue dragon walking slowly through the forest path holding blank papers and charcoal pencils, observing umbrella-shaped mushrooms, a dewdrop-covered spider web, and colorful wildflowers with newfound wonder and attention."
       }
     ]
   },
@@ -11228,21 +11228,21 @@
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_cap1_it_s1.png",
         "t0": 0.0,
         "t1": 42.15,
-        "prompt": "Luna the rabbit, Timo the small owl with glasses, and Lin the baby blue dragon who blows colorful bubbles, walking through a spring forest and discovering a round cottage covered in purple and yellow flowers, with silver smoke coming from the window."
+        "prompt": "Luna the little rabbit, Timo the small owl wearing tiny glasses, and Lin the baby blue dragon walking through a spring forest, discovering a round cottage covered in purple and yellow flowers with silver smoke coming from the window"
       },
       {
         "i": 2,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_cap1_it_s2.png",
         "t0": 42.15,
-        "t1": 84.3,
-        "prompt": "Rosalinda the kind witch with blue pointy hat and star-patterned apron opening the door, welcoming the three friends into her magical kitchen filled with colorful jars, wooden spoons, and singing pots"
+        "t1": 78.28,
+        "prompt": "Rosalinda the good witch with a pointy blue hat and star-patterned apron welcoming three small animals into her magical kitchen filled with colorful jars, wooden spoons, and singing pots"
       },
       {
         "i": 3,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_cap1_it_s3.png",
-        "t0": 84.3,
+        "t0": 78.28,
         "t1": 120.43,
-        "prompt": "Rosalinda and the three friends gathered around a crystal teapot with chamomile flowers, Luna whispering to the teapot while the tea glows with golden starlight, Lin blowing a green bubble of joy"
+        "prompt": "Luna the rabbit, Timo the owl, Lin the blue dragon, and Rosalinda gathered around a crystal teapot glowing with golden starlight as chamomile tea sparkles magically inside"
       }
     ]
   }
