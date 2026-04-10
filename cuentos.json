@@ -5320,38 +5320,38 @@
         "t1": 98.64
       }
     ],
+    "saga": "Constructores de Puentes (Gnomo Bartolo)",
+    "chapter_num": 2,
     "escenas": [
       {
         "i": 1,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_00_es_s1.png",
         "t0": 0.0,
-        "t1": 24.23,
-        "prompt": "Luna the little rabbit, Timo the small mouse with glasses, and Lin the baby blue dragon arrive at Gnome Bartolo's wooden workshop in early morning. The old gnome with a white beard welcomes them beside a wooden wheelbarrow filled with lumber, sunlight streaming through the windows."
+        "t1": 24.73,
+        "prompt": "Luna the little rabbit, Timo the turtle with glasses, and Lin the baby blue dragon arrive early morning at Gnome Bartolo's workshop. The old gnome with a white beard stands smiling next to a wooden wheelbarrow filled with wood planks. Cozy workshop setting with tools hanging on walls."
       },
       {
         "i": 2,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_00_es_s2.png",
-        "t0": 24.23,
-        "t1": 48.46,
-        "prompt": "The group walks through a narrow forest path into the Ancient Forest where enormous oak trees tower overhead with trunks as thick as houses. Gnome Bartolo kneels beside a fallen oak trunk, tapping it with his hammer while Luna, Timo, and Lin watch curiously."
+        "t0": 24.73,
+        "t1": 49.45,
+        "prompt": "The group walks through a magical forest path toward the Old Forest. Enormous ancient oak trees with trunks as thick as houses surround them. Luna, Timo, Lin and Bartolo walk together on a narrow trail between giant tree trunks. Dappled sunlight filters through dense canopy."
       },
       {
         "i": 3,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_00_es_s3.png",
-        "t0": 48.46,
-        "t1": 77.53,
-        "prompt": "Luna holds a rope, Timo measures with a long stick, and Lin the baby blue dragon spits colorful bubbles to mark where to cut on the fallen oak trunk. Gnome Bartolo works with his tools as the three friends help him prepare three long wooden planks in the forest."
+        "t0": 49.45,
+        "t1": 74.18,
+        "prompt": "At a massive fallen oak trunk in the Old Forest, Luna holds a measuring rope, Timo uses a long measuring stick, and Lin the baby dragon spits colorful bubbles to mark cutting spots. Gnome Bartolo stands with his hammer inspecting the trunk. Teamwork moment with vibrant magical bubbles floating in the air."
       },
       {
         "i": 4,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_00_es_s4.png",
-        "t0": 77.53,
-        "t1": 96.91,
-        "prompt": "Luna, Timo, Lin, and Gnome Bartolo carry three heavy oak planks back to the workshop at sunset, working together with tired but happy expressions. The warm orange sky glows behind them as they approach the cozy wooden workshop."
+        "t0": 74.18,
+        "t1": 98.9,
+        "prompt": "Luna, Timo, Lin and Bartolo work together carrying three heavy oak planks back to the workshop at sunset. Orange and pink sky in background. The four friends look tired but happy, collaborating to transport the wood. Workshop visible in the distance."
       }
-    ],
-    "saga": "Constructores de Puentes (Gnomo Bartolo)",
-    "chapter_num": 2
+    ]
   },
   {
     "id": "20260408_01_en",
@@ -6302,31 +6302,31 @@
         "t1": 82.2
       }
     ],
+    "saga": "Map-Making with Eleanor",
+    "chapter_num": 2,
     "escenas": [
       {
         "i": 1,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_01_en_s1.png",
         "t0": 0.0,
-        "t1": 28.17,
-        "prompt": "Eleanor the wise owl standing near a big oak tree, explaining to Luna the rabbit, Timo the fox cub, and Lin the tiny blue dragon baby, morning forest setting with sunlight filtering through leaves and a small red flag in Eleanor's wing."
+        "t1": 24.76,
+        "prompt": "Luna the rabbit, Timo the bear cub, and Lin the baby blue dragon meet Eleanor the wise owl near a big oak tree on a sunny morning, as Eleanor explains the lesson about counting steps for making maps"
       },
       {
         "i": 2,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_01_en_s2.png",
-        "t0": 28.17,
-        "t1": 56.33,
-        "prompt": "Luna the rabbit walking carefully with a small red flag counting steps toward a distant tree, while Timo the fox cub walks counting steps toward a sparkling river, forest meadow with flowers and grass."
+        "t0": 24.76,
+        "t1": 53.65,
+        "prompt": "Luna the rabbit walks counting steps toward a distant tree holding a small red flag, while Timo the bear cub counts his steps toward a river, with Eleanor the owl watching them practice"
       },
       {
         "i": 3,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_01_en_s3.png",
-        "t0": 56.33,
-        "t1": 80.47,
-        "prompt": "Lin the baby blue dragon blowing cheerful colorful bubbles that float in a line marking his counted steps, Luna the rabbit and Timo the fox cub watching happily, Eleanor the owl smiling proudly, warm afternoon forest atmosphere."
+        "t0": 53.65,
+        "t1": 82.54,
+        "prompt": "Lin the baby blue dragon blows happy bubbles with each step creating a floating line in the air, while Luna, Timo and Eleanor smile proudly at the successful counting lesson"
       }
-    ],
-    "saga": "Map-Making with Eleanor",
-    "chapter_num": 2
+    ]
   },
   {
     "id": "20260408_02_it",
@@ -7132,31 +7132,31 @@
         "t1": 77.24
       }
     ],
+    "saga": "Cucina Magica con Rosalinda",
+    "chapter_num": 2,
     "escenas": [
       {
         "i": 1,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_02_it_s1.png",
         "t0": 0.0,
-        "t1": 29.5,
-        "prompt": "Inside Rosalinda the kind witch's cozy cottage, a large pot sits on the stove. Luna the rabbit, Timo the squirrel, and Lin the small blue dragon watch as Rosalinda shows them three magical ingredients: mint leaves, sweet carrots, and rose petals on a wooden table."
+        "t1": 23.7,
+        "prompt": "Luna the little rabbit, Timo the child, and Lin the small blue dragon arriving at Rosalinda the good witch's cozy cottage, where she stands by a large cauldron with a welcoming smile, morning light streaming through the windows"
       },
       {
         "i": 2,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_02_it_s2.png",
-        "t0": 29.5,
-        "t1": 59.0,
-        "prompt": "Luna drops carrots into the steaming pot while Timo adds mint leaves. Lin the blue dragon blows colorful magical bubbles into the pot, making the soup turn bright pink. Rosalinda stirs the magical dream soup with a wooden spoon, everyone smiling together in the warm kitchen."
+        "t0": 23.7,
+        "t1": 55.29,
+        "prompt": "Luna placing sweet carrots into the magical cauldron while Timo adds mint leaves and Lin the blue dragon blows colorful bubbles into the pot, with Rosalinda watching happily as the soup turns bright pink and sparkles with magic"
       },
       {
         "i": 3,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260408_02_it_s3.png",
-        "t0": 59.0,
-        "t1": 84.29,
-        "prompt": "Luna the rabbit, Timo the squirrel, and Lin the blue dragon sleep peacefully in their beds at night, each holding a small jar of pink dream soup. Soft dreamy clouds with stars and magical sparkles float above them, showing their beautiful dreams coming true."
+        "t0": 55.29,
+        "t1": 78.98,
+        "prompt": "Luna tasting a spoonful of the glowing pink dream soup while Rosalinda hands small magical jars to the three friends, who leave the cottage happily carrying their enchanted soup jars under a twilight sky"
       }
-    ],
-    "saga": "Cucina Magica con Rosalinda",
-    "chapter_num": 2
+    ]
   },
   {
     "id": "20260408_cap1_es",
