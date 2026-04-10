@@ -2944,7 +2944,13 @@
       }
     ],
     "saga": "Map-Making with Eleanor",
-    "chapter_num": 3
+    "chapter_num": 3,
+    "traduccion_lineas": [
+      "En el bosque verde, Luna, Timo y Lin se encontraron con Eleanor de nuevo. Era el día del mapa. Eleanor tenía un pequeño lápiz plateado. Ella sonrió y dijo, \"¡Hoy dibujamos un mapa de estrellas!\" Luna estaba feliz. Ella amaba dibujar. Timo estaba tranquilo y listo. Lin, el dragón bebé azul, hizo burbujas rosas. Pop, pop, pop. Eleanor los llevó a una colina tranquila. El cielo era azul oscuro. Una estrella era brillante. Luego dos estrellas.",
+      "Luego muchas estrellas. \"Mira hacia arriba\", dijo Eleanor. \"Mira lentamente. Cuenta lentamente. Dibuja lentamente.\" Se sentaron en pasto suave. Luna vio tres estrellas brillantes. Timo vio una luna redonda. Lin vio una estrella grande y rió. \"¡Estrella grande! ¡Estrella grande!\" dijo. Eleanor hizo una tarea simple. \"Dibuja la luna.\"",
+      "Dibuja la estrella grande. Dibuja el árbol cerca de ti. Luego dibuja tu camino a casa.\" Luna dibujó la luna primero. Timo dibujó el árbol alto. Lin no podía dibujar bien, pero ayudó. Hizo burbujas azules sobre el papel. Las burbujas mostraban pequeños círculos brillantes. Eleanor dijo, \"¡Buena ayuda, Lin!\" Luego llegó el viento. Los papeles se movieron. Luna se sintió triste. \"¡Oh no, mi mapa!\" dijo. Timo puso una pequeña piedra en cada papel.",
+      "Lin hizo burbujas de oro pegajosas. Los papeles se quedaron quietos. Trabajaron de nuevo, lenta y alegremente. Pronto, cada amigo tenía un pequeño mapa. Los mapas eran simples, pero claros. Luna, estrella, árbol, camino. Luna, estrella, árbol, camino. José Alejandro, tú también puedes decir las palabras. Eleanor miró los tres mapas y sonrió. \"Hoy hiciste tu primer mapa de estrellas.\" El trabajo del día fue completado. Mañana, usarían un mapa para encontrar un lugar oculto. El fin."
+    ]
   },
   {
     "id": "20260409_02_it",
@@ -4219,7 +4225,14 @@
       }
     ],
     "saga": "Cucina Magica con Rosalinda",
-    "chapter_num": 3
+    "chapter_num": 3,
+    "traduccion_lineas": [
+      "En la pequeña casa de Rosalinda había un buen aroma. Luna entró lentamente. Timo miró los frascos. Lin, el dragón azul bebé, hizo burbujas amarillas y rosas. Rosalinda sonrió. —Hoy hacemos galletas mágicas —dijo lentamente—. Son galletas de la risa. Luna aplaudió. —¡Qué bonito! Rosalinda puso los ingredientes en la mesa. Había harina, miel, leche, y un polvo de naranja muy fino. También había un cuenco azul.",
+      "—Primero, mezclamos bien —dijo Rosalinda. Luna mezcló la harina y la leche. Timo agregó la miel. Lin miró la masa con ojos grandes. Luego hizo una burbuja azul. La burbuja bajó lentamente en el cuenco. —Perfecto —dijo Rosalinda—. La burbuja trae alegría. Luego hicieron diez galletas pequeñas. Una, dos, tres... hasta diez. José Alejandro, también tú podías contar con ellos.",
+      "Las galletas eran redondas y suaves. Pero había un problema. El horno mágico estaba frío. Ninguna luz, ningún calor. Luna estaba triste. —Oh no, nada de galletas. Timo pensó un momento. —Quizás el horno tiene sueño. Rosalinda rió lentamente. —Quizás sí. Se necesita una canción dulce. Entonces Luna cantó una nota clara.",
+      "Timo cantó una nota baja. Lin hizo tres burbujas brillantes. Pop, pop, pop. El horno se despertó. Hizo una luz naranja cálida. Las galletas entraron al horno. Después de poco, salió un aroma dulce. Rosalinda le dio una galleta a cada uno. Luna la comió y rió. Timo rió. También Lin rió, e hizo burbujas que bailaban. El trabajo del día había terminado.",
+      "Las galletas de la risa estaban listas. Mañana, quizás, cocinarán algo que canta. Fin."
+    ]
   },
   {
     "id": "20260408_00_es",
@@ -6326,6 +6339,13 @@
         "t1": 82.54,
         "prompt": "Lin the baby blue dragon blows happy bubbles with each step creating a floating line in the air, while Luna, Timo and Eleanor smile proudly at the successful counting lesson"
       }
+    ],
+    "traduccion_lineas": [
+      "La mañana siguiente, Luna, Timo y Lin fueron a ver a Eleanor. Ella estaba esperando cerca del gran roble. —¡Buenos días, pequeños amigos! —dijo Eleanor—. Hoy contamos pasos. ¿Saben por qué? Luna sacudió su cabeza. Timo se veía curioso.",
+      "Lin, el pequeño bebé dragón azul, sopló burbujas felices. —Para hacer un buen mapa, necesitamos saber cuán lejos caminamos —dijo Eleanor—. Ella le dio a Luna una pequeña bandera roja. —Pon esta bandera aquí. Ahora, camina hacia ese árbol y cuenta cada paso. Luna caminó lentamente. Uno, dos, tres… contó hasta veinte pasos. Ella puso la bandera cerca del árbol.",
+      "—¡Muy bien! —dijo Eleanor—. Ahora, Timo, cuenta los pasos hacia el río. Timo caminó y contó. Uno, dos, tres… quince pasos. ¡José Alejandro, Timo contó quince pasos hacia el río! Lin también quiso ayudar. Él caminó y sopló burbujas.",
+      "¡Una burbuja por cada paso! Las burbujas flotaban en línea. —¡Perfecto! —dijo Eleanor—. Mañana dibujamos nuestro primer mapa. Están aprendiendo muy rápido. Luna, Timo y Lin sonrieron. ¡Contar pasos era divertido!",
+      "Se fueron a casa felices, contando cada paso de regreso a casa. El fin."
     ]
   },
   {
@@ -7156,6 +7176,13 @@
         "t1": 78.98,
         "prompt": "Luna tasting a spoonful of the glowing pink dream soup while Rosalinda hands small magical jars to the three friends, who leave the cottage happily carrying their enchanted soup jars under a twilight sky"
       }
+    ],
+    "traduccion_lineas": [
+      "La mañana después, Luna, Timo y Lin volvieron a la casita de Rosalinda. La bruja buena preparaba una olla grande. —¡Buenos días, pequeños cocineros! —dijo Rosalinda—. Hoy hacemos la sopa de los sueños. ¿Queréis ayudarme? —¡Sí!",
+      "—dijeron todos juntos. Rosalinda mostró tres ingredientes: hojas de menta, zanahorias dulces y pétalos de rosa. —Poned las zanahorias en la olla —dijo—. Luna puso las zanahorias. Timo añadió las hojas de menta. ¡Y Lin, el pequeño dragón azul, sopló burbujas coloreadas en la olla! —¡Perfecto!",
+      "—rió Rosalinda—. ¡Las burbujas de Lin hacen la magia! Revolvieron todos juntos. La sopa se volvió de color rosa brillante. ¡José Alejandro, era bellísima! —Esta sopa es especial —explicó Rosalinda—. Quien la come hace sueños bonitos toda la noche.",
+      "Luna probó una cucharada. Era dulce y caliente. —¡Buonísima! —dijo Luna. Rosalinda dio a cada uno un vasito de sopa. —Llevadla a casa. Mañana cocinamos galletas que hacen reír.",
+      "Luna, Timo y Lin volvieron a casa felices con sus vasitos mágicos. Esa noche hicieron sueños bellísimos. Fin."
     ]
   },
   {
@@ -9888,7 +9915,14 @@
         "prompt": "Luna, Timo, and Lin walking slowly through the forest path toward a sparkling stream, each holding blank paper and charcoal pencils, looking carefully at trees and nature around them with newfound curious eyes as the afternoon sun filters through the leaves"
       }
     ],
-    "chapter_num": 1
+    "chapter_num": 1,
+    "traduccion_lineas": [
+      "Una tarde brillante, Luna la conejita, Timo el búho con gafitas, y Lin, la pequeña dragona azul que soplaba burbujas coloridas, estaban jugando al escondite cerca del Gran Roble. De repente, escucharon un suave canto arriba de ellos. Mirando hacia arriba, vieron a un hada con alas plateadas y una mochila llena de papeles enrollados. \"¡Hola, pequeños! Soy Eleanor, el Hada Errante. Viajo por el bosque dibujando mapas de cada sendero, arroyo y lugar secreto.\" \"¿Mapas?",
+      "\"¿Qué son esos?\" preguntó Luna, curiosa. Eleanor sonrió y desenrolló un hermoso papel cubierto de dibujos: árboles, ríos, montañas, y estrellas diminutas. \"Un mapa muestra dónde están las cosas. Ayuda a los viajeros a encontrar su camino a casa, descubrir tesoros, o recordar lugares especiales.\" Lin sopló una burbuja púrpura de emoción. \"Esta semana, te enseñaré a hacer tu propio mapa del bosque,\" dijo Eleanor. \"Pero primero, debes aprender la habilidad más importante: observar.\" \"¿Observar?\" Timo ajustó sus gafas.",
+      "\"¡Ya sabemos cómo mirar!\" \"Ah, ¿pero realmente ves?\" Eleanor guiñó. \"Cierra los ojos, luego ábrelos y cuéntame cinco cosas alrededor nuestro.\" Lo intentaron. Luna notó setas en forma de paraguas. Timo vio una telaraña brillando con rocío. Lin descubrió tres tipos diferentes de flores. \"¡Excelente!",
+      "Sabes, José Alejandro, tal como tú cuando exploras tu barrio, estos tres amigos están aprendiendo a notar los detalles mágicos escondidos por todas partes.\" Eleanor le dio a cada uno un papel en blanco y un lápiz de carbón. \"Mañana, comenzaremos a dibujar. Hoy, solo observa. Cuenta los árboles entre aquí y el arroyo. Fíjate en sus formas. Un hacedor de mapas ve el mundo con ojos curiosos.\" Los tres amigos caminaron a casa lentamente, mirando todo como si fuera la primera vez.",
+      "El fin."
+    ]
   },
   {
     "id": "20260408_cap1_it",
@@ -11243,6 +11277,13 @@
         "prompt": "Luna the rabbit whispers to the crystal teapot while Timo and Lin watch amazed as the chamomile tea begins to glow with golden sparkles like little stars, Rosalinda smiling warmly beside them in her cozy magical kitchen."
       }
     ],
-    "chapter_num": 1
+    "chapter_num": 1,
+    "traduccion_lineas": [
+      "Una tarde de primavera, Luna la conejita, Timo el búho pequeño con gafitas y Lin, el dragoncito azul bebé que escupía burbujas de colores, paseaban por el bosque cuando sintieron un aroma dulcísimo. «¡Qué buen olor!» dijo Luna, moviendo su naricita. Siguieron el aroma hasta una casita redonda cubierta de flores violetas y amarillas. De la ventana salía un humo plateado. Tocaron: TOC TOC TOC.",
+      "La puerta se abrió y apareció una bruja con sombrero puntiagudo azul, delantal lleno de estrellas y una sonrisa amable. «¡Bienvenidos, pequeños! Soy Rosalinda, la bruja buena. Estoy preparando el té de manzanilla brillante. ¿Queréis aprender?» «¿Una bruja buena?» preguntó Timo, curioso.",
+      "«¡Claro! Yo cocino platos mágicos con flores, miel, hojas aromáticas y luz de luna. Cada receta tiene un pequeño hechizo de alegría.» Lin sopló una burbuja verde de entusiasmo. Rosalinda los hizo entrar. La cocina estaba llena de frasquitos de colores, cucharas de madera y ollas que cantaban.",
+      "«Hoy preparamos el té más simple: manzanilla brillante. Sirve para dormir bien y tener sueños felices.» Tomó tres flores de manzanilla, las puso en una tetera de cristal y añadió agua caliente. «Ahora, el toque mágico: hay que susurrar un deseo amable a la tetera.» Luna susurró: «Que todos duerman bien esta noche.» ¡El té comenzó a brillar como estrellitas doradas! «¡Perfecto!» dijo Rosalinda. «Sabes, José Alejandro, cocinar con amor es la verdadera magia.",
+      "Mañana aprenderemos una receta más difícil: las galletas con miel de estrellas.» Los tres amigos volvieron a casa con una taza de té brillante cada uno, listos para sueños maravillosos. Fin."
+    ]
   }
 ]
