@@ -1532,6 +1532,36 @@
         "t0": 147.5,
         "t1": 147.92
       }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260410_00_es_s1.png",
+        "t0": 0.0,
+        "t1": 37.1,
+        "prompt": "Gnome Bartolo the carpenter with tool belt, Luna the little rabbit girl, Timo the turtle with glasses, and Lin the baby blue dragon standing on a wooden bridge without railings over a rushing forest river, discussing the construction plans"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260410_00_es_s2.png",
+        "t0": 37.1,
+        "t1": 74.21,
+        "prompt": "Luna holding a very thin hazel rod that bends like spaghetti, Timo struggling with a heavy thick branch, while Lin the baby blue dragon releases colorful bubbles that change color near the best wooden rods on the forest ground"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260410_00_es_s3.png",
+        "t0": 74.21,
+        "t1": 111.31,
+        "prompt": "Gnome Bartolo and Luna carefully adjusting a crooked wooden railing on the bridge after wind twisted it, untying knots and measuring again, Timo and Lin watching closely as they fix the mistake"
+      },
+      {
+        "i": 4,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260410_00_es_s4.png",
+        "t0": 111.31,
+        "t1": 148.42,
+        "prompt": "Completed bridge with beautiful wooden railings over the sparkling river, a hedgehog, family of squirrels and old turtle crossing confidently, while Bartolo, Luna, Timo and Lin watch proudly from the side, tired and happy"
+      }
     ]
   },
   {
@@ -2542,6 +2572,29 @@
         "t0": 69.98,
         "t1": 70.36
       }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260410_01_en_s1.png",
+        "t0": 0.0,
+        "t1": 21.39,
+        "prompt": "Luna the rabbit, Timo the bear, and Lin the fox walk with Eleanor the wise owl through a warm golden meadow filled with flowers. Eleanor holds a small red box in her wings, gesturing toward the sunny landscape."
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260410_01_en_s2.png",
+        "t0": 21.39,
+        "t1": 49.91,
+        "prompt": "Luna, Timo, and Lin explore a meadow now covered by dark gray clouds. Lin the fox blows big blue magical bubbles that float above flowers, marking a path. A pond and large rock are visible, while Timo points and Luna looks cautious."
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260410_01_en_s3.png",
+        "t0": 49.91,
+        "t1": 71.3,
+        "prompt": "A giant friendly baker with a big smile holds a hand-drawn map showing a pond, rock, and tree. Luna the rabbit, Timo the bear, and Lin the fox stand proudly nearby, with one large blue bubble floating above the safe path home."
+      }
     ]
   },
   {
@@ -3486,6 +3539,29 @@
         "w": "dolci",
         "t0": 92.2,
         "t1": 92.68
+      }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260410_02_it_s1.png",
+        "t0": 0.0,
+        "t1": 27.86,
+        "prompt": "Luna the little rabbit, Timo, and Lin in Rosalinda's warm kitchen with a small blue pot on the wooden table, surrounded by ingredients including milk, honey, and red apples, while Lin creates floating blue bubbles and Rosalinda stirs with a wooden spoon"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260410_02_it_s2.png",
+        "t0": 27.86,
+        "t1": 65.0,
+        "prompt": "Inside the magical kitchen, Lin blowing a large blue bubble that covers the blue pot with warm glow, Rosalinda singing with raised hands as the flame returns bright, red apples dancing inside the glowing silver cream, while Luna and Timo watch in wonder"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260410_02_it_s3.png",
+        "t0": 65.0,
+        "t1": 92.86,
+        "prompt": "A gentle giant with a big warm smile eating the moon cream from a bowl while Luna the rabbit, Timo, Lin, and Rosalinda watch happily in the silver-glowing kitchen, everyone smiling and laughing together in joy"
       }
     ]
   },
