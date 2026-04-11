@@ -1562,7 +1562,9 @@
         "t1": 148.42,
         "prompt": "The completed bridge with beautiful railings on both sides spans the shining river. A hedgehog, a family of squirrels, and an old turtle cross it confidently. Bartolo removes his hat proudly while Luna, Timo, and Lin stand together looking tired and happy at their work."
       }
-    ]
+    ],
+    "saga": "Constructores de Puentes (Gnomo Bartolo)",
+    "chapter_num": 4
   },
   {
     "id": "20260410_01_en",
@@ -2595,7 +2597,9 @@
         "t1": 71.3,
         "prompt": "A happy giant baker with a big smile holds the map created by the friends, pointing at it joyfully. Luna, Timo, and Lin stand proudly together in the golden meadow. Eleanor the owl gives them a shining star sticker as the sun returns to the sky."
       }
-    ]
+    ],
+    "saga": "Map-Making with Eleanor",
+    "chapter_num": 4
   },
   {
     "id": "20260410_02_it",
@@ -3563,7 +3567,9 @@
         "t1": 92.86,
         "prompt": "A gentle giant sits at the table eating moon cream from a bowl with a big smile. Luna the rabbit, Timo the fox, Lin the panda, and Rosalinda the witch stand nearby laughing happily together, the kitchen glows warmly with magical light."
       }
-    ]
+    ],
+    "saga": "Cucina Magica con Rosalinda",
+    "chapter_num": 4
   },
   {
     "id": "20260409_00_es",
