@@ -3837,6 +3837,36 @@
         "t0": 362.8,
         "t1": 362.82
       }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260411_00_es_s1.png",
+        "t0": 0.0,
+        "t1": 90.76,
+        "prompt": "Luna the white rabbit with long pink ears, Timo the brown owl with round glasses, and Lin the chubby baby blue dragon with purple wings stand by a forest river in morning light, listening carefully as Gnomo Bartolo emerges from his workshop carrying a measuring tape made of braided leaves"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260411_00_es_s2.png",
+        "t0": 90.76,
+        "t1": 181.51,
+        "prompt": "Lin the blue dragon blows colorful bubbles (green, pink, yellow) over a wooden bridge while Luna and Timo watch from the side, the bubbles floating and dancing over loose planks revealing which parts need adjustment"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260411_00_es_s3.png",
+        "t0": 181.51,
+        "t1": 272.27,
+        "prompt": "Luna crouches down talking to a group of singing frogs by the riverbank while Lin blows a giant golden bubble that reflects the frogs' round faces making them laugh, Timo holds star-shaped leaves as markers"
+      },
+      {
+        "i": 4,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260411_00_es_s4.png",
+        "t0": 272.27,
+        "t1": 363.02,
+        "prompt": "At golden sunset, various forest creatures cross the finished bridge - a squirrel carrying nuts, a fairy with flowers, and a hedgehog - while Luna, Timo, Lin and Bartolo watch proudly as the bridge harmonizes with the singing river below"
+      }
     ]
   },
   {
@@ -4712,6 +4742,22 @@
         "t0": 73.9,
         "t1": 74.16
       }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260411_01_en_s1.png",
+        "t0": 0.0,
+        "t1": 26.16,
+        "prompt": "Luna the white rabbit, Timo the owl with glasses, Lin the baby blue dragon, and Eleanor the fairy walking up Blue Hill at dawn. Pink and gold sky, Eleanor holding an open book, the friends counting steps together on a grassy slope with one tall tree visible ahead."
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260411_01_en_s3.png",
+        "t0": 52.32,
+        "t1": 74.74,
+        "prompt": "The small goat happily follows a trail of blue bubbles down the safe path home. Eleanor the fairy claps and holds up golden stars, giving them to Luna, Timo, and Lin who smile proudly. The hill is peaceful in the background as evening light glows."
+      }
     ]
   },
   {
@@ -5586,6 +5632,22 @@
         "w": "insieme",
         "t0": 76.22,
         "t1": 76.66
+      }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260411_02_it_s1.png",
+        "t0": 0.0,
+        "t1": 26.93,
+        "prompt": "Luna, Timo and Lin arriving at Rosalinda's cozy cottage. Rosalinda the good witch stands by her warm oven, showing them ingredients on a wooden table: flour, milk, honey jar, and a red apple. Warm morning light through windows."
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260411_02_it_s3.png",
+        "t0": 53.86,
+        "t1": 76.94,
+        "prompt": "A gentle giant sitting at a table outside the cottage, smiling as he eats a piece of golden bread. Luna, Timo, Lin and Rosalinda share the magical bread together at the table, surrounded by forest. Happy celebration scene."
       }
     ]
   },
