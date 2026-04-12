@@ -1,0 +1,13 @@
+{
+  "name": "Timo",
+  "name_es": "Timo el buho",
+  "role": "main",
+  "description_en": "A small brown owl with brown and tan feathers, big round golden eyes behind small round glasses that are ALWAYS on his face, a short orange beak. Wise and calm expression. Perched or standing.",
+  "description_es": "Un buho pequeno marron con plumas marron y crema, grandes ojos dorados redondos detras de gafas redondas que SIEMPRE lleva puestas, pico corto naranja. Expresion sabia y tranquila.",
+  "style_prompt": "3D rendered, Pixar-style, soft lighting, warm pastel colors, children's storybook illustration, magical atmosphere",
+  "voice": "onyx",
+  "reference_images": ["timo.png", "timo_sheet.png"],
+  "primary_reference": "timo_sheet.png",
+  "visual_tags": ["brown feathers", "tan chest", "golden eyes", "round glasses ALWAYS", "orange beak", "wise expression", "small owl"],
+  "never": ["without glasses", "glasses missing", "glasses on forehead", "no glasses", "blue feathers", "angry expression", "large owl"]
+}

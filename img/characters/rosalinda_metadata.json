@@ -1,0 +1,14 @@
+{
+  "name": "Rosalinda",
+  "name_es": "Brujita Buena Rosalinda",
+  "role": "secondary",
+  "saga": "Cucina Magica con Strega Buona Rosalinda",
+  "description_en": "A kind young witch with a purple pointed hat decorated with a golden star, curly red hair, round glasses, green apron over a purple dress, freckles on her cheeks, holding a wooden spoon. Warm and welcoming smile.",
+  "description_es": "Una brujita joven y amable con sombrero morado puntiagudo decorado con estrella dorada, cabello rojo rizado, gafas redondas, delantal verde sobre vestido morado, pecas en las mejillas, sosteniendo una cuchara de madera. Sonrisa calida y acogedora.",
+  "style_prompt": "3D rendered, Pixar-style, soft lighting, warm pastel colors, children's storybook illustration, magical atmosphere",
+  "voice": "fable",
+  "reference_images": ["rosalinda_sheet.png"],
+  "primary_reference": "rosalinda_sheet.png",
+  "visual_tags": ["purple pointed hat with star", "curly red hair", "round glasses", "green apron", "purple dress", "freckles", "wooden spoon", "kind witch"],
+  "never": ["scary witch", "warts", "black hat", "evil expression", "no glasses", "straight hair", "dark clothing only"]
+}

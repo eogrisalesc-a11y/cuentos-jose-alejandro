@@ -1,0 +1,13 @@
+{
+  "name": "Luna",
+  "name_es": "Luna la conejita",
+  "role": "main",
+  "description_en": "A small white bunny standing upright like a child, with exactly 2 long floppy white ears with pink tips, big round blue eyes, a tiny pink nose, wearing a small light blue dress with a white collar. Soft, gentle expression.",
+  "description_es": "Una conejita blanca pequena de pie como una nina, con exactamente 2 orejas largas blancas con puntas rosadas, grandes ojos azules redondos, nariz rosada, vestido celeste con cuello blanco. Expresion dulce y tierna.",
+  "style_prompt": "3D rendered, Pixar-style, soft lighting, warm pastel colors, children's storybook illustration, magical atmosphere",
+  "voice": "shimmer",
+  "reference_images": ["luna.png", "luna_sheet.png"],
+  "primary_reference": "luna_sheet.png",
+  "visual_tags": ["white fur", "blue dress", "white collar", "blue eyes", "pink-tipped long ears", "2 ears always", "pink nose", "small child-sized", "upright posture"],
+  "never": ["more than 2 ears", "different colored dress", "angry expression", "standing on all fours", "no ears visible", "brown fur", "red dress"]
+}

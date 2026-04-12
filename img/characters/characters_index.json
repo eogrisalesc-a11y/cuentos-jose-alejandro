@@ -1,0 +1,42 @@
+{
+  "version": "2.0",
+  "updated": "2026-04-11",
+  "description": "Master character index for Cuentos Magicos para Sonar. Each character has a metadata JSON with visual descriptions, reference images, style prompts, and constraints.",
+  "characters": {
+    "luna": {
+      "metadata_file": "luna_metadata.json",
+      "role": "main",
+      "detect_keywords": ["luna", "rabbit", "bunny", "coneja", "conejita"]
+    },
+    "timo": {
+      "metadata_file": "timo_metadata.json",
+      "role": "main",
+      "detect_keywords": ["timo", "owl", "buho", "búho"]
+    },
+    "lin": {
+      "metadata_file": "lin_metadata.json",
+      "role": "main",
+      "detect_keywords": ["lin", "dragon", "dragón"]
+    },
+    "bartolo": {
+      "metadata_file": "bartolo_metadata.json",
+      "role": "secondary",
+      "detect_keywords": ["bartolo", "gnome", "gnomo", "puente", "constructor", "bridge"],
+      "saga_keywords": ["puente", "constructor", "bridge", "bartolo"]
+    },
+    "eleanor": {
+      "metadata_file": "eleanor_metadata.json",
+      "role": "secondary",
+      "detect_keywords": ["eleanor", "fairy", "hada", "map", "cartograf", "wandering"],
+      "saga_keywords": ["map", "eleanor", "cartograf", "wandering", "fairy"]
+    },
+    "rosalinda": {
+      "metadata_file": "rosalinda_metadata.json",
+      "role": "secondary",
+      "detect_keywords": ["rosalinda", "witch", "bruja", "brujita", "cocina", "cucina", "strega"],
+      "saga_keywords": ["cocina", "cucina", "rosalinda", "strega", "brujita"]
+    }
+  },
+  "default_style": "3D rendered, Pixar-style, soft lighting, warm pastel colors, children's storybook illustration, magical atmosphere",
+  "main_trio_reference": "trio.png"
+}

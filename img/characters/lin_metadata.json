@@ -1,0 +1,13 @@
+{
+  "name": "Lin",
+  "name_es": "Lin el dragon",
+  "role": "main",
+  "description_en": "A small chubby baby blue dragon about the same size as Luna, with a round belly, tiny purple wings, a short tail, and blows colorful soap bubbles or small green flames from his mouth. Playful and cheerful expression.",
+  "description_es": "Un dragon bebe azul rechoncho del mismo tamano que Luna, con barriguita redonda, alitas moradas pequenas, cola corta, y sopla burbujas de colores o llamas verdes de su boca. Expresion juguetona y alegre.",
+  "style_prompt": "3D rendered, Pixar-style, soft lighting, warm pastel colors, children's storybook illustration, magical atmosphere",
+  "voice": "echo",
+  "reference_images": ["lin.png", "lin_sheet.png"],
+  "primary_reference": "lin_sheet.png",
+  "visual_tags": ["blue scales", "chubby round belly", "tiny purple wings", "short tail", "baby dragon", "same size as Luna", "green flames or soap bubbles"],
+  "never": ["large dragon", "red dragon", "scary expression", "fire-breathing menacingly", "large wings", "adult dragon", "no wings"]
+}

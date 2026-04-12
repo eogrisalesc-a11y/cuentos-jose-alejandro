@@ -1,0 +1,14 @@
+{
+  "name": "Eleanor",
+  "name_es": "Hada Eleanor",
+  "role": "secondary",
+  "saga": "Map-Making with Eleanor the Wandering Fairy",
+  "description_en": "A young fairy with translucent butterfly wings that shimmer in light, long flowing golden hair, a lavender dress decorated with tiny stars, pointed ears, bright green eyes, bare feet. Graceful and curious expression.",
+  "description_es": "Un hada joven con alas de mariposa translucidas que brillan con la luz, cabello dorado largo y suelto, vestido lavanda decorado con estrellas pequenas, orejas puntiagudas, ojos verdes brillantes, pies descalzos. Expresion elegante y curiosa.",
+  "style_prompt": "3D rendered, Pixar-style, soft lighting, warm pastel colors, children's storybook illustration, magical atmosphere",
+  "voice": "fable",
+  "reference_images": ["eleanor_sheet.png"],
+  "primary_reference": "eleanor_sheet.png",
+  "visual_tags": ["translucent butterfly wings", "golden hair", "lavender dress with stars", "pointed ears", "green eyes", "bare feet", "young fairy", "shimmering wings"],
+  "never": ["no wings", "dark hair", "shoes or boots", "angry expression", "insect-like appearance", "adult woman without fairy features"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Bartolo",
+  "name_es": "Gnomo Bartolo",
+  "role": "secondary",
+  "saga": "Constructores de Puentes",
+  "description_en": "An elderly gnome with a long white beard, green pointed hat, brown leather apron over earthy clothes, rosy red nose, kind twinkling eyes, very short stature, brown leather boots. Cheerful and helpful demeanor.",
+  "description_es": "Un gnomo anciano con barba blanca larga, gorro verde puntiagudo, delantal de cuero marron sobre ropa de tierra, nariz roja y rosada, ojos amables brillantes, muy bajito, botas de cuero marron. Actitud alegre y servicial.",
+  "style_prompt": "3D rendered, Pixar-style, soft lighting, warm pastel colors, children's storybook illustration, magical atmosphere",
+  "voice": "fable",
+  "reference_images": ["bartolo_sheet.png"],
+  "primary_reference": "bartolo_sheet.png",
+  "visual_tags": ["long white beard", "green pointed hat", "brown leather apron", "rosy nose", "kind eyes", "very short", "brown boots", "elderly gnome"],
+  "never": ["tall gnome", "no hat", "young face", "angry expression", "blue hat", "no beard"]
+}
