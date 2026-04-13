@@ -3157,6 +3157,36 @@
         "t0": 296.38,
         "t1": 296.68
       }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260412_00_es_s1.png",
+        "t0": 0.0,
+        "t1": 74.15,
+        "prompt": "Golden violet afternoon in magical forest. Wooden bridge over river with Gnomo Bartolo in leaf helmet inspecting wooden planks, Luna rabbit with long ears jumping excitedly, Timo owl with round glasses adjusting them, Lin baby blue dragon blowing colorful bubbles that float up between tree branches. Warm golden light."
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260412_00_es_s2.png",
+        "t0": 74.15,
+        "t1": 148.3,
+        "prompt": "Dusk falling, hundreds of fireflies with green and yellow lights flying in a soft line toward the bridge. Silvery mist rising from river covering the wooden planks. Confused fireflies circling in the fog, some bumping into railings, flying backwards. Luna, Timo, Lin and Bartolo watching worried from bridge entrance."
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260412_00_es_s3.png",
+        "t0": 148.3,
+        "t1": 237.27,
+        "prompt": "Night scene, Luna tying yellow flower ribbons to bridge posts, Lin blowing three floating bubbles (pink, blue, golden) suspended above bridge like a starry necklace. Timo guiding rhythm. Luna kneeling beside one tiny nervous firefly with a small bubble just for her. Other fireflies beginning to follow the bubble path through mist."
+      },
+      {
+        "i": 4,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260412_00_es_s4.png",
+        "t0": 237.27,
+        "t1": 296.59,
+        "prompt": "Night celebration, fireflies successfully crossing bridge in orderly line following colorful bubbles and yellow ribbons, lights blinking in applause. Bartolo lifting his hat in approval, Timo adjusting glasses satisfied, Luna smiling proudly, Lin spinning in air filling sky with rainbow bubbles. River singing peacefully below, new path visible between distant trees on far shore."
+      }
     ]
   },
   {
@@ -4606,6 +4636,22 @@
         "w": "hill",
         "t0": 103.4,
         "t1": 103.52
+      }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260412_01_en_s1.png",
+        "t0": 0.0,
+        "t1": 31.14,
+        "prompt": "Luna (white rabbit girl in blue dress), Timo (brown owl with round glasses), Lin (chubby baby blue dragon) and Eleanor (wandering fairy) arrive at Bell Meadow on a soft golden evening. A small bright bell tower stands in the background. Eleanor gestures happily while explaining, Luna claps her paws with joy, Timo cleans his round glasses, and Lin blows colorful bubbles into the warm golden air."
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260412_01_en_s3.png",
+        "t0": 72.66,
+        "t1": 103.8,
+        "prompt": "The fog clears as the rabbit child's mother hugs him warmly in a joyful reunion. Eleanor the fairy holds up the finished map with a golden star on it, smiling proudly. Luna, Timo and Lin stand nearby watching happily. In the background, the bell tower is now clearly visible, and far beyond it, a dark hill with old signs can be seen in the distance."
       }
     ]
   },
@@ -6531,6 +6577,22 @@
         "w": "serena",
         "t0": 184.18,
         "t1": 184.92
+      }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260412_02_it_s1.png",
+        "t0": 0.0,
+        "t1": 64.97,
+        "prompt": "Luna the white rabbit, Timo the brown owl with round glasses, Lin the chubby baby blue dragon, and Rosalinda the good witch gathered around a wooden table inside a cozy cottage kitchen at evening, ingredients spread out including flour bowl, milk pitcher and fresh apples, Rosalinda showing them a magical recipe book, warm candlelight atmosphere"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260412_02_it_s3.png",
+        "t0": 124.36,
+        "t1": 185.62,
+        "prompt": "Rosalinda the good witch offering a warm slice of golden magical cake decorated with five glowing apple stars to a nervous young deer and her grandmother inside the cozy cottage, the whole star-topped cake on the table emanating soft light, Luna Timo and Lin smiling in the background, moonlight streaming through the window as clouds clear, peaceful nighttime scene"
       }
     ]
   },
