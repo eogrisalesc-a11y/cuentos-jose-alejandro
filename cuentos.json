@@ -3187,7 +3187,9 @@
         "t1": 296.59,
         "prompt": "Luna kneels beside a tiny nervous firefly with flickering light on the bridge. Lin releases a small delicate bubble just for her. In the background, all fireflies celebrate on the other side, blinking rapidly like laughing lights. The sky fills with colorful bubbles as Bartolo lifts his hat proudly and the peaceful river flows below."
       }
-    ]
+    ],
+    "saga": "Constructores de Puentes (Gnomo Bartolo)",
+    "chapter_num": 6
   },
   {
     "id": "20260412_01_en",
@@ -4658,7 +4660,9 @@
         "t1": 103.8,
         "prompt": "The young rabbit child embraces his mother in a warm hug near the bell tower as the white fog lifts and clears away, Luna, Timo, Lin and Eleanor the fairy smile nearby, Eleanor places a golden star sticker on the completed map they created together"
       }
-    ]
+    ],
+    "saga": "Map-Making with Eleanor",
+    "chapter_num": 6
   },
   {
     "id": "20260412_02_it",
@@ -6604,7 +6608,9 @@
         "t1": 185.62,
         "prompt": "Inside the warm cottage, Rosalinda the good witch serves a slice of the finished star cake to a nervous young deer and her grandmother who just arrived. The golden cake on the table has five apple stars on top, glowing softly. Luna hugs Timo while Lin makes a star-shaped bubble nearby. Through the window, the cloud has moved and the real moon shines brightly again. Peaceful, heartwarming scene of sharing and comfort."
       }
-    ]
+    ],
+    "saga": "Cucina Magica con Rosalinda",
+    "chapter_num": 6
   },
   {
     "id": "20260411_00_es",
@@ -10474,7 +10480,9 @@
         "t1": 363.02,
         "prompt": "Happy forest neighbors cross the finished bridge at sunset golden hour: a squirrel carrying nuts, a fairy with flowers, and a hedgehog walking confidently, while colorful bubbles float like bells and the river glows in warm light beneath the singing bridge"
       }
-    ]
+    ],
+    "saga": "Constructores de Puentes (Gnomo Bartolo)",
+    "chapter_num": 5
   },
   {
     "id": "20260411_01_en",
@@ -11372,7 +11380,9 @@
         "t1": 74.74,
         "prompt": "Luna sketches trees and rocks on parchment while Timo draws a crescent-shaped pond, as Lin breathes magical blue glowing bubbles that float along the safe green path. The small goat happily follows the trail of blue bubbles toward home while Eleanor claps and holds up golden star stickers."
       }
-    ]
+    ],
+    "saga": "Map-Making with Eleanor",
+    "chapter_num": 5
   },
   {
     "id": "20260411_02_it",
@@ -12270,7 +12280,9 @@
         "t1": 76.94,
         "prompt": "Outside the cottage in the enchanted forest, a gentle giant with a kind smile sits on the ground sharing warm magical bread with Luna, Timo, Lin, and Rosalinda. Everyone laughs and eats together in a happy outdoor picnic scene, surrounded by forest trees."
       }
-    ]
+    ],
+    "saga": "Cucina Magica con Rosalinda",
+    "chapter_num": 5
   },
   {
     "id": "20260410_00_es",
