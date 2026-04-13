@@ -4640,6 +4640,11 @@
     ],
     "escenas": [
       {
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260412_01_en_s1.png",
+        "t0": 0,
+        "t1": 25.95
+      },
+      {
         "i": 2,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260412_01_en_s2.png",
         "t0": 25.95,
@@ -6580,6 +6585,11 @@
       }
     ],
     "escenas": [
+      {
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260412_02_it_s1.png",
+        "t0": 0,
+        "t1": 64.97
+      },
       {
         "i": 2,
         "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260412_02_it_s2.png",
@@ -15845,7 +15855,7 @@
     "pregunta": "¿Tú qué color de burbuja usarías para probar un puente, José Alejandro?",
     "palabra": "🔤 puente · bridge · ponte",
     "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260409_00_es.mp3",
-    "img_url": "img/20260409_00_es.png",
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260409_00_es.png",
     "words": [
       {
         "w": "Aquella",
@@ -17487,7 +17497,7 @@
     "pregunta": "José Alejandro, can you say: moon, star, tree?",
     "palabra": "🔤 estrella · star · stella",
     "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260409_01_en.mp3",
-    "img_url": "img/20260409_01_en.png",
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260409_01_en.png",
     "words": [
       {
         "w": "In",
@@ -18888,7 +18898,7 @@
     "pregunta": "José Alejandro, tu preferisci biscotti al miele o al latte?",
     "palabra": "🔤 galleta · cookie · biscotto",
     "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260409_02_it.mp3",
-    "img_url": "img/20260409_02_it.png",
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260409_02_it.png",
     "words": [
       {
         "w": "Nella",
