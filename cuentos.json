@@ -1530,7 +1530,7 @@
     "lang": "en",
     "titulo": "Chapter 7 · The Star Map for Home",
     "texto": "It was a calm night. Luna, Timo, and Lin walked with Eleanor. The fairy smiled and said, \"Tonight we draw home!\"  The sky was dark blue. Small stars shone above. Eleanor gave them leaf pages. \"Look well. Draw well,\" she said. Luna saw three bright stars. Timo counted ten soft steps. Lin made blue bubbles, blue bubbles, blue bubbles.  Then a little mole cried. He was small and sad. He lost his way home. \"Please help me!\" he said. Luna felt kind. Timo stayed calm. Lin made a light bubble.  Eleanor said, \"Use your eyes now.\" Luna saw red flowers. Timo saw a round hill. Lin saw two tall trees. They drew the stars, hill, and trees. They drew the flowers too. José Alejandro, the map was clear.  The mole smiled at once. \"I know this place!\" he said. He walked home with the map. His mother hugged him tight. Eleanor clapped and smiled. \"A true map helps home,\" she said.  The friends felt proud and warm. Their week was done. The forest slept in peace. The end.",
-    "traduccion": "Eleanor les dio una última lección: hacer un mapa para volver a casa. Cuando un pequeño topo se perdió, Luna, Timo y Lin usaron estrellas, flores y árboles para dibujar un camino claro y ayudarlo a regresar con su mamá.",
+    "traduccion": "Era una noche tranquila. Luna, Timo y Lin caminaban con Eleanor. El hada sonrió y dijo: \"¡Esta noche dibujamos el hogar!\" El cielo era azul oscuro. Pequeñas estrellas brillaban arriba. Eleanor les dio hojas de árbol. \"Miren bien. Dibujen bien\", dijo. Luna vio tres estrellas brillantes. Timo contó diez pasos suaves. Lin hizo burbujas azules, burbujas azules, burbujas azules. Entonces un pequeño topo lloró. Era pequeño y estaba triste. Había perdido el camino a casa. \"¡Por favor, ayúdenme!\", dijo. Luna se sintió bondadosa. Timo se mantuvo calmado. Lin hizo una burbuja de luz. Eleanor dijo: \"Ahora usen sus ojos\". Luna vio flores rojas. Timo vio una colina redonda. Lin vio dos árboles altos. Dibujaron las estrellas, la colina y los árboles. También dibujaron las flores. José Alejandro, el mapa quedó claro. El topo sonrió enseguida. \"¡Conozco este lugar!\", dijo. Caminó a casa con el mapa. Su mamá lo abrazó fuerte. Eleanor aplaudió y sonrió. \"Un mapa verdadero ayuda a volver al hogar\", dijo. Los amigos se sintieron orgullosos y abrigados. Su semana había terminado. El bosque durmió en paz. Fin.",
     "moraleja": "A map is best when it helps someone.",
     "pregunta": "José Alejandro, would you draw stars or flowers on your map?",
     "palabra": "🔤 hogar · home · casa",
@@ -2427,6 +2427,13 @@
         "t1": 79.08,
         "prompt": "The little mole hugging his mother tightly outside their forest burrow home. Eleanor the fairy claps her hands joyfully in the background. Luna, Timo, and Lin watch the reunion with proud, warm smiles as the peaceful forest prepares to sleep."
       }
+    ],
+    "traduccion_lineas": [
+      "Era una noche tranquila. Luna, Timo y Lin caminaban con Eleanor. El hada sonrió y dijo: \"¡Esta noche dibujamos el hogar!\" El cielo era azul oscuro. Pequeñas estrellas brillaban arriba. Eleanor les dio hojas de árbol. \"Miren bien. Dibujen bien\", dijo.",
+      "Luna vio tres estrellas brillantes. Timo contó diez pasos suaves. Lin hizo burbujas azules, burbujas azules, burbujas azules. Entonces un pequeño topo lloró. Era pequeño y estaba triste. Había perdido el camino a casa. \"¡Por favor, ayúdenme!\", dijo.",
+      "Luna se sintió bondadosa. Timo se mantuvo calmado. Lin hizo una burbuja de luz. Eleanor dijo: \"Ahora usen sus ojos\". Luna vio flores rojas. Timo vio una colina redonda. Lin vio dos árboles altos. Dibujaron las estrellas, la colina y los árboles. También dibujaron las flores.",
+      "José Alejandro, el mapa quedó claro. El topo sonrió enseguida. \"¡Conozco este lugar!\", dijo. Caminó a casa con el mapa. Su mamá lo abrazó fuerte. Eleanor aplaudió y sonrió. \"Un mapa verdadero ayuda a volver al hogar\", dijo.",
+      "Los amigos se sintieron orgullosos y abrigados. Su semana había terminado. El bosque durmió en paz. Fin."
     ]
   },
   {
@@ -2435,7 +2442,7 @@
     "lang": "it",
     "titulo": "Capitolo 7 · I biscotti della buona notte",
     "texto": "Era l'ultima sera con Rosalinda. Luna, Timo e Lin entrarono nella cucina magica. Sul tavolo c'erano miele, farina e latte caldo. «Stasera facciamo biscotti della buona notte», disse Rosalinda.  Luna batté le zampette felice. Timo pulì gli occhiali. Lin, il draghetto blu, fece bolle blu, bolle rosa, bolle d'oro. La cucina era calda e dolce.  Rosalinda spiegò la ricetta. «Tre cucchiai di miele. Due manciate di farina». I tre amici lavorarono insieme. Luna mescolò piano. Timo contò uno, due, tre. Lin scaldò l'aria con bolle luminose.  Ma arrivò un piccolo problema. Il miele cadde sul pavimento. «Oh no!» disse Luna. Tutti restarono fermi per un momento.  Poi Timo ebbe un'idea. «Calma. Possiamo aiutare». Luna prese un panno morbido. Lin fece una bolla grande. La bolla spinse il miele verso il cucchiaio. Rosalinda rise contenta. José Alejandro, anche Luna sorrise forte.  Presto l'impasto fu pronto. Rosalinda fece stelle e lune. I biscotti andarono nel forno piccolo. Dopo poco uscirono dorati e profumati. Una leprotta stanca li assaggiò e si sentì serena.  «Avete cucinato con cura e amore», disse Rosalinda. I tre amici si abbracciarono. La settimana di cucina magica finì con dolcezza. Fine.",
-    "traduccion": "Rosalinda enseñó a preparar los bizcochos de las buenas noches. Cuando la miel se cayó, Luna, Timo y Lin mantuvieron la calma, arreglaron el desastre y cocinaron unas galletas que ayudaron a una conejita a dormir tranquila.",
+    "traduccion": "Era la última noche con Rosalinda. Luna, Timo y Lin entraron en la cocina mágica. Sobre la mesa había miel, harina y leche tibia. \"Esta noche hacemos galletas de buenas noches\", dijo Rosalinda. Luna dio palmadas feliz. Timo limpió sus gafas. Lin, el dragoncito azul, hizo burbujas azules, burbujas rosadas y burbujas doradas. La cocina estaba cálida y dulce. Rosalinda explicó la receta. \"Tres cucharadas de miel. Dos puñados de harina\". Los tres amigos trabajaron juntos. Luna mezcló despacio. Timo contó uno, dos, tres. Lin calentó el aire con burbujas luminosas. Pero llegó un pequeño problema. La miel cayó al suelo. \"¡Oh no!\", dijo Luna. Todos se quedaron quietos un momento. Luego Timo tuvo una idea. \"Calma. Podemos ayudar\". Luna tomó un paño suave. Lin hizo una burbuja grande. La burbuja empujó la miel hacia la cuchara. Rosalinda se rio contenta. José Alejandro, Luna también sonrió con fuerza. Pronto la masa estuvo lista. Rosalinda hizo estrellas y lunas. Las galletas fueron al horno pequeño. Poco después salieron doradas y olorosas. Una liebrecita cansada las probó y se sintió serena. \"Han cocinado con cuidado y amor\", dijo Rosalinda. Los tres amigos se abrazaron. La semana de cocina mágica terminó con dulzura. Fin.",
     "moraleja": "Con calma e amore, tutto si sistema.",
     "pregunta": "José Alejandro, vuoi biscotti a forma di stella o di luna?",
     "palabra": "🔤 galleta · cookie · biscotto",
@@ -3432,6 +3439,13 @@
         "t1": 105.05,
         "prompt": "Golden star and moon shaped cookies fresh from small oven on counter, Luna, Timo and Lin hugging each other warmly in magical kitchen, Rosalinda smiling in background, sweet peaceful ending scene with warm orange glow"
       }
+    ],
+    "traduccion_lineas": [
+      "Era la última noche con Rosalinda. Luna, Timo y Lin entraron en la cocina mágica. Sobre la mesa había miel, harina y leche tibia. \"Esta noche hacemos galletas de buenas noches\", dijo Rosalinda.",
+      "Luna dio palmadas feliz. Timo limpió sus gafas. Lin, el dragoncito azul, hizo burbujas azules, burbujas rosadas y burbujas doradas. La cocina estaba cálida y dulce.",
+      "Rosalinda explicó la receta. \"Tres cucharadas de miel. Dos puñados de harina\". Los tres amigos trabajaron juntos. Luna mezcló despacio. Timo contó uno, dos, tres. Lin calentó el aire con burbujas luminosas.",
+      "Pero llegó un pequeño problema. La miel cayó al suelo. \"¡Oh no!\", dijo Luna. Todos se quedaron quietos un momento. Luego Timo tuvo una idea. \"Calma. Podemos ayudar\". Luna tomó un paño suave. Lin hizo una burbuja grande. La burbuja empujó la miel hacia la cuchara. Rosalinda se rio contenta. José Alejandro, Luna también sonrió con fuerza.",
+      "Pronto la masa estuvo lista. Rosalinda hizo estrellas y lunas. Las galletas fueron al horno pequeño. Poco después salieron doradas y olorosas. Una liebrecita cansada las probó y se sintió serena. \"Han cocinado con cuidado y amor\", dijo Rosalinda. Los tres amigos se abrazaron. La semana de cocina mágica terminó con dulzura. Fin."
     ]
   },
   {
