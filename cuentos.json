@@ -1499,6 +1499,29 @@
         "t0": 139.72,
         "t1": 140.0
       }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260413_00_es_s1.png",
+        "t0": 0.0,
+        "t1": 35.1,
+        "prompt": "Gnome Bartolo wearing his brightest work hat stands with Luna the white rabbit in blue dress with pink ears twitching excitedly, Timo the brown owl adjusting his round glasses, and Lin the chubby blue baby dragon blowing colorful bubbles like lanterns, in golden afternoon light by a wooden bridge over a river in the Kingdom of Small Crafts"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260413_00_es_s3.png",
+        "t0": 63.18,
+        "t1": 105.3,
+        "prompt": "Luna the white rabbit firmly holding the frayed rope with her small paws, Timo the owl with round glasses directing the knot-tying rhythm, Lin the blue baby dragon inflating a giant iridescent bubble to gently push flower garlands away from the railing, all three working together in focused concentration to repair the bridge"
+      },
+      {
+        "i": 4,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260413_00_es_s4.png",
+        "t0": 105.3,
+        "t1": 140.4,
+        "prompt": "Magical nighttime river festival with singing frogs on lily pads, glowing fairies hanging sparkling lights, a gentle giant carefully crossing the sturdy wooden bridge, Luna, Timo, Lin and Bartolo crossing together under a canopy of twinkling stars while the river shimmers below in moonlight"
+      }
     ]
   },
   {
@@ -2380,6 +2403,29 @@
         "w": "end",
         "t0": 78.6,
         "t1": 78.82
+      }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260413_01_en_s1.png",
+        "t0": 0.0,
+        "t1": 26.1,
+        "prompt": "Eleanor the wandering fairy giving leaf pages to Luna the white rabbit, Timo the brown owl with round glasses, and Lin the chubby blue baby dragon under a dark blue starry night sky in the forest. Eleanor smiles while the three friends look up at the shining stars above them."
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260413_01_en_s2.png",
+        "t0": 26.1,
+        "t1": 52.98,
+        "prompt": "Luna, Timo, and Lin standing around a small sad mole crying in the forest clearing. Lin creates a glowing blue light bubble. Around them are visible red flowers, a round hill in the background, and two tall trees. The friends are drawing on their leaf pages while observing the landscape."
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260413_01_en_s3.png",
+        "t0": 52.98,
+        "t1": 79.08,
+        "prompt": "The little mole hugging his mother tightly outside their forest burrow home. Eleanor the fairy claps her hands joyfully in the background. Luna, Timo, and Lin watch the reunion with proud, warm smiles as the peaceful forest prepares to sleep."
       }
     ]
   },
@@ -3362,6 +3408,29 @@
         "w": "dolcezza",
         "t0": 104.24,
         "t1": 104.8
+      }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260413_02_it_s1.png",
+        "t0": 0.0,
+        "t1": 36.77,
+        "prompt": "Inside a warm magical kitchen at evening, Rosalinda the good witch showing honey jar, flour and warm milk on wooden table to Luna the white rabbit in blue dress, Timo the brown owl with round glasses, and Lin the chubby blue baby dragon with purple wings, cozy atmosphere with soft lighting"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260413_02_it_s2.png",
+        "t0": 36.77,
+        "t1": 73.53,
+        "prompt": "Luna the rabbit holding soft cloth cleaning spilled honey on kitchen floor while Lin the blue dragon creates a large glowing bubble pushing honey toward spoon, Timo the owl watching carefully with his round glasses, teamwork moment solving problem together"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260413_02_it_s3.png",
+        "t0": 73.53,
+        "t1": 105.05,
+        "prompt": "Golden star and moon shaped cookies fresh from small oven on counter, Luna, Timo and Lin hugging each other warmly in magical kitchen, Rosalinda smiling in background, sweet peaceful ending scene with warm orange glow"
       }
     ]
   },
