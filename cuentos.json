@@ -1679,6 +1679,36 @@
         "t0": 166.42,
         "t1": 166.48
       }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260415_01_es_s1.png",
+        "t0": 0.0,
+        "t1": 41.69,
+        "prompt": "Luna the white rabbit with blue dress, Timo the brown owl with round glasses, and Lin the chubby baby blue dragon walking through a sunny forest, stopping with curious expressions as they hear strange mechanical sounds, Luna's long pink ears perked up"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260415_01_es_s2.png",
+        "t0": 41.69,
+        "t1": 75.04,
+        "prompt": "The three friends arriving at a whimsical workshop cottage with giant spinning gears on the roof, moving levers on the walls, and a chimney releasing golden sparks, Edison the short gnome with white beard and thick glasses standing at the doorway welcoming them with open arms"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260415_01_es_s3.png",
+        "t0": 75.04,
+        "t1": 125.06,
+        "prompt": "Inside Edison's cluttered workshop filled with colorful springs, wheels, ropes and bells, Luna touching a small music box, Timo turning a crank that makes a little clown pop out, Lin blowing colorful bubbles that make all the bells ring, Edison watching them with a smile"
+      },
+      {
+        "i": 4,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260415_01_es_s4.png",
+        "t0": 125.06,
+        "t1": 166.75,
+        "prompt": "Luna, Timo and Lin walking back home through the forest at dusk under moonlight, looking at falling leaves and moving branches with wonder and imagination, Lin blowing happy glowing bubbles that float in the air, peaceful nighttime atmosphere"
+      }
     ]
   },
   {
@@ -2681,6 +2711,29 @@
         "t0": 92.52,
         "t1": 92.58
       }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260415_02_en_s1.png",
+        "t0": 0.0,
+        "t1": 32.47,
+        "prompt": "Luna the white rabbit, Timo the brown owl with round glasses, and Lin the chubby blue baby dragon arrive at the base of Rainbow Mountain, a tall red mountain. Lin blows happy blue and pink bubbles. Roco the badger with black and white fur comes out to greet them, smiling and welcoming."
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260415_02_en_s2.png",
+        "t0": 32.47,
+        "t1": 64.93,
+        "prompt": "Roco the badger teaches the three friends about safe rocks. Luna pushes a large stable rock that doesn't move. Timo touches a small loose rock that wobbles. Roco watches them practice, pointing and explaining which rocks are safe to climb."
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260415_02_en_s3.png",
+        "t0": 64.93,
+        "t1": 92.76,
+        "prompt": "Lin the baby dragon blows colorful bubbles at a tall rock and they pop loudly. Roco laughs with joy. The three friends wave goodbye to Roco as sunset colors the sky, looking up at Rainbow Mountain with excitement for tomorrow's climb."
+      }
     ]
   },
   {
@@ -3677,6 +3730,29 @@
         "w": "Fine",
         "t0": 103.86,
         "t1": 104.0
+      }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260415_03_it_s1.png",
+        "t0": 0.0,
+        "t1": 36.52,
+        "prompt": "Luna the white rabbit, Timo the owl with round glasses, and Lin the chubby blue baby dragon discovering a tiny cricket wearing a red hat emerging from a green leaf in a sunny forest. Musical notes float in the air. Lin blows yellow and green bubbles."
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260415_03_it_s2.png",
+        "t0": 36.52,
+        "t1": 73.05,
+        "prompt": "The cricket in red hat demonstrating a reed flute to the three friends. Luna gently blows into the flute making soft sounds, while Timo waits his turn. Forest birds gather on branches above them, singing along to the magical music."
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260415_03_it_s3.png",
+        "t0": 73.05,
+        "t1": 104.35,
+        "prompt": "Lin the blue dragon blowing colorful bubbles through the reed flute instead of air - bubbles popping everywhere (POP POP POP). The cricket, Luna, and Timo laughing joyfully together in the warm forest clearing as sunset light filters through the trees."
       }
     ]
   },
