@@ -1519,6 +1519,36 @@
         "t0": 139.42,
         "t1": 139.58
       }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260416_01_es_s1.png",
+        "t0": 0.0,
+        "t1": 34.97,
+        "prompt": "Inside Edison the gnome's workshop with wooden table covered in tiny wheels, shiny buttons and seed boxes. Edison wearing green glasses shows a simple acorn spinning top to Luna the white rabbit, Timo the brown owl with round glasses, and Lin the chubby blue baby dragon. Warm afternoon light through window."
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260416_01_es_s2.png",
+        "t0": 34.97,
+        "t1": 69.95,
+        "prompt": "Luna the rabbit examining the wobbly spinning top from below on the workshop table, Timo the owl listening closely with his round glasses, and Lin the blue dragon blowing a yellow bubble over the table as the lopsided acorn top rolls toward a feather. Edison the gnome observing thoughtfully."
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260416_01_es_s3.png",
+        "t0": 69.95,
+        "t1": 104.92,
+        "prompt": "The three friends working together at the table - Luna the rabbit sanding the acorn with small tools, Timo the owl measuring the twig carefully with his wings, and Lin the blue dragon attaching a small blue feather using a sticky honey-like bubble. Edison the gnome supervising with a smile."
+      },
+      {
+        "i": 4,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260416_01_es_s4.png",
+        "t0": 104.92,
+        "t1": 139.9,
+        "prompt": "The perfected spinning top dancing in small circles on the workshop table, staying upright with its blue feather tail. Luna the rabbit clapping excitedly, Timo the owl laughing softly, Lin the blue dragon doing a playful somersault near a basket of screws, and Edison the gnome watching proudly as window chimes tinkle."
+      }
     ]
   },
   {
@@ -2306,6 +2336,29 @@
         "t0": 57.62,
         "t1": 57.96
       }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260416_02_en_s1.png",
+        "t0": 0.0,
+        "t1": 20.32,
+        "prompt": "Luna the white rabbit, Timo the owl with glasses, and Lin the baby blue dragon with purple wings climbing up a steep yellow mountain path between tall rocks at sunrise, Roco the gnome carrying a coiled rope, Lin blowing shimmering blue bubbles"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260416_02_en_s2.png",
+        "t0": 20.32,
+        "t1": 40.64,
+        "prompt": "Luna slipping on dusty ground near a flat stone, Roco the gnome tying secure knots in a strong rope, Luna, Timo, and Lin all holding the safety rope together as they carefully cross a dangerous steep section of the mountain path"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260416_02_en_s3.png",
+        "t0": 40.64,
+        "t1": 58.06,
+        "prompt": "At the mountain summit with golden clouds in the sky and a red bird flying above, Roco the gnome sharing warm nut bread with Luna, Timo, and Lin as they sit together proudly looking down at the valley below"
+      }
     ]
   },
   {
@@ -3067,6 +3120,29 @@
         "w": "ancora",
         "t0": 72.58,
         "t1": 72.84
+      }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260416_03_it_s1.png",
+        "t0": 0.0,
+        "t1": 25.88,
+        "prompt": "Luna the white rabbit tapping wooden sticks on a bark drum, Timo the owl with round glasses listening to forest rhythms, Lin the baby blue dragon blowing blue bubbles, Cricket Maestro smiling, all gathered under a large tree in a sunny forest clearing"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260416_03_it_s2.png",
+        "t0": 25.88,
+        "t1": 51.76,
+        "prompt": "A small frightened rabbit trembling as wind moves leaves and branches around, while Luna plays a gentle rhythm on the bark drum, Timo taps calmly with sticks, and Lin blows pink bubbles that float slowly upward into the sky"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260416_03_it_s3.png",
+        "t0": 51.76,
+        "t1": 73.94,
+        "prompt": "The small rabbit now smiling and hopping joyfully close to Luna, Timo, and Lin, Cricket Maestro clapping his hands happily, pink bubbles floating peacefully in the calm forest air, warm afternoon light"
       }
     ]
   },
