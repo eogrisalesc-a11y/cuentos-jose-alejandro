@@ -37,12 +37,7 @@
       "metadata_file": "bartolo_metadata.json",
       "role": "secondary",
       "detect_keywords": [
-        "bartolo",
-        "gnome",
-        "gnomo",
-        "puente",
-        "constructor",
-        "bridge"
+        "bartolo"
       ],
       "saga_keywords": [
         "puente",
@@ -55,12 +50,7 @@
       "metadata_file": "eleanor_metadata.json",
       "role": "secondary",
       "detect_keywords": [
-        "eleanor",
-        "fairy",
-        "hada",
-        "map",
-        "cartograf",
-        "wandering"
+        "eleanor"
       ],
       "saga_keywords": [
         "map",
@@ -74,13 +64,7 @@
       "metadata_file": "rosalinda_metadata.json",
       "role": "secondary",
       "detect_keywords": [
-        "rosalinda",
-        "witch",
-        "bruja",
-        "brujita",
-        "cocina",
-        "cucina",
-        "strega"
+        "rosalinda"
       ],
       "saga_keywords": [
         "cocina",
@@ -94,17 +78,7 @@
       "metadata_file": "edison_metadata.json",
       "role": "secondary",
       "detect_keywords": [
-        "edison",
-        "inventor",
-        "inventores",
-        "juguete",
-        "juguetes",
-        "toy",
-        "toys",
-        "workshop",
-        "taller",
-        "peonza",
-        "carrito"
+        "edison"
       ],
       "saga_keywords": [
         "inventores",
@@ -118,18 +92,7 @@
       "metadata_file": "roco_metadata.json",
       "role": "secondary",
       "detect_keywords": [
-        "roco",
-        "badger",
-        "tejon",
-        "tejón",
-        "rainbow mountain",
-        "rainbow",
-        "arcoiris",
-        "climb",
-        "escalar",
-        "mountain",
-        "yellow rope",
-        "red path"
+        "roco"
       ],
       "saga_keywords": [
         "rainbow",
@@ -144,16 +107,8 @@
       "role": "secondary",
       "detect_keywords": [
         "grillo",
-        "sinfonico",
-        "sinfónico",
-        "cricket",
-        "musica di foglie",
-        "flauto",
-        "flute",
-        "tamburo",
-        "drum",
-        "conductor",
-        "director"
+        "grillo sinfonico",
+        "grillo sinfónico"
       ],
       "saga_keywords": [
         "musica",
