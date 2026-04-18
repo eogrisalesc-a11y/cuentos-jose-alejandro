@@ -1,0 +1,14 @@
+{
+  "name": "Roco",
+  "name_es": "Tejón Roco",
+  "role": "secondary",
+  "saga": "Climb the Rainbow Mountain",
+  "description_en": "A brave young badger with black and white striped face, short gray and black fur, small sturdy body, a tiny red climbing rope coiled on his shoulder, small backpack, friendly rounded snout with small pink nose, bright alert eyes, short sturdy legs with small claws. Courageous and curious explorer.",
+  "description_es": "Un tejón joven y valiente con la cara rayada en blanco y negro, pelaje corto gris y negro, cuerpo pequeño y robusto, una cuerda de escalada roja pequeña enrollada en su hombro, mochila pequeña, hocico redondeado amigable con naricita rosada, ojos brillantes y alertas, patas cortas y robustas con garritas. Explorador valiente y curioso.",
+  "style_prompt": "3D rendered, Pixar-style, soft lighting, warm pastel colors, children's storybook illustration, magical atmosphere",
+  "voice": "fable",
+  "reference_images": [],
+  "primary_reference": "trio.png",
+  "visual_tags": ["black and white striped face", "gray and black fur", "red climbing rope", "small backpack", "friendly snout", "bright eyes", "sturdy body", "badger"],
+  "never": ["raccoon", "skunk", "aggressive expression", "large badger", "no stripes", "solid color fur", "scary"]
+}

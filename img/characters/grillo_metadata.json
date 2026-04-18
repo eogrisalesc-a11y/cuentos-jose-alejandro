@@ -1,0 +1,14 @@
+{
+  "name": "Grillo Sinfonico",
+  "name_es": "Grillo Sinfónico",
+  "role": "secondary",
+  "saga": "Musica di Foglie",
+  "description_en": "A friendly conductor cricket in Pixar style, bright green glossy body, large round eyes with kind expression, wearing a tiny black bowtie and holding a small leaf-shaped conductor baton, long antennae curved like musical notes, small translucent wings folded on back, slender legs. Musical maestro of the forest.",
+  "description_es": "Un grillo director amigable estilo Pixar, cuerpo verde brillante, ojos grandes redondos con expresión amable, lleva una pajarita negra diminuta y sostiene una batuta pequeña en forma de hoja, antenas largas curvadas como notas musicales, alas pequeñas translúcidas plegadas en la espalda, patas delgadas. Maestro musical del bosque.",
+  "style_prompt": "3D rendered, Pixar-style, soft lighting, warm pastel colors, children's storybook illustration, magical atmosphere",
+  "voice": "fable",
+  "reference_images": [],
+  "primary_reference": "trio.png",
+  "visual_tags": ["bright green body", "large round eyes", "black bowtie", "leaf-shaped baton", "curved antennae", "small wings", "cricket", "musical conductor"],
+  "never": ["grasshopper", "dark colored body", "scary eyes", "human size", "without antennae", "angry expression"]
+}

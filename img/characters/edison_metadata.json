@@ -1,0 +1,14 @@
+{
+  "name": "Edison",
+  "name_es": "Gnomo Edison",
+  "role": "secondary",
+  "saga": "Inventores de Juguetes",
+  "description_en": "A cheerful middle-aged gnome inventor with a short gray beard, round brass goggles on his forehead, a blue vest over a yellow shirt, brown suspenders, small tool belt with tiny gears and screwdrivers, rosy cheeks, bright curious eyes, very short stature, brown work boots. Always tinkering with toys.",
+  "description_es": "Un gnomo inventor alegre de mediana edad con barba gris corta, gafas redondas de latón en la frente, chaleco azul sobre camisa amarilla, tirantes marrones, cinturón pequeño de herramientas con engranajes diminutos y destornilladores, mejillas rosadas, ojos brillantes y curiosos, muy bajito, botas marrones de trabajo. Siempre inventando juguetes.",
+  "style_prompt": "3D rendered, Pixar-style, soft lighting, warm pastel colors, children's storybook illustration, magical atmosphere",
+  "voice": "fable",
+  "reference_images": [],
+  "primary_reference": "trio.png",
+  "visual_tags": ["short gray beard", "brass goggles on forehead", "blue vest", "yellow shirt", "brown suspenders", "tool belt", "rosy cheeks", "very short", "brown boots", "gnome inventor"],
+  "never": ["tall gnome", "no goggles", "young face", "angry expression", "red hat", "no beard", "long beard", "elderly"]
+}
