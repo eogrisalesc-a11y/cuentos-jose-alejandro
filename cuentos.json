@@ -1,18 +1,18 @@
 [
   {
-    "id": "20260417_04_es",
+    "id": "20260417_03_es",
     "fecha": "17/04/2026",
     "lang": "es",
-    "titulo": "Capítulo 4 · El carrito que no se volcaba",
+    "titulo": "Capítulo 3 · El carrito que no se volcaba",
     "texto": "Aquella tarde, el taller del Gnomo Edison olía a madera recién pulida y a hojas de menta. Sobre la mesa grande había ruedas pequeñas, trocitos de corteza brillante, hilos rojos y campanitas doradas. Luna levantó las orejas de emoción. Timo acomodó sus gafas. Lin, el dragón azul bebé, soltó tres burbujas de colores que se quedaron flotando sobre una caja de herramientas.  —Hoy inventaremos un carrito de reparto —anunció Edison, frotándose las manos—. Debe llevar juguetes sin volcarse en los caminos del bosque.  Luna quiso ponerle ruedas enormes. Timo propuso un cajón más ancho. Lin empujó una tabla con la nariz y dejó otra burbuja azul justo en el centro. —¡Miren! —dijo Luna—. Tal vez Lin encontró el lugar del equilibrio.  Trabajaron toda la tarde. Primero, el carrito salió disparado y chocó suavemente contra un saco de aserrín. Después, giró tanto hacia un lado que las campanitas cayeron al suelo haciendo tilín, tilín. José Alejandro, a Luna le dieron ganas de apurarse, pero Edison sonrió con calma.  —Un inventor no pelea con su idea —explicó—. La escucha.  Entonces probaron otra vez. Cambiaron una rueda torcida, ataron mejor el cajón y pusieron una barrita de madera justo donde Lin había señalado con su burbuja. Timo empujó despacito. Luna caminó al lado. Lin sopló burbujas verdes para marcar el camino.  Esta vez, el carrito avanzó firme por la rampa, cruzó un puente de raíces y llegó hasta la puerta sin perder ni un juguete. Los tres amigos aplaudieron felices.  —¡Funciona de verdad! —gritó Luna.  Edison hizo una reverencia pequeña. —Hoy aprendieron que inventar también es repartir alegría.  Antes de irse, dejaron dentro del carrito un trompo nuevo para llevarlo mañana a una cría de erizo. Y mientras el sol pintaba el bosque de dorado, violeta y verde, los tres supieron que su siguiente invento tendría que ayudar a alguien aún más. Fin.",
     "traduccion": "",
     "moraleja": "Escuchar un problema con calma ayuda a resolverlo mejor.",
     "pregunta": "José Alejandro, ¿qué llevarías mañana en el carrito inventado?",
     "palabra": "🔤 equilibrio · balance · equilibrio",
-    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260417_04_es.mp3",
-    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_es.png",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260417_03_es.mp3",
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_03_es.png",
     "saga": "Inventores de Juguetes",
-    "chapter_num": 4,
+    "chapter_num": 3,
     "words": [
       {
         "w": "Aquella",
@@ -1543,28 +1543,28 @@
     "escenas": [
       {
         "i": 1,
-        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_es_s1.png",
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_03_es_s1.png",
         "t0": 0.0,
         "t1": 35.43,
         "prompt": "Inside Gnome Edison's cozy workshop, Luna the white rabbit with blue dress and long pink ears, Timo the brown owl with round glasses, and Lin the chubby baby blue dragon with purple wings gather around a large wooden table covered with small wheels, shiny bark pieces, red threads and golden bells, while colorful bubbles float above them in warm afternoon light"
       },
       {
         "i": 2,
-        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_es_s2.png",
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_03_es_s2.png",
         "t0": 35.43,
         "t1": 70.86,
         "prompt": "Luna's long pink ears droop with disappointment as the wooden toy cart crashes softly into a sawdust sack, with golden bells scattered on the workshop floor making tilín sounds, while Timo adjusts his round glasses and Lin blows a blue bubble near the tilted cart"
       },
       {
         "i": 3,
-        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_es_s3.png",
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_03_es_s3.png",
         "t0": 70.86,
         "t1": 106.29,
         "prompt": "The three friends work together fixing the cart: Luna holds a wooden bar steady, Timo carefully tightens a crooked wheel with his wings, and Lin points with his nose to the balance spot marked by a green bubble, while Gnome Edison watches with a calm smile in the background"
       },
       {
         "i": 4,
-        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_es_s4.png",
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_03_es_s4.png",
         "t0": 106.29,
         "t1": 141.72,
         "prompt": "The finished toy cart rolls steadily across a bridge made of tree roots carrying toys safely inside, with Luna walking alongside it, Timo gently pushing from behind, and Lin blowing green bubbles to mark the path, all bathed in golden, violet and green sunset light filtering through the forest"
@@ -1572,19 +1572,19 @@
     ]
   },
   {
-    "id": "20260417_04_en",
+    "id": "20260417_03_en",
     "fecha": "17/04/2026",
     "lang": "en",
-    "titulo": "Chapter 4 · The Red Path Rescue",
+    "titulo": "Chapter 3 · The Red Path Rescue",
     "texto": "Luna saw a red flag. Timo saw a small cave. Lin made blue bubbles there. Roco smiled and said, \"Slow feet first.\" Today they climbed the red path. The red path was steep. The rocks were wet and cold. Luna felt a little fear. Timo said, \"We help together!\" José Alejandro, Luna took one breath. Roco tied one strong rope. He tied one knot, then two. Lin held the rope tail. His bubbles showed the safe stones. Then they heard soft crying. A baby goat was in mud. The goat was sad and cold. Luna said, \"We help now!\" Roco checked the ground first. Timo flew low and slow. Lin made big green bubbles. The goat looked at them. It stopped crying, little by little. Then Luna moved with the rope. One step, two steps, three steps. She reached the baby goat. Together they pulled with care. The baby goat came out. It stood up and jumped. Everyone laughed with joy. Roco gave the goat warm leaves. The red sky looked bright again. Today they learned brave help matters. The end.",
     "traduccion": "Luna, Timo y Lin suben el camino rojo con Roco y encuentran a una cabrita atrapada en el barro. Con cuerda, calma y ayuda valiente, logran rescatarla y aprenden que ayudar también es parte de escalar.",
     "moraleja": "Brave help can save the day.",
     "pregunta": "José Alejandro, what color path do you want tomorrow?",
     "palabra": "🔤 rope · cuerda · corda",
-    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260417_04_en.mp3",
-    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_en.png",
-    "saga": "Rainbow Mountain with Roco",
-    "chapter_num": 4,
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260417_03_en.mp3",
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_03_en.png",
+    "saga": "Climb the Rainbow Mountain",
+    "chapter_num": 3,
     "words": [
       {
         "w": "Luna",
@@ -2475,41 +2475,45 @@
     "escenas": [
       {
         "i": 1,
-        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_en_s1.png",
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_03_en_s1.png",
         "t0": 0.0,
         "t1": 26.62,
         "prompt": "Luna the white rabbit, Timo the brown owl with round glasses, Lin the chubby blue dragon, and Roco the mountain gnome climbing a steep red rocky path. Roco ties a strong rope while Lin makes glowing blue bubbles near a small cave entrance. The wet rocks glisten and the path looks challenging."
       },
       {
         "i": 2,
-        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_en_s2.png",
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_03_en_s2.png",
         "t0": 26.62,
         "t1": 49.44,
         "prompt": "The group discovering a baby goat stuck in muddy ground between rocks. Timo the owl flies low overhead, Lin the blue dragon creates big green bubbles showing safe stepping stones, while Roco the gnome kneels to check the ground. The baby goat looks sad and wet, crying softly in the mud."
       },
       {
         "i": 3,
-        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_en_s3.png",
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_03_en_s3.png",
         "t0": 49.44,
         "t1": 76.06,
         "prompt": "Luna the rabbit holding the rope and reaching the baby goat while the team pulls together from behind. The rescued baby goat jumps joyfully in the air as everyone celebrates with smiles. Roco offers warm leaves to the happy goat under a bright red evening sky."
       }
+    ],
+    "traduccion_lineas": [
+      "Luna, Timo y Lin suben el camino rojo con Roco y encuentran a una cabrita atrapada en el barro.",
+      "Con cuerda, calma y ayuda valiente, logran rescatarla y aprenden que ayudar también es parte de escalar."
     ]
   },
   {
-    "id": "20260417_04_it",
+    "id": "20260417_03_it",
     "fecha": "17/04/2026",
     "lang": "it",
-    "titulo": "Capitolo 4 · Il flauto che calmò il riccio",
+    "titulo": "Capitolo 3 · Il flauto che calmò il riccio",
     "texto": "Luna vide una foglia lunga. Timo vide tre sassi chiari. Lin fece bolle blu in aria. Il Grillo Sinfonico sorrise piano. —Oggi suoniamo il flauto di canna —disse. Nel bosco c’era vento dolce. Il vento faceva un suono lieve. Luna era felice, attenta. José Alejandro, anche tu avresti ascoltato. Il maestro diede una canna a Luna. Diede una canna a Timo. Diede una canna piccola a Lin. Timo soffiò piano nel flauto. Luna soffiò piano nel flauto. Lin soffiò, ma uscì una bolla. Tutti risero con gioia. Poi arrivò un riccio piccolo. Il riccio tremava per paura. Un ramo batteva forte sopra lui. Il Grillo disse: —Musica dolce, amici.— Luna suonò una nota lunga. Timo suonò due note lente. Lin fece bolle rosa e verdi. Il riccio guardò le bolle. Poi ascoltò il flauto, il flauto. Il suo corpo si calmò presto. Il ramo smise di battere. Il vento diventò lieve. Il riccio fece un sorriso. Allora mangiò una mora dolce. Il maestro batté le mani felice. Oggi i tre amici hanno capito questo. La musica dolce può dare pace. Fine.",
     "traduccion": "Luna, Timo e Lin imparano a suonare il flauto di canna con il Grillo Sinfonico. Cuando un erizo se asusta por una rama y el viento, usan música suave y burbujas de colores para devolverle la calma.",
     "moraleja": "La musica dolce aiuta i cuori spaventati.",
     "pregunta": "José Alejandro, vuoi suonare un flauto o un tamburo?",
     "palabra": "🔤 music · música · musica",
-    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260417_04_it.mp3",
-    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_it.png",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260417_03_it.mp3",
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_03_it.png",
     "saga": "Musica di Foglie",
-    "chapter_num": 4,
+    "chapter_num": 3,
     "words": [
       {
         "w": "Luna",
@@ -3420,25 +3424,29 @@
     "escenas": [
       {
         "i": 1,
-        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_it_s1.png",
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_03_it_s1.png",
         "t0": 0.0,
         "t1": 28.9,
         "prompt": "Luna the white rabbit, Timo the owl with glasses, and Lin the baby blue dragon learning to play reed flutes in a sunny forest clearing, with the Cricket Maestro demonstrating. Lin accidentally blows bubbles instead of music, everyone laughing together. Gentle wind in the trees, light and joyful atmosphere."
       },
       {
         "i": 2,
-        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_it_s2.png",
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_03_it_s2.png",
         "t0": 28.9,
         "t1": 57.79,
         "prompt": "A small frightened hedgehog trembling beneath a branch that sways menacingly above him in the forest. Luna, Timo, and Lin standing nearby with their reed flutes, looking concerned. The Cricket Maestro gestures gently, asking for soft music. Tense moment with darker shadows."
       },
       {
         "i": 3,
-        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_it_s3.png",
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_03_it_s3.png",
         "t0": 57.79,
         "t1": 82.56,
         "prompt": "Luna playing her reed flute with a long gentle note, Timo playing slow notes, and Lin blowing pink and green bubbles that float through the air. The hedgehog now calm and smiling, peacefully eating a sweet berry. The branch still, gentle breeze, warm peaceful light. The Cricket Maestro clapping happily."
       }
+    ],
+    "traduccion_lineas": [
+      "Luna, Timo e Lin imparano a suonare il flauto di canna con il Grillo Sinfonico.",
+      "Cuando un erizo se asusta por una rama y el viento, usan música suave y burbujas de colores para devolverle la calma."
     ]
   },
   {
@@ -5801,6 +5809,11 @@
         "t1": 58.06,
         "prompt": "At the mountain summit with golden clouds in the sky and a red bird flying above, Roco the gnome sharing warm nut bread with Luna, Timo, and Lin as they sit together proudly looking down at the valley below"
       }
+    ],
+    "traduccion_lineas": [
+      "Luna, Timo y Lin suben por el camino amarillo con Roco.",
+      "Cuando Luna resbala, el equipo usa una cuerda con nudos seguros y logra cruzar.",
+      "Hoy aprenden confianza, ayuda y trabajo en equipo."
     ]
   },
   {
@@ -6586,6 +6599,11 @@
         "t1": 73.94,
         "prompt": "The small rabbit now smiling and hopping joyfully close to Luna, Timo, and Lin, Cricket Maestro clapping his hands happily, pink bubbles floating peacefully in the calm forest air, warm afternoon light"
       }
+    ],
+    "traduccion_lineas": [
+      "Luna, Timo e Lin imparano a costruire e suonare un tamburo di corteccia con il Grillo Sinfonico.",
+      "Quando un conejito se asusta por el viento, usan música suave y burbujas para calmarlo.",
+      "Hoy descubren que la música también puede dar paz."
     ]
   },
   {
@@ -9323,6 +9341,9 @@
         "t1": 92.76,
         "prompt": "Luna, Timo and Lin wave goodbye to Roco the badger and stand together looking up at the towering red Rainbow Mountain ahead of them, ready for tomorrow's climbing adventure as sunset light glows on the peaks"
       }
+    ],
+    "traduccion_lineas": [
+      "Luna, Timo y Lin van a la Montaña Arcoíris y conocen a Roco, un tejón valiente que les enseña la primera regla: ayudarse entre amigos y revisar que las rocas sean seguras antes de pisar."
     ]
   },
   {
@@ -10343,6 +10364,11 @@
         "t1": 104.35,
         "prompt": "Lin the blue dragon blowing yellow and green bubbles out of the reed flute instead of music, bubbles popping everywhere, Luna and Timo laughing joyfully, the Cricket smiling, forest animals gathering around to watch the cheerful scene."
       }
+    ],
+    "traduccion_lineas": [
+      "Luna, Timo y Lin conocen al Grillo Sinfónico, quien les enseña a tocar un flauto de caña.",
+      "Luna y Timo soplan música, pero Lin sopla burbujas.",
+      "El Grillo promete encontrar un instrumento especial para Lin mañana."
     ]
   },
   {
@@ -18457,7 +18483,59 @@
       }
     ],
     "saga": "Map-Making with Eleanor",
-    "chapter_num": 6
+    "chapter_num": 6,
+    "traduccion_lineas": [
+      "Era una tarde dorada y suave.",
+      "Luna, Timo y Lin caminaban con Eleanor.",
+      "Fueron al Prado de la Campana.",
+      "Allí había una pequeña torre con una campana.",
+      "La campana era pequeña y brillante.",
+      "Ayudaba a las familias a encontrar el camino a casa por la noche.",
+      "Eleanor sonrió y dijo: \"¡Hoy dibujamos un mapa de la campana!",
+      "\" Luna aplaudió de alegría.",
+      "Timo limpió sus gafas redondas.",
+      "Lin sopló burbujas azules, rosadas y verdes.",
+      "Entonces llegó lentamente una niebla blanca.",
+      "El camino, el estanque y los árboles se veían iguales.",
+      "Un conejito lloraba cerca de una piedra.",
+      "\"¡No puedo encontrar mi casa!",
+      "\", dijo.",
+      "Luna se sintió triste, pero valiente.",
+      "\"¡Podemos ayudarte!",
+      "\", dijo.",
+      "Eleanor les dio papel y un lápiz.",
+      "\"Miren, cuenten y dibujen\", dijo.",
+      "Timo oyó primero la torre de la campana.",
+      "Din, din, din.",
+      "Dibujó la torre.",
+      "Luna contó diez pasos hasta el estanque.",
+      "Volvió a contar diez pasos.",
+      "Lin hizo tres burbujas azules sobre el camino seguro.",
+      "Burbujas azules, burbujas azules, burbujas azules.",
+      "Dibujaron el estanque, la torre y tres piedras grandes.",
+      "También dibujaron un árbol con flores rojas.",
+      "El conejito miró el mapa.",
+      "Sonrió un poco.",
+      "\"Ve a la torre\", dijo Luna.",
+      "\"Luego gira en el estanque\", dijo Timo.",
+      "\"¡Sigue mis burbujas azules!",
+      "\", dijo Lin.",
+      "El conejito caminó despacio.",
+      "Vio la torre.",
+      "Vio el estanque.",
+      "Vio las burbujas azules.",
+      "Muy pronto, su mamá corrió hacia él.",
+      "Le dio un abrazo cálido.",
+      "\"¡Gracias, amigos!",
+      "\", dijo.",
+      "Eleanor puso una estrella dorada en el mapa.",
+      "\"Un buen mapa ayuda a la gente a volver a casa, José Alejandro\", dijo suavemente.",
+      "Al final la niebla se movió.",
+      "A lo lejos, más allá de la torre, vieron una colina oscura con señales viejas.",
+      "Eleanor cerró su libro y sonrió.",
+      "\"¡Mañana mapearemos esa colina!",
+      "\" Fin."
+    ]
   },
   {
     "id": "20260412_02_it",
@@ -20405,7 +20483,65 @@
       }
     ],
     "saga": "Cucina Magica con Rosalinda",
-    "chapter_num": 6
+    "chapter_num": 6,
+    "traduccion_lineas": [
+      "It was evening in the warm forest.",
+      "Luna, Timo, and Lin went to Rosalinda's house.",
+      "The little house smelled of honey and vanilla.",
+      "On the table there was a big bowl.",
+      "There were flour, milk, and apples.",
+      "Rosalinda smiled gently.",
+      "\"Tonight we make the cake of little stars.",
+      "This cake gives sweet and calm dreams.",
+      "\" Luna clapped her hands.",
+      "Timo adjusted his round glasses.",
+      "Lin, the baby blue dragon, made pink and blue bubbles.",
+      "Rosalinda showed the recipe.",
+      "\"First we mix slowly.",
+      "Then we add honey, apple, and moonlight.",
+      "\" Luna cut the apple into small pieces.",
+      "Timo counted three spoonfuls of honey.",
+      "Lin looked at the window with joy.",
+      "But a big cloud covered the moon.",
+      "The kitchen became darker.",
+      "\"Oh no,\" said Luna.",
+      "\"We do not have moonlight.",
+      "\" Rosalinda nodded.",
+      "\"Without that light, the cake does not sing in the oven.",
+      "\" Timo thought calmly.",
+      "\"We can wait and help the moon.",
+      "\" Lin jumped on the chair.",
+      "He made bright bubbles, bright bubbles, bright bubbles.",
+      "The bubbles went up to the window and made little points of light.",
+      "They were not the real moon, but they gave a gentle light.",
+      "Luna took a silver spoon and put it near the glass.",
+      "The spoon caught the light of the bubbles and sent it into the bowl.",
+      "\"Look, José Alejandro,\" said Rosalinda, \"even a small light can help a lot.",
+      "\" Then they mixed again.",
+      "The batter became soft and shiny.",
+      "Rosalinda put it in a round baking pan.",
+      "Then everyone sang softly: \"Cake, cake, grow well, bring sweet dreams, bring good things.",
+      "\" The magic oven opened with a warm puff.",
+      "Inside, little golden stars were shining.",
+      "The cake baked slowly, and the whole house felt a sweet smell.",
+      "When it was ready, there were five apple stars on top.",
+      "At that moment a little fawn arrived with her grandmother.",
+      "The little fawn was nervous.",
+      "\"I do not sleep well,\" she said softly.",
+      "Rosalinda cut a soft slice and offered it to her.",
+      "The little fawn ate a piece, then smiled.",
+      "\"I feel calm,\" she said.",
+      "The grandmother smiled happily too.",
+      "Rosalinda made a bow.",
+      "\"The recipe worked.",
+      "You cooked with patience, light, and love.",
+      "\" Luna hugged Timo.",
+      "Lin made a bubble in the shape of a star.",
+      "Outside, the cloud moved away, and the real moon shone again.",
+      "Rosalinda looked at the sky and spoke softly: \"Tomorrow we will use the morning light for a very crunchy recipe.",
+      "\" And so, with the little-star cake on the table, the evening ended sweet and calm.",
+      "The end."
+    ]
   },
   {
     "id": "20260411_00_es",
@@ -25177,7 +25313,38 @@
       }
     ],
     "saga": "Map-Making with Eleanor",
-    "chapter_num": 5
+    "chapter_num": 5,
+    "traduccion_lineas": [
+      "Luna, Timo y Lin caminan con Eleanor hacia la Colina Azul temprano en la mañana.",
+      "El cielo es rosado y dorado.",
+      "Eleanor sonríe y abre su libro.",
+      "\"Hoy dibujamos un mapa de la colina\", dice.",
+      "Luna se siente feliz y lista.",
+      "Timo ve primero un árbol alto.",
+      "Lin hace burbujas azules en el aire.",
+      "Los amigos cuentan pasos para subir la colina.",
+      "Cuentan diez pasos, y luego otros diez.",
+      "Contar ayuda, contar ayuda siempre.",
+      "En la cima ven tres caminos.",
+      "Un camino es ancho y brillante.",
+      "Otro es pequeño y verde.",
+      "Otro pasa cerca de unas rocas grandes.",
+      "\"Necesitamos el camino seguro\", dice Timo.",
+      "Allí una cabrita se ve perdida.",
+      "La cabrita está triste y tiene frío.",
+      "Luna dibuja el árbol y las rocas.",
+      "Timo dibuja el estanque con forma de luna.",
+      "Lin pone burbujas cerca del camino seguro.",
+      "Las burbujas rojas muestran el camino equivocado.",
+      "Las burbujas azules muestran el camino seguro.",
+      "José Alejandro, Lin se siente muy orgulloso.",
+      "La cabrita sigue el camino azul hasta su casa.",
+      "Eleanor aplaude y les da estrellas.",
+      "\"Su mapa puede ayudar a los amigos\", dice.",
+      "La colina vuelve a estar tranquila.",
+      "Los amigos sonríen y regresan a casa.",
+      "Fin."
+    ]
   },
   {
     "id": "20260411_02_it",
@@ -26077,7 +26244,40 @@
       }
     ],
     "saga": "Cucina Magica con Rosalinda",
-    "chapter_num": 5
+    "chapter_num": 5,
+    "traduccion_lineas": [
+      "Luna, Timo e Lin vanno da Rosalinda.",
+      "La casetta profuma di miele dolce.",
+      "Rosalinda sorride vicino al forno.",
+      "\"Oggi facciamo pane magico, bambini\", dice.",
+      "Luna batte le mani piano.",
+      "Timo guarda la ricetta con cura.",
+      "Lin fa bolle blu e rosa.",
+      "Sul tavolo ci sono farina, latte e miele.",
+      "C'è anche una mela rossa.",
+      "\"Il pane aiuta il cuore felice\", dice Rosalinda.",
+      "I tre amici mescolano molto bene.",
+      "Mescolano piano, poi mescolano ancora.",
+      "Mescolare bene, mescolare bene, è importante.",
+      "Ma arriva un piccolo problema.",
+      "La pasta è troppo morbida.",
+      "Scivola, cade e fa pluf.",
+      "Luna guarda la ciotola e sospira.",
+      "Timo pensa a una soluzione semplice.",
+      "Lin soffia bolle sopra la pasta.",
+      "Le bolle fanno brillare la mela.",
+      "Rosalinda ride e taglia la mela.",
+      "I pezzi di mela entrano nella pasta.",
+      "Ora la pasta è forte.",
+      "José Alejandro, Lin ride molto forte.",
+      "Il pane entra nel forno caldo.",
+      "Dopo poco, il pane è pronto.",
+      "Il profumo va nel bosco.",
+      "Un gigante gentile arriva sorridendo.",
+      "Mangia un pezzo e dice: \"Che buono!",
+      "\" Tutti ridono e fanno merenda insieme.",
+      "Fine."
+    ]
   },
   {
     "id": "20260410_00_es",
@@ -28679,6 +28879,10 @@
         "t1": 71.3,
         "prompt": "A cheerful giant baker with flour-dusted apron laughing joyfully while holding a hand-drawn map showing a pond, rock, and tree; Luna, Timo, and Lin stand proudly beside him as one large blue bubble floats above the safe path home in the meadow."
       }
+    ],
+    "traduccion_lineas": [
+      "Luna, Timo y Lin ayudan a Eleanor a crear un mapa simple para que un gigante panadero encuentre el camino seguro a casa.",
+      "Cuando el clima cambia, usan observación, pasos y burbujas para resolver el encargo del día."
     ]
   },
   {
@@ -29649,6 +29853,10 @@
         "t1": 92.86,
         "prompt": "A gentle giant sitting at the table eating moon cream from a bowl with a big smile and sleepy eyes. Luna, Timo, Lin, and Rosalinda stand nearby watching him happily as he yawns contentedly in the warm kitchen."
       }
+    ],
+    "traduccion_lineas": [
+      "Luna, Timo e Lin preparan con Rosalinda una crema mágica de luna para ayudar a un gigante amable que no podía dormir bien.",
+      "Cuando la llama casi se apaga, trabajan juntos y salvan la receta del día."
     ]
   },
   {
