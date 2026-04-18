@@ -1539,6 +1539,36 @@
         "t0": 140.24,
         "t1": 140.52
       }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_es_s1.png",
+        "t0": 0.0,
+        "t1": 35.43,
+        "prompt": "Inside Gnome Edison's cozy workshop, Luna the white rabbit with blue dress and long pink ears, Timo the brown owl with round glasses, and Lin the chubby baby blue dragon with purple wings gather around a large wooden table covered with small wheels, shiny bark pieces, red threads and golden bells, while colorful bubbles float above them in warm afternoon light"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_es_s2.png",
+        "t0": 35.43,
+        "t1": 70.86,
+        "prompt": "Luna's long pink ears droop with disappointment as the wooden toy cart crashes softly into a sawdust sack, with golden bells scattered on the workshop floor making tilín sounds, while Timo adjusts his round glasses and Lin blows a blue bubble near the tilted cart"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_es_s3.png",
+        "t0": 70.86,
+        "t1": 106.29,
+        "prompt": "The three friends work together fixing the cart: Luna holds a wooden bar steady, Timo carefully tightens a crooked wheel with his wings, and Lin points with his nose to the balance spot marked by a green bubble, while Gnome Edison watches with a calm smile in the background"
+      },
+      {
+        "i": 4,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_es_s4.png",
+        "t0": 106.29,
+        "t1": 141.72,
+        "prompt": "The finished toy cart rolls steadily across a bridge made of tree roots carrying toys safely inside, with Luna walking alongside it, Timo gently pushing from behind, and Lin blowing green bubbles to mark the path, all bathed in golden, violet and green sunset light filtering through the forest"
+      }
     ]
   },
   {
@@ -2440,6 +2470,29 @@
         "w": "end",
         "t0": 75.5,
         "t1": 75.78
+      }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_en_s1.png",
+        "t0": 0.0,
+        "t1": 26.62,
+        "prompt": "Luna the white rabbit, Timo the brown owl with round glasses, Lin the chubby blue dragon, and Roco the mountain gnome climbing a steep red rocky path. Roco ties a strong rope while Lin makes glowing blue bubbles near a small cave entrance. The wet rocks glisten and the path looks challenging."
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_en_s2.png",
+        "t0": 26.62,
+        "t1": 49.44,
+        "prompt": "The group discovering a baby goat stuck in muddy ground between rocks. Timo the owl flies low overhead, Lin the blue dragon creates big green bubbles showing safe stepping stones, while Roco the gnome kneels to check the ground. The baby goat looks sad and wet, crying softly in the mud."
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_en_s3.png",
+        "t0": 49.44,
+        "t1": 76.06,
+        "prompt": "Luna the rabbit holding the rope and reaching the baby goat while the team pulls together from behind. The rescued baby goat jumps joyfully in the air as everyone celebrates with smiles. Roco offers warm leaves to the happy goat under a bright red evening sky."
       }
     ]
   },
@@ -3362,6 +3415,29 @@
         "w": "pace",
         "t0": 81.46,
         "t1": 81.8
+      }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_it_s1.png",
+        "t0": 0.0,
+        "t1": 28.9,
+        "prompt": "Luna the white rabbit, Timo the owl with glasses, and Lin the baby blue dragon learning to play reed flutes in a sunny forest clearing, with the Cricket Maestro demonstrating. Lin accidentally blows bubbles instead of music, everyone laughing together. Gentle wind in the trees, light and joyful atmosphere."
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_it_s2.png",
+        "t0": 28.9,
+        "t1": 57.79,
+        "prompt": "A small frightened hedgehog trembling beneath a branch that sways menacingly above him in the forest. Luna, Timo, and Lin standing nearby with their reed flutes, looking concerned. The Cricket Maestro gestures gently, asking for soft music. Tense moment with darker shadows."
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260417_04_it_s3.png",
+        "t0": 57.79,
+        "t1": 82.56,
+        "prompt": "Luna playing her reed flute with a long gentle note, Timo playing slow notes, and Lin blowing pink and green bubbles that float through the air. The hedgehog now calm and smiling, peacefully eating a sweet berry. The branch still, gentle breeze, warm peaceful light. The Cricket Maestro clapping happily."
       }
     ]
   },
