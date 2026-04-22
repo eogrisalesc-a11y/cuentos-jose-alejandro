@@ -1,5 +1,4019 @@
 [
   {
+    "id": "20260422_02_es",
+    "fecha": "22/04/2026",
+    "lang": "es",
+    "titulo": "Capítulo 2 · Las burbujas que marcaban el viento",
+    "texto": "Al amanecer, la Montaña Carmesí parecía pintada con jugo de fresa. Lin, el dragón azul bebé, abrió los ojos muy temprano y vio que cientos de banderines rojos se movían alrededor de la escuela secreta. La Maestra Rubí sonrió con su barba escarlata y dijo: —Hoy aprenderán a leer el viento antes de volar. Luna, la conejita blanca, dio un saltito de emoción. Timo acomodó sus gafas redondas y miró el cielo con mucha atención.  Primero, la maestra llevó a los tres amigos hasta una terraza de piedra calentita. Allí había molinetes de colores, plumas suaves y campanas chiquitas. —El viento siempre habla —explicó—, pero hay que mirarlo y escucharlo con calma. Lin infló sus mejillas y lanzó una burbuja azul, luego otra amarilla, y después una verde. Las burbujas flotaron hacia lados distintos. Una subió despacito, otra giró en redondo y la última salió disparada hacia un pino alto.  —¡Se están escapando! —gritó Lin, asustado.  —No se escapan —respondió Timo—. Te están mostrando el camino del aire.  Entonces Luna clavó unos palitos en la tierra y colgó cintas de seda. José Alejandro, como tú cuando descubres algo nuevo, Lin volvió a intentarlo, pero esta vez respiró despacio. Sopló tres burbujas más, una tras otra, y observó cómo bailaban entre las cintas. Así descubrió que una corriente suave subía desde la roca tibia y otra, más traviesa, doblaba detrás de una torre.  Con esa pista, la Maestra Rubí preparó un juego. Debían llevar una plumita dorada dentro de una burbuja hasta una canasta sin que explotara. Lin siguió la corriente correcta, Luna señaló el giro justo y Timo contó el momento exacto. La burbuja avanzó, tembló un poquito y, al final, dejó la plumita en la canasta.  —¡Lo logramos! —celebró Lin, dando brincos.  La Maestra Rubí aplaudió feliz. —Hoy no aprendiste solo a soplar burbujas. Aprendiste a mirar antes de actuar.  Y esa noche, mientras las estrellas encendían la montaña, Lin se durmió orgulloso, porque ya empezaba a entender el idioma secreto del cielo. Fin.",
+    "traduccion": "",
+    "traduccion_lineas": [],
+    "moraleja": "Mirar con calma ayuda a tomar mejores decisiones.",
+    "pregunta": "José Alejandro, ¿tú seguirías una burbuja azul o una verde para aprender a volar?",
+    "palabra": "🔤 Viento · Wind · Vento",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260422_02_es.mp3",
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_02_es.png",
+    "saga": "El Gran Vuelo de los Dragones con la Maestra Rubí",
+    "chapter_num": 2,
+    "words": [
+      {
+        "w": "Al",
+        "t0": 0.0,
+        "t1": 0.38
+      },
+      {
+        "w": "amanecer",
+        "t0": 0.38,
+        "t1": 1.02
+      },
+      {
+        "w": "la",
+        "t0": 1.4,
+        "t1": 1.54
+      },
+      {
+        "w": "montaña",
+        "t0": 1.54,
+        "t1": 1.98
+      },
+      {
+        "w": "carmesí",
+        "t0": 1.98,
+        "t1": 2.6
+      },
+      {
+        "w": "parecía",
+        "t0": 2.6,
+        "t1": 2.98
+      },
+      {
+        "w": "pintada",
+        "t0": 2.98,
+        "t1": 3.52
+      },
+      {
+        "w": "con",
+        "t0": 3.52,
+        "t1": 3.76
+      },
+      {
+        "w": "jugo",
+        "t0": 3.76,
+        "t1": 4.0
+      },
+      {
+        "w": "de",
+        "t0": 4.0,
+        "t1": 4.4
+      },
+      {
+        "w": "fresa",
+        "t0": 4.4,
+        "t1": 4.72
+      },
+      {
+        "w": "Lynn",
+        "t0": 5.64,
+        "t1": 5.92
+      },
+      {
+        "w": "el",
+        "t0": 6.16,
+        "t1": 6.34
+      },
+      {
+        "w": "dragón",
+        "t0": 6.34,
+        "t1": 6.72
+      },
+      {
+        "w": "azul",
+        "t0": 6.72,
+        "t1": 7.06
+      },
+      {
+        "w": "bebé",
+        "t0": 7.06,
+        "t1": 7.46
+      },
+      {
+        "w": "abrió",
+        "t0": 7.98,
+        "t1": 8.1
+      },
+      {
+        "w": "los",
+        "t0": 8.1,
+        "t1": 8.64
+      },
+      {
+        "w": "ojos",
+        "t0": 8.64,
+        "t1": 8.64
+      },
+      {
+        "w": "muy",
+        "t0": 8.64,
+        "t1": 8.94
+      },
+      {
+        "w": "temprano",
+        "t0": 8.94,
+        "t1": 9.44
+      },
+      {
+        "w": "y",
+        "t0": 9.44,
+        "t1": 9.7
+      },
+      {
+        "w": "vio",
+        "t0": 9.7,
+        "t1": 9.76
+      },
+      {
+        "w": "que",
+        "t0": 9.76,
+        "t1": 10.02
+      },
+      {
+        "w": "cientos",
+        "t0": 10.02,
+        "t1": 10.32
+      },
+      {
+        "w": "de",
+        "t0": 10.32,
+        "t1": 10.6
+      },
+      {
+        "w": "banderines",
+        "t0": 10.6,
+        "t1": 11.06
+      },
+      {
+        "w": "rojos",
+        "t0": 11.06,
+        "t1": 11.42
+      },
+      {
+        "w": "se",
+        "t0": 11.42,
+        "t1": 11.72
+      },
+      {
+        "w": "movían",
+        "t0": 11.72,
+        "t1": 11.96
+      },
+      {
+        "w": "alrededor",
+        "t0": 11.96,
+        "t1": 12.44
+      },
+      {
+        "w": "de",
+        "t0": 12.44,
+        "t1": 12.66
+      },
+      {
+        "w": "la",
+        "t0": 12.66,
+        "t1": 12.84
+      },
+      {
+        "w": "escuela",
+        "t0": 12.84,
+        "t1": 13.08
+      },
+      {
+        "w": "secreta",
+        "t0": 13.08,
+        "t1": 13.72
+      },
+      {
+        "w": "La",
+        "t0": 14.78,
+        "t1": 14.94
+      },
+      {
+        "w": "maestra",
+        "t0": 14.94,
+        "t1": 15.3
+      },
+      {
+        "w": "Ruby",
+        "t0": 15.3,
+        "t1": 15.72
+      },
+      {
+        "w": "sonrió",
+        "t0": 15.72,
+        "t1": 16.06
+      },
+      {
+        "w": "con",
+        "t0": 16.06,
+        "t1": 16.32
+      },
+      {
+        "w": "su",
+        "t0": 16.32,
+        "t1": 16.6
+      },
+      {
+        "w": "barba",
+        "t0": 16.6,
+        "t1": 16.78
+      },
+      {
+        "w": "escarlata",
+        "t0": 16.78,
+        "t1": 17.36
+      },
+      {
+        "w": "y",
+        "t0": 17.36,
+        "t1": 17.62
+      },
+      {
+        "w": "dijo",
+        "t0": 17.62,
+        "t1": 17.82
+      },
+      {
+        "w": "«Hoy",
+        "t0": 18.34,
+        "t1": 18.48
+      },
+      {
+        "w": "aprenderán",
+        "t0": 18.48,
+        "t1": 19.08
+      },
+      {
+        "w": "a",
+        "t0": 19.08,
+        "t1": 19.42
+      },
+      {
+        "w": "leer",
+        "t0": 19.42,
+        "t1": 19.42
+      },
+      {
+        "w": "el",
+        "t0": 19.42,
+        "t1": 19.94
+      },
+      {
+        "w": "viento",
+        "t0": 19.94,
+        "t1": 19.94
+      },
+      {
+        "w": "antes",
+        "t0": 19.94,
+        "t1": 20.26
+      },
+      {
+        "w": "de",
+        "t0": 20.26,
+        "t1": 20.62
+      },
+      {
+        "w": "volar»",
+        "t0": 20.62,
+        "t1": 21.74
+      },
+      {
+        "w": "Luna",
+        "t0": 21.74,
+        "t1": 22.22
+      },
+      {
+        "w": "la",
+        "t0": 22.64,
+        "t1": 22.84
+      },
+      {
+        "w": "conejita",
+        "t0": 22.84,
+        "t1": 23.3
+      },
+      {
+        "w": "blanca",
+        "t0": 23.3,
+        "t1": 23.82
+      },
+      {
+        "w": "dio",
+        "t0": 24.26,
+        "t1": 24.28
+      },
+      {
+        "w": "un",
+        "t0": 24.28,
+        "t1": 24.5
+      },
+      {
+        "w": "saltito",
+        "t0": 24.5,
+        "t1": 24.9
+      },
+      {
+        "w": "de",
+        "t0": 24.9,
+        "t1": 25.36
+      },
+      {
+        "w": "emoción",
+        "t0": 25.36,
+        "t1": 25.54
+      },
+      {
+        "w": "Timo",
+        "t0": 26.46,
+        "t1": 26.78
+      },
+      {
+        "w": "acomodó",
+        "t0": 26.78,
+        "t1": 27.22
+      },
+      {
+        "w": "sus",
+        "t0": 27.22,
+        "t1": 27.48
+      },
+      {
+        "w": "gafas",
+        "t0": 27.48,
+        "t1": 27.78
+      },
+      {
+        "w": "redondas",
+        "t0": 27.78,
+        "t1": 28.36
+      },
+      {
+        "w": "y",
+        "t0": 28.36,
+        "t1": 28.56
+      },
+      {
+        "w": "miró",
+        "t0": 28.56,
+        "t1": 28.72
+      },
+      {
+        "w": "el",
+        "t0": 28.72,
+        "t1": 29.06
+      },
+      {
+        "w": "cielo",
+        "t0": 29.06,
+        "t1": 29.14
+      },
+      {
+        "w": "con",
+        "t0": 29.14,
+        "t1": 29.44
+      },
+      {
+        "w": "mucha",
+        "t0": 29.44,
+        "t1": 29.74
+      },
+      {
+        "w": "atención",
+        "t0": 29.74,
+        "t1": 30.16
+      },
+      {
+        "w": "Primero",
+        "t0": 31.6,
+        "t1": 31.9
+      },
+      {
+        "w": "la",
+        "t0": 32.26,
+        "t1": 32.58
+      },
+      {
+        "w": "maestra",
+        "t0": 32.58,
+        "t1": 32.92
+      },
+      {
+        "w": "llevó",
+        "t0": 32.92,
+        "t1": 33.22
+      },
+      {
+        "w": "a",
+        "t0": 33.22,
+        "t1": 33.38
+      },
+      {
+        "w": "los",
+        "t0": 33.38,
+        "t1": 33.52
+      },
+      {
+        "w": "tres",
+        "t0": 33.52,
+        "t1": 33.88
+      },
+      {
+        "w": "amigos",
+        "t0": 33.88,
+        "t1": 34.18
+      },
+      {
+        "w": "hasta",
+        "t0": 34.18,
+        "t1": 34.5
+      },
+      {
+        "w": "una",
+        "t0": 34.5,
+        "t1": 34.78
+      },
+      {
+        "w": "terraza",
+        "t0": 34.78,
+        "t1": 35.16
+      },
+      {
+        "w": "de",
+        "t0": 35.16,
+        "t1": 35.46
+      },
+      {
+        "w": "piedra",
+        "t0": 35.46,
+        "t1": 35.68
+      },
+      {
+        "w": "calentita",
+        "t0": 35.68,
+        "t1": 36.36
+      },
+      {
+        "w": "Allí",
+        "t0": 37.56,
+        "t1": 37.7
+      },
+      {
+        "w": "había",
+        "t0": 37.7,
+        "t1": 37.94
+      },
+      {
+        "w": "molinetes",
+        "t0": 37.94,
+        "t1": 38.44
+      },
+      {
+        "w": "de",
+        "t0": 38.44,
+        "t1": 38.88
+      },
+      {
+        "w": "colores",
+        "t0": 38.88,
+        "t1": 39.22
+      },
+      {
+        "w": "plumas",
+        "t0": 39.96,
+        "t1": 40.08
+      },
+      {
+        "w": "suaves",
+        "t0": 40.08,
+        "t1": 40.48
+      },
+      {
+        "w": "y",
+        "t0": 40.48,
+        "t1": 40.72
+      },
+      {
+        "w": "campanas",
+        "t0": 40.72,
+        "t1": 41.1
+      },
+      {
+        "w": "chiquitas",
+        "t0": 41.1,
+        "t1": 41.84
+      },
+      {
+        "w": "«El",
+        "t0": 42.94,
+        "t1": 43.14
+      },
+      {
+        "w": "viento",
+        "t0": 43.14,
+        "t1": 43.4
+      },
+      {
+        "w": "siempre",
+        "t0": 43.4,
+        "t1": 43.94
+      },
+      {
+        "w": "habla»",
+        "t0": 43.94,
+        "t1": 44.62
+      },
+      {
+        "w": "explicó",
+        "t0": 44.62,
+        "t1": 45.32
+      },
+      {
+        "w": "«pero",
+        "t0": 45.36,
+        "t1": 45.84
+      },
+      {
+        "w": "hay",
+        "t0": 45.84,
+        "t1": 46.04
+      },
+      {
+        "w": "que",
+        "t0": 46.04,
+        "t1": 46.2
+      },
+      {
+        "w": "mirarlo",
+        "t0": 46.2,
+        "t1": 46.54
+      },
+      {
+        "w": "y",
+        "t0": 46.54,
+        "t1": 46.76
+      },
+      {
+        "w": "escucharlo",
+        "t0": 46.76,
+        "t1": 47.18
+      },
+      {
+        "w": "con",
+        "t0": 47.18,
+        "t1": 47.52
+      },
+      {
+        "w": "calma»",
+        "t0": 47.52,
+        "t1": 48.86
+      },
+      {
+        "w": "Lynn",
+        "t0": 48.86,
+        "t1": 49.18
+      },
+      {
+        "w": "infló",
+        "t0": 49.18,
+        "t1": 49.52
+      },
+      {
+        "w": "sus",
+        "t0": 49.52,
+        "t1": 49.78
+      },
+      {
+        "w": "mejillas",
+        "t0": 49.78,
+        "t1": 50.28
+      },
+      {
+        "w": "y",
+        "t0": 50.28,
+        "t1": 50.6
+      },
+      {
+        "w": "lanzó",
+        "t0": 50.6,
+        "t1": 50.88
+      },
+      {
+        "w": "una",
+        "t0": 50.88,
+        "t1": 51.14
+      },
+      {
+        "w": "burbuja",
+        "t0": 51.14,
+        "t1": 51.56
+      },
+      {
+        "w": "azul",
+        "t0": 51.56,
+        "t1": 51.98
+      },
+      {
+        "w": "luego",
+        "t0": 52.36,
+        "t1": 52.56
+      },
+      {
+        "w": "otra",
+        "t0": 52.56,
+        "t1": 52.86
+      },
+      {
+        "w": "amarilla",
+        "t0": 52.86,
+        "t1": 53.34
+      },
+      {
+        "w": "y",
+        "t0": 53.52,
+        "t1": 54.04
+      },
+      {
+        "w": "después",
+        "t0": 54.04,
+        "t1": 54.24
+      },
+      {
+        "w": "una",
+        "t0": 54.24,
+        "t1": 54.52
+      },
+      {
+        "w": "verde",
+        "t0": 54.52,
+        "t1": 55.0
+      },
+      {
+        "w": "Las",
+        "t0": 56.06,
+        "t1": 56.3
+      },
+      {
+        "w": "burbujas",
+        "t0": 56.3,
+        "t1": 56.82
+      },
+      {
+        "w": "flotaron",
+        "t0": 56.82,
+        "t1": 57.26
+      },
+      {
+        "w": "hacia",
+        "t0": 57.26,
+        "t1": 57.56
+      },
+      {
+        "w": "lados",
+        "t0": 57.56,
+        "t1": 57.9
+      },
+      {
+        "w": "distintos",
+        "t0": 57.9,
+        "t1": 58.6
+      },
+      {
+        "w": "Una",
+        "t0": 59.9,
+        "t1": 60.0
+      },
+      {
+        "w": "subió",
+        "t0": 60.0,
+        "t1": 60.28
+      },
+      {
+        "w": "despacito",
+        "t0": 60.28,
+        "t1": 61.0
+      },
+      {
+        "w": "otra",
+        "t0": 61.56,
+        "t1": 61.62
+      },
+      {
+        "w": "giró",
+        "t0": 61.62,
+        "t1": 61.96
+      },
+      {
+        "w": "en",
+        "t0": 61.96,
+        "t1": 62.58
+      },
+      {
+        "w": "redondo",
+        "t0": 62.58,
+        "t1": 62.58
+      },
+      {
+        "w": "y",
+        "t0": 62.58,
+        "t1": 62.74
+      },
+      {
+        "w": "la",
+        "t0": 62.74,
+        "t1": 62.98
+      },
+      {
+        "w": "última",
+        "t0": 62.98,
+        "t1": 63.18
+      },
+      {
+        "w": "salió",
+        "t0": 63.18,
+        "t1": 63.52
+      },
+      {
+        "w": "disparada",
+        "t0": 63.52,
+        "t1": 64.18
+      },
+      {
+        "w": "hacia",
+        "t0": 64.18,
+        "t1": 64.38
+      },
+      {
+        "w": "un",
+        "t0": 64.38,
+        "t1": 64.64
+      },
+      {
+        "w": "pino",
+        "t0": 64.64,
+        "t1": 64.8
+      },
+      {
+        "w": "alto",
+        "t0": 64.8,
+        "t1": 65.22
+      },
+      {
+        "w": "«¡Se",
+        "t0": 66.4,
+        "t1": 66.56
+      },
+      {
+        "w": "están",
+        "t0": 66.56,
+        "t1": 66.84
+      },
+      {
+        "w": "escapando",
+        "t0": 66.84,
+        "t1": 67.34
+      },
+      {
+        "w": "»",
+        "t0": 67.34,
+        "t1": 67.76
+      },
+      {
+        "w": "«¡No",
+        "t0": 68.66,
+        "t1": 68.72
+      },
+      {
+        "w": "se",
+        "t0": 68.72,
+        "t1": 69.08
+      },
+      {
+        "w": "escapan",
+        "t0": 69.08,
+        "t1": 69.42
+      },
+      {
+        "w": "Te",
+        "t0": 70.34,
+        "t1": 70.8
+      },
+      {
+        "w": "están",
+        "t0": 70.8,
+        "t1": 71.02
+      },
+      {
+        "w": "mostrando",
+        "t0": 71.02,
+        "t1": 71.48
+      },
+      {
+        "w": "el",
+        "t0": 71.48,
+        "t1": 71.84
+      },
+      {
+        "w": "camino",
+        "t0": 71.84,
+        "t1": 72.02
+      },
+      {
+        "w": "del",
+        "t0": 72.02,
+        "t1": 72.38
+      },
+      {
+        "w": "aire",
+        "t0": 72.38,
+        "t1": 72.58
+      },
+      {
+        "w": "»",
+        "t0": 72.58,
+        "t1": 73.94
+      },
+      {
+        "w": "Entonces",
+        "t0": 73.94,
+        "t1": 74.38
+      },
+      {
+        "w": "Luna",
+        "t0": 74.38,
+        "t1": 74.7
+      },
+      {
+        "w": "clavó",
+        "t0": 74.7,
+        "t1": 75.08
+      },
+      {
+        "w": "unos",
+        "t0": 75.08,
+        "t1": 75.38
+      },
+      {
+        "w": "palitos",
+        "t0": 75.38,
+        "t1": 75.84
+      },
+      {
+        "w": "en",
+        "t0": 75.84,
+        "t1": 76.04
+      },
+      {
+        "w": "la",
+        "t0": 76.04,
+        "t1": 76.5
+      },
+      {
+        "w": "tierra",
+        "t0": 76.5,
+        "t1": 76.5
+      },
+      {
+        "w": "y",
+        "t0": 76.5,
+        "t1": 76.7
+      },
+      {
+        "w": "colgó",
+        "t0": 76.7,
+        "t1": 77.02
+      },
+      {
+        "w": "cintas",
+        "t0": 77.02,
+        "t1": 77.32
+      },
+      {
+        "w": "de",
+        "t0": 77.32,
+        "t1": 77.62
+      },
+      {
+        "w": "sea",
+        "t0": 77.62,
+        "t1": 77.78
+      },
+      {
+        "w": "José",
+        "t0": 78.94,
+        "t1": 79.24
+      },
+      {
+        "w": "Alejandro",
+        "t0": 79.24,
+        "t1": 79.86
+      },
+      {
+        "w": "«Como",
+        "t0": 80.54,
+        "t1": 81.2
+      },
+      {
+        "w": "tú",
+        "t0": 81.2,
+        "t1": 81.44
+      },
+      {
+        "w": "cuando",
+        "t0": 81.44,
+        "t1": 81.7
+      },
+      {
+        "w": "descubres",
+        "t0": 81.7,
+        "t1": 82.24
+      },
+      {
+        "w": "algo",
+        "t0": 82.24,
+        "t1": 82.56
+      },
+      {
+        "w": "nuevo»",
+        "t0": 82.56,
+        "t1": 83.28
+      },
+      {
+        "w": "Lynn",
+        "t0": 83.28,
+        "t1": 83.58
+      },
+      {
+        "w": "volvió",
+        "t0": 83.58,
+        "t1": 83.82
+      },
+      {
+        "w": "a",
+        "t0": 83.82,
+        "t1": 84.18
+      },
+      {
+        "w": "intentarlo",
+        "t0": 84.18,
+        "t1": 84.54
+      },
+      {
+        "w": "pero",
+        "t0": 85.0,
+        "t1": 85.18
+      },
+      {
+        "w": "esta",
+        "t0": 85.18,
+        "t1": 85.48
+      },
+      {
+        "w": "vez",
+        "t0": 85.48,
+        "t1": 85.58
+      },
+      {
+        "w": "respiró",
+        "t0": 85.58,
+        "t1": 86.08
+      },
+      {
+        "w": "despacio",
+        "t0": 86.08,
+        "t1": 86.66
+      },
+      {
+        "w": "Sopló",
+        "t0": 88.0,
+        "t1": 88.08
+      },
+      {
+        "w": "tres",
+        "t0": 88.08,
+        "t1": 88.44
+      },
+      {
+        "w": "burbujas",
+        "t0": 88.44,
+        "t1": 88.9
+      },
+      {
+        "w": "más",
+        "t0": 88.9,
+        "t1": 89.36
+      },
+      {
+        "w": "una",
+        "t0": 89.78,
+        "t1": 89.8
+      },
+      {
+        "w": "tras",
+        "t0": 89.8,
+        "t1": 90.16
+      },
+      {
+        "w": "otra",
+        "t0": 90.16,
+        "t1": 90.46
+      },
+      {
+        "w": "y",
+        "t0": 90.78,
+        "t1": 91.12
+      },
+      {
+        "w": "observó",
+        "t0": 91.12,
+        "t1": 91.5
+      },
+      {
+        "w": "cómo",
+        "t0": 91.5,
+        "t1": 91.78
+      },
+      {
+        "w": "bailaban",
+        "t0": 91.78,
+        "t1": 92.26
+      },
+      {
+        "w": "entre",
+        "t0": 92.26,
+        "t1": 92.48
+      },
+      {
+        "w": "las",
+        "t0": 92.48,
+        "t1": 93.16
+      },
+      {
+        "w": "cintas",
+        "t0": 93.16,
+        "t1": 93.22
+      },
+      {
+        "w": "Así",
+        "t0": 94.28,
+        "t1": 94.58
+      },
+      {
+        "w": "descubrió",
+        "t0": 94.58,
+        "t1": 95.1
+      },
+      {
+        "w": "que",
+        "t0": 95.1,
+        "t1": 95.3
+      },
+      {
+        "w": "una",
+        "t0": 95.3,
+        "t1": 95.52
+      },
+      {
+        "w": "corriente",
+        "t0": 95.52,
+        "t1": 95.92
+      },
+      {
+        "w": "suave",
+        "t0": 95.92,
+        "t1": 96.28
+      },
+      {
+        "w": "subía",
+        "t0": 96.28,
+        "t1": 96.62
+      },
+      {
+        "w": "desde",
+        "t0": 96.62,
+        "t1": 96.88
+      },
+      {
+        "w": "la",
+        "t0": 96.88,
+        "t1": 97.18
+      },
+      {
+        "w": "roca",
+        "t0": 97.18,
+        "t1": 97.42
+      },
+      {
+        "w": "tibia",
+        "t0": 97.42,
+        "t1": 97.74
+      },
+      {
+        "w": "y",
+        "t0": 97.74,
+        "t1": 97.96
+      },
+      {
+        "w": "otra",
+        "t0": 97.96,
+        "t1": 98.26
+      },
+      {
+        "w": "más",
+        "t0": 98.8,
+        "t1": 99.0
+      },
+      {
+        "w": "traviesa",
+        "t0": 99.0,
+        "t1": 99.64
+      },
+      {
+        "w": "doblaba",
+        "t0": 100.02,
+        "t1": 100.32
+      },
+      {
+        "w": "detrás",
+        "t0": 100.32,
+        "t1": 100.66
+      },
+      {
+        "w": "de",
+        "t0": 100.66,
+        "t1": 100.84
+      },
+      {
+        "w": "una",
+        "t0": 100.84,
+        "t1": 101.02
+      },
+      {
+        "w": "torre",
+        "t0": 101.02,
+        "t1": 101.38
+      },
+      {
+        "w": "Con",
+        "t0": 102.5,
+        "t1": 102.7
+      },
+      {
+        "w": "esa",
+        "t0": 102.7,
+        "t1": 103.02
+      },
+      {
+        "w": "pista",
+        "t0": 103.02,
+        "t1": 103.38
+      },
+      {
+        "w": "la",
+        "t0": 103.84,
+        "t1": 104.08
+      },
+      {
+        "w": "maestra",
+        "t0": 104.08,
+        "t1": 104.4
+      },
+      {
+        "w": "Ruby",
+        "t0": 104.4,
+        "t1": 104.82
+      },
+      {
+        "w": "preparó",
+        "t0": 104.82,
+        "t1": 105.2
+      },
+      {
+        "w": "un",
+        "t0": 105.2,
+        "t1": 105.42
+      },
+      {
+        "w": "juego",
+        "t0": 105.42,
+        "t1": 105.7
+      },
+      {
+        "w": "Debían",
+        "t0": 106.58,
+        "t1": 107.22
+      },
+      {
+        "w": "llevar",
+        "t0": 107.22,
+        "t1": 107.52
+      },
+      {
+        "w": "una",
+        "t0": 107.52,
+        "t1": 107.82
+      },
+      {
+        "w": "plumita",
+        "t0": 107.82,
+        "t1": 108.24
+      },
+      {
+        "w": "dorada",
+        "t0": 108.24,
+        "t1": 108.6
+      },
+      {
+        "w": "dentro",
+        "t0": 108.6,
+        "t1": 108.94
+      },
+      {
+        "w": "de",
+        "t0": 108.94,
+        "t1": 109.1
+      },
+      {
+        "w": "una",
+        "t0": 109.1,
+        "t1": 109.32
+      },
+      {
+        "w": "burbuja",
+        "t0": 109.32,
+        "t1": 109.6
+      },
+      {
+        "w": "hasta",
+        "t0": 109.6,
+        "t1": 109.88
+      },
+      {
+        "w": "una",
+        "t0": 109.88,
+        "t1": 110.16
+      },
+      {
+        "w": "canasta",
+        "t0": 110.16,
+        "t1": 110.54
+      },
+      {
+        "w": "sin",
+        "t0": 110.54,
+        "t1": 110.84
+      },
+      {
+        "w": "que",
+        "t0": 110.84,
+        "t1": 111.1
+      },
+      {
+        "w": "explotara",
+        "t0": 111.1,
+        "t1": 111.58
+      },
+      {
+        "w": "Lynn",
+        "t0": 112.74,
+        "t1": 112.92
+      },
+      {
+        "w": "siguió",
+        "t0": 112.92,
+        "t1": 113.26
+      },
+      {
+        "w": "la",
+        "t0": 113.26,
+        "t1": 113.46
+      },
+      {
+        "w": "corriente",
+        "t0": 113.46,
+        "t1": 113.76
+      },
+      {
+        "w": "correcta",
+        "t0": 113.76,
+        "t1": 114.5
+      },
+      {
+        "w": "Luna",
+        "t0": 114.96,
+        "t1": 115.18
+      },
+      {
+        "w": "señaló",
+        "t0": 115.18,
+        "t1": 115.62
+      },
+      {
+        "w": "el",
+        "t0": 115.62,
+        "t1": 115.84
+      },
+      {
+        "w": "giro",
+        "t0": 115.84,
+        "t1": 115.98
+      },
+      {
+        "w": "justo",
+        "t0": 115.98,
+        "t1": 116.38
+      },
+      {
+        "w": "y",
+        "t0": 116.38,
+        "t1": 116.56
+      },
+      {
+        "w": "Timo",
+        "t0": 116.56,
+        "t1": 116.86
+      },
+      {
+        "w": "contó",
+        "t0": 116.86,
+        "t1": 117.02
+      },
+      {
+        "w": "el",
+        "t0": 117.02,
+        "t1": 117.28
+      },
+      {
+        "w": "momento",
+        "t0": 117.28,
+        "t1": 117.48
+      },
+      {
+        "w": "exacto",
+        "t0": 117.48,
+        "t1": 118.16
+      },
+      {
+        "w": "La",
+        "t0": 119.14,
+        "t1": 119.36
+      },
+      {
+        "w": "burbuja",
+        "t0": 119.36,
+        "t1": 119.72
+      },
+      {
+        "w": "avanzó",
+        "t0": 119.72,
+        "t1": 120.28
+      },
+      {
+        "w": "tembló",
+        "t0": 120.94,
+        "t1": 120.94
+      },
+      {
+        "w": "un",
+        "t0": 120.94,
+        "t1": 121.26
+      },
+      {
+        "w": "poquito",
+        "t0": 121.26,
+        "t1": 121.48
+      },
+      {
+        "w": "y",
+        "t0": 121.48,
+        "t1": 121.78
+      },
+      {
+        "w": "al",
+        "t0": 122.18,
+        "t1": 122.5
+      },
+      {
+        "w": "final",
+        "t0": 122.5,
+        "t1": 122.72
+      },
+      {
+        "w": "dejó",
+        "t0": 123.2,
+        "t1": 123.28
+      },
+      {
+        "w": "la",
+        "t0": 123.28,
+        "t1": 123.5
+      },
+      {
+        "w": "plumita",
+        "t0": 123.5,
+        "t1": 123.84
+      },
+      {
+        "w": "en",
+        "t0": 123.84,
+        "t1": 123.98
+      },
+      {
+        "w": "la",
+        "t0": 123.98,
+        "t1": 124.2
+      },
+      {
+        "w": "canasta",
+        "t0": 124.2,
+        "t1": 124.6
+      },
+      {
+        "w": "«¡Lo",
+        "t0": 125.68,
+        "t1": 125.98
+      },
+      {
+        "w": "logramos",
+        "t0": 125.98,
+        "t1": 126.52
+      },
+      {
+        "w": "»",
+        "t0": 126.52,
+        "t1": 127.58
+      },
+      {
+        "w": "La",
+        "t0": 127.58,
+        "t1": 127.74
+      },
+      {
+        "w": "maestra",
+        "t0": 127.74,
+        "t1": 128.14
+      },
+      {
+        "w": "Ruby",
+        "t0": 128.14,
+        "t1": 128.56
+      },
+      {
+        "w": "aplaudió",
+        "t0": 128.56,
+        "t1": 129.04
+      },
+      {
+        "w": "feliz",
+        "t0": 129.04,
+        "t1": 129.56
+      },
+      {
+        "w": "«Hoy",
+        "t0": 130.1,
+        "t1": 130.74
+      },
+      {
+        "w": "no",
+        "t0": 130.74,
+        "t1": 130.98
+      },
+      {
+        "w": "aprendiste",
+        "t0": 130.98,
+        "t1": 131.44
+      },
+      {
+        "w": "solo",
+        "t0": 131.44,
+        "t1": 131.74
+      },
+      {
+        "w": "a",
+        "t0": 131.74,
+        "t1": 132.14
+      },
+      {
+        "w": "soplar",
+        "t0": 132.14,
+        "t1": 132.26
+      },
+      {
+        "w": "burbujas",
+        "t0": 132.26,
+        "t1": 132.98
+      },
+      {
+        "w": "Aprendiste",
+        "t0": 133.82,
+        "t1": 134.54
+      },
+      {
+        "w": "a",
+        "t0": 134.54,
+        "t1": 134.78
+      },
+      {
+        "w": "mirar",
+        "t0": 134.78,
+        "t1": 135.02
+      },
+      {
+        "w": "antes",
+        "t0": 135.02,
+        "t1": 135.2
+      },
+      {
+        "w": "de",
+        "t0": 135.2,
+        "t1": 135.56
+      },
+      {
+        "w": "actuar.»",
+        "t0": 135.56,
+        "t1": 135.92
+      },
+      {
+        "w": "Y",
+        "t0": 137.04,
+        "t1": 137.14
+      },
+      {
+        "w": "esa",
+        "t0": 137.14,
+        "t1": 137.44
+      },
+      {
+        "w": "noche",
+        "t0": 137.44,
+        "t1": 137.82
+      },
+      {
+        "w": "mientras",
+        "t0": 138.38,
+        "t1": 138.6
+      },
+      {
+        "w": "las",
+        "t0": 138.6,
+        "t1": 138.98
+      },
+      {
+        "w": "estrellas",
+        "t0": 138.98,
+        "t1": 139.5
+      },
+      {
+        "w": "encendían",
+        "t0": 139.5,
+        "t1": 139.96
+      },
+      {
+        "w": "la",
+        "t0": 139.96,
+        "t1": 140.64
+      },
+      {
+        "w": "montaña",
+        "t0": 140.64,
+        "t1": 140.76
+      },
+      {
+        "w": "Lynn",
+        "t0": 141.32,
+        "t1": 141.52
+      },
+      {
+        "w": "se",
+        "t0": 141.52,
+        "t1": 141.72
+      },
+      {
+        "w": "durmió",
+        "t0": 141.72,
+        "t1": 142.04
+      },
+      {
+        "w": "orgulloso",
+        "t0": 142.04,
+        "t1": 142.6
+      },
+      {
+        "w": "porque",
+        "t0": 142.98,
+        "t1": 143.24
+      },
+      {
+        "w": "ya",
+        "t0": 143.24,
+        "t1": 143.48
+      },
+      {
+        "w": "empezaba",
+        "t0": 143.48,
+        "t1": 143.9
+      },
+      {
+        "w": "a",
+        "t0": 143.9,
+        "t1": 144.32
+      },
+      {
+        "w": "entender",
+        "t0": 144.32,
+        "t1": 144.32
+      },
+      {
+        "w": "el",
+        "t0": 144.32,
+        "t1": 144.58
+      },
+      {
+        "w": "idioma",
+        "t0": 144.58,
+        "t1": 144.92
+      },
+      {
+        "w": "secreto",
+        "t0": 144.92,
+        "t1": 145.42
+      },
+      {
+        "w": "del",
+        "t0": 145.42,
+        "t1": 145.68
+      },
+      {
+        "w": "cielo",
+        "t0": 145.68,
+        "t1": 145.94
+      }
+    ]
+  },
+  {
+    "id": "20260422_02_en",
+    "fecha": "22/04/2026",
+    "lang": "en",
+    "titulo": "Chapter 2 · The soft cloud bridge",
+    "texto": "Morning came to Cloud Castle School. Luna saw a long white cloud. Timo looked up with his round glasses. Lin made pink bubbles in the air. Architect Nimbus smiled and bowed. \"Today we build a bridge,\" he said.  The bridge was small but hard. The cloud moved left and right. Luna pressed the cloud too fast. Splash. A side fell down. Lin blew one blue bubble. Pop. The bubble was too big. Timo tapped the cloud two times. It still shook a lot.  \"Slow hands, slow eyes,\" said Nimbus. He showed a soft tap. He showed a calm press. He showed a long shape. The friends watched. Then they tried again.  Luna did one soft tap. Timo did one calm press. Lin made three small bubbles. Blue, gold, blue. The bubbles held the bridge. The bridge held the light. The light made the bridge shine.  \"Look, José Alejandro!\" said Luna. \"The bridge is strong!\" Lin clapped and laughed. Timo smiled a warm smile.  Then a tiny cloud mouse crossed first. Step, step, step. The bridge stayed safe. Nobody fell. Nobody cried. Architect Nimbus gave them a silver star.  \"Today you build with care,\" he said. The friends sat together and looked at the sky. It was a good bridge day. The end.",
+    "traduccion": "Luna, Timo y Lin aprenden a construir un puente de nube con el Arquitecto Nimbus. Al principio fallan por ir muy rápido, pero al trabajar con calma logran un puente fuerte y seguro.",
+    "traduccion_lineas": [
+      "La mañana llegó a la Escuela del Castillo de Nubes.",
+      "Luna vio una nube blanca larga.",
+      "Timo miró hacia arriba con sus gafas redondas.",
+      "Lin hizo burbujas rosadas en el aire.",
+      "El Arquitecto Nimbus sonrió e hizo una reverencia.",
+      "\"Hoy construimos un puente\", dijo.",
+      "El puente era pequeño pero difícil.",
+      "La nube se movía a la izquierda y a la derecha.",
+      "Luna presionó la nube demasiado rápido.",
+      "¡Splash!",
+      "Un lado se cayó.",
+      "Lin sopló una burbuja azul.",
+      "¡Pop!",
+      "La burbuja era demasiado grande.",
+      "Timo tocó la nube dos veces.",
+      "Todavía se sacudía mucho.",
+      "\"Manos lentas, ojos lentos\", dijo Nimbus.",
+      "Él mostró un toque suave.",
+      "Él mostró una presión tranquila.",
+      "Él mostró una forma larga.",
+      "Los amigos miraron.",
+      "Luego lo intentaron otra vez.",
+      "Luna hizo un toque suave.",
+      "Timo hizo una presión tranquila.",
+      "Lin hizo tres burbujas pequeñas.",
+      "Azul, dorado, azul.",
+      "Las burbujas sostuvieron el puente.",
+      "El puente sostuvo la luz.",
+      "La luz hizo brillar al puente.",
+      "\"¡Mira, José Alejandro!\" dijo Luna.",
+      "\"¡El puente es fuerte!\"",
+      "Lin aplaudió y se rió.",
+      "Timo sonrió una sonrisa cálida.",
+      "Entonces un pequeño ratón de nube cruzó primero.",
+      "Paso, paso, paso.",
+      "El puente siguió seguro.",
+      "Nadie se cayó.",
+      "Nadie lloró.",
+      "El Arquitecto Nimbus les dio una estrella plateada.",
+      "\"Hoy construyen con cuidado\", dijo.",
+      "Los amigos se sentaron juntos y miraron el cielo.",
+      "Fue un buen día de puente."
+    ],
+    "moraleja": "Slow work can make strong things.",
+    "pregunta": "José Alejandro, what color cloud bridge do you want?",
+    "palabra": "🔤 Puente · Bridge · Ponte",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260422_02_en.mp3",
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_02_en.png",
+    "saga": "Cloud Castle Builders with Architect Nimbus",
+    "chapter_num": 2,
+    "words": [
+      {
+        "w": "Morning",
+        "t0": 0.0,
+        "t1": 0.52
+      },
+      {
+        "w": "came",
+        "t0": 0.52,
+        "t1": 0.84
+      },
+      {
+        "w": "to",
+        "t0": 0.84,
+        "t1": 1.1
+      },
+      {
+        "w": "Cloud",
+        "t0": 1.1,
+        "t1": 1.42
+      },
+      {
+        "w": "Castle",
+        "t0": 1.42,
+        "t1": 1.82
+      },
+      {
+        "w": "School",
+        "t0": 1.82,
+        "t1": 2.32
+      },
+      {
+        "w": "Luna",
+        "t0": 3.64,
+        "t1": 3.64
+      },
+      {
+        "w": "saw",
+        "t0": 3.64,
+        "t1": 4.02
+      },
+      {
+        "w": "a",
+        "t0": 4.02,
+        "t1": 4.32
+      },
+      {
+        "w": "long",
+        "t0": 4.32,
+        "t1": 4.46
+      },
+      {
+        "w": "white",
+        "t0": 4.46,
+        "t1": 4.78
+      },
+      {
+        "w": "cloud",
+        "t0": 4.78,
+        "t1": 5.2
+      },
+      {
+        "w": "Teemo",
+        "t0": 6.54,
+        "t1": 6.66
+      },
+      {
+        "w": "looked",
+        "t0": 6.66,
+        "t1": 6.98
+      },
+      {
+        "w": "up",
+        "t0": 6.98,
+        "t1": 7.2
+      },
+      {
+        "w": "with",
+        "t0": 7.2,
+        "t1": 7.32
+      },
+      {
+        "w": "his",
+        "t0": 7.32,
+        "t1": 7.56
+      },
+      {
+        "w": "round",
+        "t0": 7.56,
+        "t1": 7.84
+      },
+      {
+        "w": "glasses",
+        "t0": 7.84,
+        "t1": 8.46
+      },
+      {
+        "w": "Lin",
+        "t0": 9.88,
+        "t1": 9.88
+      },
+      {
+        "w": "made",
+        "t0": 9.88,
+        "t1": 10.16
+      },
+      {
+        "w": "pink",
+        "t0": 10.16,
+        "t1": 10.54
+      },
+      {
+        "w": "bubbles",
+        "t0": 10.54,
+        "t1": 10.82
+      },
+      {
+        "w": "in",
+        "t0": 10.82,
+        "t1": 11.1
+      },
+      {
+        "w": "the",
+        "t0": 11.1,
+        "t1": 11.2
+      },
+      {
+        "w": "air",
+        "t0": 11.2,
+        "t1": 11.56
+      },
+      {
+        "w": "Architect",
+        "t0": 12.6,
+        "t1": 13.14
+      },
+      {
+        "w": "Nimbus",
+        "t0": 13.14,
+        "t1": 13.54
+      },
+      {
+        "w": "smiled",
+        "t0": 13.54,
+        "t1": 13.94
+      },
+      {
+        "w": "and",
+        "t0": 13.94,
+        "t1": 14.44
+      },
+      {
+        "w": "bowed",
+        "t0": 14.44,
+        "t1": 14.52
+      },
+      {
+        "w": "Today",
+        "t0": 15.58,
+        "t1": 15.88
+      },
+      {
+        "w": "we",
+        "t0": 15.88,
+        "t1": 16.16
+      },
+      {
+        "w": "build",
+        "t0": 16.16,
+        "t1": 16.36
+      },
+      {
+        "w": "a",
+        "t0": 16.36,
+        "t1": 16.94
+      },
+      {
+        "w": "bridge",
+        "t0": 16.94,
+        "t1": 16.94
+      },
+      {
+        "w": "he",
+        "t0": 17.24,
+        "t1": 17.44
+      },
+      {
+        "w": "said",
+        "t0": 17.44,
+        "t1": 17.76
+      },
+      {
+        "w": "The",
+        "t0": 18.82,
+        "t1": 19.02
+      },
+      {
+        "w": "bridge",
+        "t0": 19.02,
+        "t1": 19.22
+      },
+      {
+        "w": "was",
+        "t0": 19.22,
+        "t1": 19.52
+      },
+      {
+        "w": "small",
+        "t0": 19.52,
+        "t1": 19.78
+      },
+      {
+        "w": "but",
+        "t0": 19.78,
+        "t1": 20.04
+      },
+      {
+        "w": "hard",
+        "t0": 20.04,
+        "t1": 20.46
+      },
+      {
+        "w": "The",
+        "t0": 21.44,
+        "t1": 21.8
+      },
+      {
+        "w": "cloud",
+        "t0": 21.8,
+        "t1": 21.98
+      },
+      {
+        "w": "moved",
+        "t0": 21.98,
+        "t1": 22.32
+      },
+      {
+        "w": "left",
+        "t0": 22.32,
+        "t1": 22.7
+      },
+      {
+        "w": "and",
+        "t0": 22.7,
+        "t1": 22.96
+      },
+      {
+        "w": "right",
+        "t0": 22.96,
+        "t1": 23.36
+      },
+      {
+        "w": "Luna",
+        "t0": 24.7,
+        "t1": 24.72
+      },
+      {
+        "w": "pressed",
+        "t0": 24.72,
+        "t1": 25.06
+      },
+      {
+        "w": "the",
+        "t0": 25.06,
+        "t1": 25.52
+      },
+      {
+        "w": "cloud",
+        "t0": 25.52,
+        "t1": 25.52
+      },
+      {
+        "w": "too",
+        "t0": 25.52,
+        "t1": 25.9
+      },
+      {
+        "w": "fast",
+        "t0": 25.9,
+        "t1": 26.42
+      },
+      {
+        "w": "Splash",
+        "t0": 27.56,
+        "t1": 28.16
+      },
+      {
+        "w": "A",
+        "t0": 29.28,
+        "t1": 29.48
+      },
+      {
+        "w": "side",
+        "t0": 29.48,
+        "t1": 29.76
+      },
+      {
+        "w": "fell",
+        "t0": 29.76,
+        "t1": 30.0
+      },
+      {
+        "w": "down",
+        "t0": 30.0,
+        "t1": 30.54
+      },
+      {
+        "w": "Lin",
+        "t0": 31.78,
+        "t1": 31.78
+      },
+      {
+        "w": "blew",
+        "t0": 31.78,
+        "t1": 32.04
+      },
+      {
+        "w": "one",
+        "t0": 32.04,
+        "t1": 32.34
+      },
+      {
+        "w": "blue",
+        "t0": 32.34,
+        "t1": 32.62
+      },
+      {
+        "w": "bubble",
+        "t0": 32.62,
+        "t1": 32.9
+      },
+      {
+        "w": "Pop",
+        "t0": 33.78,
+        "t1": 34.38
+      },
+      {
+        "w": "The",
+        "t0": 35.46,
+        "t1": 35.66
+      },
+      {
+        "w": "bubble",
+        "t0": 35.66,
+        "t1": 35.84
+      },
+      {
+        "w": "was",
+        "t0": 35.84,
+        "t1": 36.12
+      },
+      {
+        "w": "too",
+        "t0": 36.12,
+        "t1": 36.36
+      },
+      {
+        "w": "big",
+        "t0": 36.36,
+        "t1": 36.74
+      },
+      {
+        "w": "Teemo",
+        "t0": 37.82,
+        "t1": 38.12
+      },
+      {
+        "w": "tapped",
+        "t0": 38.12,
+        "t1": 38.44
+      },
+      {
+        "w": "the",
+        "t0": 38.44,
+        "t1": 38.7
+      },
+      {
+        "w": "cloud",
+        "t0": 38.7,
+        "t1": 38.94
+      },
+      {
+        "w": "two",
+        "t0": 38.94,
+        "t1": 39.24
+      },
+      {
+        "w": "times",
+        "t0": 39.24,
+        "t1": 39.74
+      },
+      {
+        "w": "It",
+        "t0": 40.8,
+        "t1": 41.06
+      },
+      {
+        "w": "still",
+        "t0": 41.06,
+        "t1": 41.36
+      },
+      {
+        "w": "shook",
+        "t0": 41.36,
+        "t1": 41.54
+      },
+      {
+        "w": "a",
+        "t0": 41.54,
+        "t1": 41.78
+      },
+      {
+        "w": "lot",
+        "t0": 41.78,
+        "t1": 42.12
+      },
+      {
+        "w": "Slow",
+        "t0": 43.22,
+        "t1": 43.54
+      },
+      {
+        "w": "hands",
+        "t0": 43.54,
+        "t1": 43.96
+      },
+      {
+        "w": "slow",
+        "t0": 44.52,
+        "t1": 44.52
+      },
+      {
+        "w": "eyes",
+        "t0": 44.52,
+        "t1": 45.0
+      },
+      {
+        "w": "said",
+        "t0": 45.3,
+        "t1": 45.52
+      },
+      {
+        "w": "Nimbus",
+        "t0": 45.52,
+        "t1": 46.0
+      },
+      {
+        "w": "He",
+        "t0": 47.2,
+        "t1": 47.38
+      },
+      {
+        "w": "showed",
+        "t0": 47.38,
+        "t1": 47.58
+      },
+      {
+        "w": "a",
+        "t0": 47.58,
+        "t1": 47.78
+      },
+      {
+        "w": "soft",
+        "t0": 47.78,
+        "t1": 48.1
+      },
+      {
+        "w": "tap",
+        "t0": 48.1,
+        "t1": 48.5
+      },
+      {
+        "w": "He",
+        "t0": 49.56,
+        "t1": 49.82
+      },
+      {
+        "w": "showed",
+        "t0": 49.82,
+        "t1": 49.98
+      },
+      {
+        "w": "a",
+        "t0": 49.98,
+        "t1": 50.2
+      },
+      {
+        "w": "compress",
+        "t0": 50.2,
+        "t1": 50.88
+      },
+      {
+        "w": "He",
+        "t0": 52.0,
+        "t1": 52.28
+      },
+      {
+        "w": "showed",
+        "t0": 52.28,
+        "t1": 52.46
+      },
+      {
+        "w": "a",
+        "t0": 52.46,
+        "t1": 52.66
+      },
+      {
+        "w": "long",
+        "t0": 52.66,
+        "t1": 52.98
+      },
+      {
+        "w": "shape",
+        "t0": 52.98,
+        "t1": 53.4
+      },
+      {
+        "w": "The",
+        "t0": 54.28,
+        "t1": 54.62
+      },
+      {
+        "w": "friends",
+        "t0": 54.62,
+        "t1": 54.96
+      },
+      {
+        "w": "watched",
+        "t0": 54.96,
+        "t1": 55.56
+      },
+      {
+        "w": "Then",
+        "t0": 56.68,
+        "t1": 56.88
+      },
+      {
+        "w": "they",
+        "t0": 56.88,
+        "t1": 57.08
+      },
+      {
+        "w": "tried",
+        "t0": 57.08,
+        "t1": 57.38
+      },
+      {
+        "w": "again",
+        "t0": 57.38,
+        "t1": 57.9
+      },
+      {
+        "w": "Luna",
+        "t0": 59.2,
+        "t1": 59.2
+      },
+      {
+        "w": "did",
+        "t0": 59.2,
+        "t1": 59.5
+      },
+      {
+        "w": "one",
+        "t0": 59.5,
+        "t1": 59.82
+      },
+      {
+        "w": "soft",
+        "t0": 59.82,
+        "t1": 60.18
+      },
+      {
+        "w": "tap",
+        "t0": 60.18,
+        "t1": 60.56
+      },
+      {
+        "w": "Teemo",
+        "t0": 61.82,
+        "t1": 61.92
+      },
+      {
+        "w": "did",
+        "t0": 61.92,
+        "t1": 62.24
+      },
+      {
+        "w": "one",
+        "t0": 62.24,
+        "t1": 62.52
+      },
+      {
+        "w": "compress",
+        "t0": 62.52,
+        "t1": 63.26
+      },
+      {
+        "w": "Lin",
+        "t0": 64.64,
+        "t1": 64.64
+      },
+      {
+        "w": "made",
+        "t0": 64.64,
+        "t1": 64.92
+      },
+      {
+        "w": "three",
+        "t0": 64.92,
+        "t1": 65.26
+      },
+      {
+        "w": "small",
+        "t0": 65.26,
+        "t1": 65.6
+      },
+      {
+        "w": "bubbles",
+        "t0": 65.6,
+        "t1": 65.96
+      },
+      {
+        "w": "Blue",
+        "t0": 67.48,
+        "t1": 67.62
+      },
+      {
+        "w": "gold",
+        "t0": 67.98,
+        "t1": 68.34
+      },
+      {
+        "w": "blue",
+        "t0": 68.66,
+        "t1": 69.02
+      },
+      {
+        "w": "The",
+        "t0": 70.08,
+        "t1": 70.28
+      },
+      {
+        "w": "bubbles",
+        "t0": 70.28,
+        "t1": 70.56
+      },
+      {
+        "w": "held",
+        "t0": 70.56,
+        "t1": 70.84
+      },
+      {
+        "w": "the",
+        "t0": 70.84,
+        "t1": 71.34
+      },
+      {
+        "w": "bridge",
+        "t0": 71.34,
+        "t1": 71.48
+      },
+      {
+        "w": "The",
+        "t0": 72.54,
+        "t1": 72.84
+      },
+      {
+        "w": "bridge",
+        "t0": 72.84,
+        "t1": 73.08
+      },
+      {
+        "w": "held",
+        "t0": 73.08,
+        "t1": 73.32
+      },
+      {
+        "w": "the",
+        "t0": 73.32,
+        "t1": 73.98
+      },
+      {
+        "w": "light",
+        "t0": 73.98,
+        "t1": 73.98
+      },
+      {
+        "w": "The",
+        "t0": 75.0,
+        "t1": 75.26
+      },
+      {
+        "w": "light",
+        "t0": 75.26,
+        "t1": 75.52
+      },
+      {
+        "w": "made",
+        "t0": 75.52,
+        "t1": 75.78
+      },
+      {
+        "w": "the",
+        "t0": 75.78,
+        "t1": 76.24
+      },
+      {
+        "w": "bridge",
+        "t0": 76.24,
+        "t1": 76.24
+      },
+      {
+        "w": "shine",
+        "t0": 76.24,
+        "t1": 76.7
+      },
+      {
+        "w": "Look",
+        "t0": 77.66,
+        "t1": 78.16
+      },
+      {
+        "w": "Jose",
+        "t0": 78.5,
+        "t1": 78.88
+      },
+      {
+        "w": "Alejandro",
+        "t0": 78.88,
+        "t1": 79.64
+      },
+      {
+        "w": "said",
+        "t0": 80.08,
+        "t1": 80.24
+      },
+      {
+        "w": "Luna",
+        "t0": 80.24,
+        "t1": 80.56
+      },
+      {
+        "w": "The",
+        "t0": 81.68,
+        "t1": 81.88
+      },
+      {
+        "w": "bridge",
+        "t0": 81.88,
+        "t1": 82.06
+      },
+      {
+        "w": "is",
+        "t0": 82.06,
+        "t1": 82.36
+      },
+      {
+        "w": "strong",
+        "t0": 82.36,
+        "t1": 82.76
+      },
+      {
+        "w": "Lin",
+        "t0": 84.06,
+        "t1": 84.1
+      },
+      {
+        "w": "clapped",
+        "t0": 84.1,
+        "t1": 84.46
+      },
+      {
+        "w": "and",
+        "t0": 84.46,
+        "t1": 85.2
+      },
+      {
+        "w": "laughed",
+        "t0": 85.2,
+        "t1": 85.2
+      },
+      {
+        "w": "Teemo",
+        "t0": 86.36,
+        "t1": 86.66
+      },
+      {
+        "w": "smiled",
+        "t0": 86.66,
+        "t1": 87.04
+      },
+      {
+        "w": "a",
+        "t0": 87.04,
+        "t1": 87.28
+      },
+      {
+        "w": "warm",
+        "t0": 87.28,
+        "t1": 87.5
+      },
+      {
+        "w": "smile",
+        "t0": 87.5,
+        "t1": 87.9
+      },
+      {
+        "w": "Then",
+        "t0": 89.04,
+        "t1": 89.18
+      },
+      {
+        "w": "a",
+        "t0": 89.18,
+        "t1": 89.42
+      },
+      {
+        "w": "tiny",
+        "t0": 89.42,
+        "t1": 89.76
+      },
+      {
+        "w": "cloud",
+        "t0": 89.76,
+        "t1": 90.14
+      },
+      {
+        "w": "mouse",
+        "t0": 90.14,
+        "t1": 90.46
+      },
+      {
+        "w": "crossed",
+        "t0": 90.46,
+        "t1": 90.78
+      },
+      {
+        "w": "first",
+        "t0": 90.78,
+        "t1": 91.4
+      },
+      {
+        "w": "Step",
+        "t0": 92.66,
+        "t1": 92.92
+      },
+      {
+        "w": "step",
+        "t0": 93.62,
+        "t1": 93.62
+      },
+      {
+        "w": "step",
+        "t0": 94.28,
+        "t1": 94.28
+      },
+      {
+        "w": "The",
+        "t0": 95.32,
+        "t1": 95.52
+      },
+      {
+        "w": "bridge",
+        "t0": 95.52,
+        "t1": 95.74
+      },
+      {
+        "w": "stayed",
+        "t0": 95.74,
+        "t1": 96.1
+      },
+      {
+        "w": "safe",
+        "t0": 96.1,
+        "t1": 96.66
+      },
+      {
+        "w": "Nobody",
+        "t0": 97.8,
+        "t1": 98.16
+      },
+      {
+        "w": "fell",
+        "t0": 98.16,
+        "t1": 98.62
+      },
+      {
+        "w": "Nobody",
+        "t0": 99.74,
+        "t1": 100.1
+      },
+      {
+        "w": "cried",
+        "t0": 100.1,
+        "t1": 100.62
+      },
+      {
+        "w": "Architect",
+        "t0": 101.78,
+        "t1": 102.32
+      },
+      {
+        "w": "Nimbus",
+        "t0": 102.32,
+        "t1": 102.74
+      },
+      {
+        "w": "gave",
+        "t0": 102.74,
+        "t1": 103.02
+      },
+      {
+        "w": "them",
+        "t0": 103.02,
+        "t1": 103.16
+      },
+      {
+        "w": "a",
+        "t0": 103.16,
+        "t1": 103.4
+      },
+      {
+        "w": "silver",
+        "t0": 103.4,
+        "t1": 103.7
+      },
+      {
+        "w": "star",
+        "t0": 103.7,
+        "t1": 104.1
+      },
+      {
+        "w": "Today",
+        "t0": 104.92,
+        "t1": 105.46
+      },
+      {
+        "w": "you",
+        "t0": 105.46,
+        "t1": 105.74
+      },
+      {
+        "w": "build",
+        "t0": 105.74,
+        "t1": 105.94
+      },
+      {
+        "w": "with",
+        "t0": 105.94,
+        "t1": 106.18
+      },
+      {
+        "w": "care",
+        "t0": 106.18,
+        "t1": 106.54
+      },
+      {
+        "w": "he",
+        "t0": 106.8,
+        "t1": 107.0
+      },
+      {
+        "w": "said",
+        "t0": 107.0,
+        "t1": 107.36
+      },
+      {
+        "w": "The",
+        "t0": 108.46,
+        "t1": 108.58
+      },
+      {
+        "w": "friends",
+        "t0": 108.58,
+        "t1": 108.88
+      },
+      {
+        "w": "sat",
+        "t0": 108.88,
+        "t1": 109.2
+      },
+      {
+        "w": "together",
+        "t0": 109.2,
+        "t1": 109.64
+      },
+      {
+        "w": "and",
+        "t0": 109.64,
+        "t1": 110.08
+      },
+      {
+        "w": "looked",
+        "t0": 110.08,
+        "t1": 110.18
+      },
+      {
+        "w": "at",
+        "t0": 110.18,
+        "t1": 110.38
+      },
+      {
+        "w": "the",
+        "t0": 110.38,
+        "t1": 110.62
+      },
+      {
+        "w": "sky",
+        "t0": 110.62,
+        "t1": 110.88
+      },
+      {
+        "w": "It",
+        "t0": 111.98,
+        "t1": 112.1
+      },
+      {
+        "w": "was",
+        "t0": 112.1,
+        "t1": 112.28
+      },
+      {
+        "w": "a",
+        "t0": 112.28,
+        "t1": 112.48
+      },
+      {
+        "w": "good",
+        "t0": 112.48,
+        "t1": 112.64
+      },
+      {
+        "w": "bridge",
+        "t0": 112.64,
+        "t1": 112.98
+      },
+      {
+        "w": "day",
+        "t0": 112.98,
+        "t1": 113.34
+      },
+      {
+        "w": "The",
+        "t0": 114.36,
+        "t1": 114.58
+      },
+      {
+        "w": "End",
+        "t0": 114.58,
+        "t1": 114.88
+      }
+    ]
+  },
+  {
+    "id": "20260422_02_it",
+    "fecha": "22/04/2026",
+    "lang": "it",
+    "titulo": "Capitolo 2 · La bottiglia della pioggia leggera",
+    "texto": "La mattina era fresca e viola. Luna camminava piano nel bosco. Timo guardava gli alberi con gli occhiali rotondi. Lin, il piccolo drago blu, faceva bolle rosa. Il Maestro Arpa li aspettava su una pietra grande. —Oggi prendiamo il suono della pioggia leggera —disse.  I tre amici andarono verso un prato alto. C'era una nuvola piccola sopra i fiori. La nuvola faceva plin, plin, plin. Non era una pioggia forte. Era una pioggia dolce. Luna aprì una bottiglia di vetro. Timo ascoltò bene. Lin soffiò una bolla azzurra vicino alla nuvola.  Ma il suono scappò via subito. La bottiglia restò vuota. La bolla salì troppo in alto. Luna fece una faccia triste. —Oh no, niente pioggia —disse. Timo alzò un'ala. —Piano, piano. Il suono è piccolo —disse.  Il Maestro Arpa suonò tre note calme. Din, don, din. I tre amici respirarono piano. Poi provarono ancora. Luna tenne la bottiglia vicino ai fiori. Timo disse: —Adesso. Lin fece una bolla piccola, molto piccola. La bolla prese il suono. Plin, plin, plin. Poi entrò nella bottiglia.  —José Alejandro, hai sentito? —chiese Luna ridendo. La bottiglia brillò con una luce chiara. Dentro c'era la pioggia leggera del prato. Lin saltò felice. Timo sorrise contento.  —Bravi —disse il Maestro Arpa—. Oggi avete ascoltato con calma.  La sera, nel bosco viola, i tre amici scossero piano la bottiglia. Plin, plin, plin. E il prato sembrò cantare ancora. Fine.",
+    "traduccion": "Luna, Timo y Lin intentan guardar el sonido de una lluvia suave en una botella mágica. Fallan al principio, pero con calma y atención logran atrapar la melodía de la lluvia.",
+    "traduccion_lineas": [
+      "La mañana era fresca y violeta.",
+      "Luna caminaba despacio en el bosque.",
+      "Timo miraba los árboles con los lentes redondos.",
+      "Lin, el pequeño dragón azul, hacía burbujas rosas.",
+      "El Maestro Arpa los esperaba sobre una piedra grande.",
+      "—Hoy tomamos el sonido de la lluvia ligera —dijo.",
+      "Los tres amigos fueron hacia un prado alto.",
+      "Había una nube pequeña sobre las flores.",
+      "La nube hacía plin, plin, plin.",
+      "No era una lluvia fuerte.",
+      "Era una lluvia dulce.",
+      "Luna abrió una botella de vidrio.",
+      "Timo escuchó bien.",
+      "Lin sopló una burbuja azul cerca de la nube.",
+      "Pero el sonido escapó enseguida.",
+      "La botella quedó vacía.",
+      "La burbuja subió demasiado alto.",
+      "Luna hizo una cara triste.",
+      "—Oh no, no hay lluvia —dijo.",
+      "Timo levantó un ala.",
+      "—Despacio, despacio. El sonido es pequeño —dijo.",
+      "El Maestro Arpa tocó tres notas tranquilas.",
+      "Din, don, din.",
+      "Los tres amigos respiraron despacio.",
+      "Luego probaron otra vez.",
+      "Luna sostuvo la botella cerca de las flores.",
+      "Timo dijo: —Ahora.",
+      "Lin hizo una burbuja pequeña, muy pequeña.",
+      "La burbuja tomó el sonido.",
+      "Plin, plin, plin.",
+      "Luego entró en la botella.",
+      "—José Alejandro, ¿has escuchado? —preguntó Luna riendo.",
+      "La botella brilló con una luz clara.",
+      "Adentro estaba la lluvia ligera del prado.",
+      "Lin saltó feliz.",
+      "Timo sonrió contento.",
+      "—Bien hecho —dijo el Maestro Arpa—.",
+      "Hoy han escuchado con calma.",
+      "En la noche, en el bosque violeta, los tres amigos agitaron despacio la botella.",
+      "Plin, plin, plin.",
+      "Y el prado pareció cantar otra vez."
+    ],
+    "moraleja": "Con calma, anche un suono piccolo si trova.",
+    "pregunta": "José Alejandro, vuoi sentire la pioggia o il vento in una bottiglia?",
+    "palabra": "🔤 Lluvia · Rain · Pioggia",
+    "audio": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/audio/20260422_02_it.mp3",
+    "img_url": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_02_it.png",
+    "saga": "Collezionisti di Melodie con il Maestro Arpa",
+    "chapter_num": 2,
+    "words": [
+      {
+        "w": "La",
+        "t0": 0.0,
+        "t1": 0.34
+      },
+      {
+        "w": "mattina",
+        "t0": 0.34,
+        "t1": 0.86
+      },
+      {
+        "w": "era",
+        "t0": 0.86,
+        "t1": 1.1
+      },
+      {
+        "w": "fresca",
+        "t0": 1.1,
+        "t1": 1.5
+      },
+      {
+        "w": "e",
+        "t0": 1.5,
+        "t1": 1.72
+      },
+      {
+        "w": "viola",
+        "t0": 1.72,
+        "t1": 2.32
+      },
+      {
+        "w": "Luna",
+        "t0": 2.5,
+        "t1": 2.72
+      },
+      {
+        "w": "camminava",
+        "t0": 2.72,
+        "t1": 3.24
+      },
+      {
+        "w": "piano",
+        "t0": 3.24,
+        "t1": 3.62
+      },
+      {
+        "w": "nel",
+        "t0": 3.62,
+        "t1": 3.82
+      },
+      {
+        "w": "bosco",
+        "t0": 3.82,
+        "t1": 4.24
+      },
+      {
+        "w": "Timo",
+        "t0": 4.84,
+        "t1": 4.92
+      },
+      {
+        "w": "guardava",
+        "t0": 4.92,
+        "t1": 5.4
+      },
+      {
+        "w": "gli",
+        "t0": 5.4,
+        "t1": 5.64
+      },
+      {
+        "w": "alberi",
+        "t0": 5.64,
+        "t1": 5.98
+      },
+      {
+        "w": "con",
+        "t0": 5.98,
+        "t1": 6.18
+      },
+      {
+        "w": "gli",
+        "t0": 6.18,
+        "t1": 6.32
+      },
+      {
+        "w": "occhiali",
+        "t0": 6.32,
+        "t1": 6.64
+      },
+      {
+        "w": "rotondi",
+        "t0": 6.64,
+        "t1": 7.24
+      },
+      {
+        "w": "Lynn",
+        "t0": 7.86,
+        "t1": 8.06
+      },
+      {
+        "w": "il",
+        "t0": 8.26,
+        "t1": 8.58
+      },
+      {
+        "w": "piccolo",
+        "t0": 8.58,
+        "t1": 8.92
+      },
+      {
+        "w": "drago",
+        "t0": 8.92,
+        "t1": 9.34
+      },
+      {
+        "w": "blu",
+        "t0": 9.34,
+        "t1": 9.62
+      },
+      {
+        "w": "faceva",
+        "t0": 10.0,
+        "t1": 10.22
+      },
+      {
+        "w": "bolle",
+        "t0": 10.22,
+        "t1": 10.54
+      },
+      {
+        "w": "rosa",
+        "t0": 10.54,
+        "t1": 10.9
+      },
+      {
+        "w": "Il",
+        "t0": 11.42,
+        "t1": 11.56
+      },
+      {
+        "w": "maestro",
+        "t0": 11.56,
+        "t1": 12.06
+      },
+      {
+        "w": "Harpa",
+        "t0": 12.06,
+        "t1": 12.6
+      },
+      {
+        "w": "li",
+        "t0": 12.6,
+        "t1": 12.74
+      },
+      {
+        "w": "aspettava",
+        "t0": 12.74,
+        "t1": 13.3
+      },
+      {
+        "w": "su",
+        "t0": 13.3,
+        "t1": 13.58
+      },
+      {
+        "w": "una",
+        "t0": 13.58,
+        "t1": 13.74
+      },
+      {
+        "w": "pietra",
+        "t0": 13.74,
+        "t1": 14.08
+      },
+      {
+        "w": "grande",
+        "t0": 14.08,
+        "t1": 14.54
+      },
+      {
+        "w": "«Oggi",
+        "t0": 15.34,
+        "t1": 15.44
+      },
+      {
+        "w": "prendiamo",
+        "t0": 15.44,
+        "t1": 15.98
+      },
+      {
+        "w": "il",
+        "t0": 15.98,
+        "t1": 16.3
+      },
+      {
+        "w": "suono",
+        "t0": 16.3,
+        "t1": 16.46
+      },
+      {
+        "w": "della",
+        "t0": 16.46,
+        "t1": 16.78
+      },
+      {
+        "w": "pioggia",
+        "t0": 16.78,
+        "t1": 17.12
+      },
+      {
+        "w": "leggera»",
+        "t0": 17.12,
+        "t1": 17.76
+      },
+      {
+        "w": "disse",
+        "t0": 17.76,
+        "t1": 18.12
+      },
+      {
+        "w": "I",
+        "t0": 18.72,
+        "t1": 18.88
+      },
+      {
+        "w": "tre",
+        "t0": 18.88,
+        "t1": 19.08
+      },
+      {
+        "w": "amici",
+        "t0": 19.08,
+        "t1": 19.42
+      },
+      {
+        "w": "andarono",
+        "t0": 19.42,
+        "t1": 20.02
+      },
+      {
+        "w": "verso",
+        "t0": 20.02,
+        "t1": 20.26
+      },
+      {
+        "w": "un",
+        "t0": 20.26,
+        "t1": 20.62
+      },
+      {
+        "w": "prato",
+        "t0": 20.62,
+        "t1": 20.66
+      },
+      {
+        "w": "alto",
+        "t0": 20.66,
+        "t1": 21.04
+      },
+      {
+        "w": "C",
+        "t0": 21.64,
+        "t1": 21.7
+      },
+      {
+        "w": "era",
+        "t0": 21.7,
+        "t1": 21.74
+      },
+      {
+        "w": "una",
+        "t0": 21.74,
+        "t1": 22.04
+      },
+      {
+        "w": "nuvola",
+        "t0": 22.04,
+        "t1": 22.28
+      },
+      {
+        "w": "piccola",
+        "t0": 22.28,
+        "t1": 22.74
+      },
+      {
+        "w": "sopra",
+        "t0": 22.74,
+        "t1": 23.04
+      },
+      {
+        "w": "i",
+        "t0": 23.04,
+        "t1": 23.24
+      },
+      {
+        "w": "fiori",
+        "t0": 23.24,
+        "t1": 23.8
+      },
+      {
+        "w": "La",
+        "t0": 24.08,
+        "t1": 24.2
+      },
+      {
+        "w": "nuvola",
+        "t0": 24.2,
+        "t1": 24.54
+      },
+      {
+        "w": "faceva",
+        "t0": 24.54,
+        "t1": 25.08
+      },
+      {
+        "w": "plin",
+        "t0": 25.08,
+        "t1": 25.52
+      },
+      {
+        "w": "plin",
+        "t0": 25.84,
+        "t1": 26.32
+      },
+      {
+        "w": "plin",
+        "t0": 26.66,
+        "t1": 27.06
+      },
+      {
+        "w": "Non",
+        "t0": 27.54,
+        "t1": 27.6
+      },
+      {
+        "w": "era",
+        "t0": 27.6,
+        "t1": 27.8
+      },
+      {
+        "w": "una",
+        "t0": 27.8,
+        "t1": 28.08
+      },
+      {
+        "w": "pioggia",
+        "t0": 28.08,
+        "t1": 28.44
+      },
+      {
+        "w": "forte",
+        "t0": 28.44,
+        "t1": 28.76
+      },
+      {
+        "w": "Era",
+        "t0": 28.76,
+        "t1": 29.38
+      },
+      {
+        "w": "una",
+        "t0": 29.38,
+        "t1": 29.7
+      },
+      {
+        "w": "pioggia",
+        "t0": 29.7,
+        "t1": 30.02
+      },
+      {
+        "w": "dolce",
+        "t0": 30.02,
+        "t1": 30.52
+      },
+      {
+        "w": "Luna",
+        "t0": 31.2,
+        "t1": 31.2
+      },
+      {
+        "w": "aprì",
+        "t0": 31.2,
+        "t1": 31.56
+      },
+      {
+        "w": "una",
+        "t0": 31.56,
+        "t1": 31.78
+      },
+      {
+        "w": "bottiglia",
+        "t0": 31.78,
+        "t1": 32.14
+      },
+      {
+        "w": "di",
+        "t0": 32.14,
+        "t1": 32.4
+      },
+      {
+        "w": "vetro",
+        "t0": 32.4,
+        "t1": 32.7
+      },
+      {
+        "w": "Timo",
+        "t0": 33.34,
+        "t1": 33.34
+      },
+      {
+        "w": "ascoltò",
+        "t0": 33.34,
+        "t1": 33.9
+      },
+      {
+        "w": "bene",
+        "t0": 33.9,
+        "t1": 34.2
+      },
+      {
+        "w": "Lynn",
+        "t0": 34.7,
+        "t1": 34.94
+      },
+      {
+        "w": "soffiò",
+        "t0": 34.94,
+        "t1": 35.26
+      },
+      {
+        "w": "una",
+        "t0": 35.26,
+        "t1": 35.6
+      },
+      {
+        "w": "bolla",
+        "t0": 35.6,
+        "t1": 35.76
+      },
+      {
+        "w": "azzurra",
+        "t0": 35.76,
+        "t1": 36.3
+      },
+      {
+        "w": "vicino",
+        "t0": 36.3,
+        "t1": 36.66
+      },
+      {
+        "w": "alla",
+        "t0": 36.66,
+        "t1": 36.86
+      },
+      {
+        "w": "nuvola",
+        "t0": 36.86,
+        "t1": 37.26
+      },
+      {
+        "w": "Ma",
+        "t0": 37.74,
+        "t1": 38.02
+      },
+      {
+        "w": "il",
+        "t0": 38.02,
+        "t1": 38.26
+      },
+      {
+        "w": "suono",
+        "t0": 38.26,
+        "t1": 38.44
+      },
+      {
+        "w": "scappò",
+        "t0": 38.44,
+        "t1": 38.92
+      },
+      {
+        "w": "via",
+        "t0": 38.92,
+        "t1": 39.18
+      },
+      {
+        "w": "subito",
+        "t0": 39.18,
+        "t1": 39.52
+      },
+      {
+        "w": "La",
+        "t0": 40.08,
+        "t1": 40.2
+      },
+      {
+        "w": "bottiglia",
+        "t0": 40.2,
+        "t1": 40.68
+      },
+      {
+        "w": "restò",
+        "t0": 40.68,
+        "t1": 41.06
+      },
+      {
+        "w": "vuota",
+        "t0": 41.06,
+        "t1": 41.44
+      },
+      {
+        "w": "La",
+        "t0": 41.98,
+        "t1": 42.14
+      },
+      {
+        "w": "bolla",
+        "t0": 42.14,
+        "t1": 42.36
+      },
+      {
+        "w": "salì",
+        "t0": 42.36,
+        "t1": 42.74
+      },
+      {
+        "w": "troppo",
+        "t0": 42.74,
+        "t1": 43.02
+      },
+      {
+        "w": "in",
+        "t0": 43.02,
+        "t1": 43.46
+      },
+      {
+        "w": "alto",
+        "t0": 43.46,
+        "t1": 43.46
+      },
+      {
+        "w": "Luna",
+        "t0": 44.2,
+        "t1": 44.22
+      },
+      {
+        "w": "fece",
+        "t0": 44.22,
+        "t1": 44.54
+      },
+      {
+        "w": "una",
+        "t0": 44.54,
+        "t1": 44.8
+      },
+      {
+        "w": "faccia",
+        "t0": 44.8,
+        "t1": 45.02
+      },
+      {
+        "w": "triste",
+        "t0": 45.02,
+        "t1": 45.48
+      },
+      {
+        "w": "«Oh",
+        "t0": 46.0,
+        "t1": 46.18
+      },
+      {
+        "w": "no",
+        "t0": 46.18,
+        "t1": 46.36
+      },
+      {
+        "w": "niente",
+        "t0": 46.72,
+        "t1": 46.92
+      },
+      {
+        "w": "pioggia»",
+        "t0": 46.92,
+        "t1": 48.54
+      },
+      {
+        "w": "disse",
+        "t0": 48.54,
+        "t1": 49.02
+      },
+      {
+        "w": "Timo",
+        "t0": 49.24,
+        "t1": 49.72
+      },
+      {
+        "w": "alzò",
+        "t0": 49.72,
+        "t1": 50.06
+      },
+      {
+        "w": "un",
+        "t0": 50.06,
+        "t1": 50.38
+      },
+      {
+        "w": "ala",
+        "t0": 50.38,
+        "t1": 50.44
+      },
+      {
+        "w": "«Piano",
+        "t0": 50.44,
+        "t1": 51.38
+      },
+      {
+        "w": "piano",
+        "t0": 51.84,
+        "t1": 52.16
+      },
+      {
+        "w": "Il",
+        "t0": 53.1,
+        "t1": 53.58
+      },
+      {
+        "w": "suono",
+        "t0": 53.58,
+        "t1": 53.82
+      },
+      {
+        "w": "è",
+        "t0": 53.82,
+        "t1": 54.08
+      },
+      {
+        "w": "piccolo»",
+        "t0": 54.08,
+        "t1": 55.5
+      },
+      {
+        "w": "disse",
+        "t0": 55.5,
+        "t1": 56.3
+      },
+      {
+        "w": "Il",
+        "t0": 56.52,
+        "t1": 57.1
+      },
+      {
+        "w": "maestro",
+        "t0": 57.1,
+        "t1": 57.58
+      },
+      {
+        "w": "Harpa",
+        "t0": 57.58,
+        "t1": 58.1
+      },
+      {
+        "w": "suonò",
+        "t0": 58.1,
+        "t1": 58.42
+      },
+      {
+        "w": "tre",
+        "t0": 58.42,
+        "t1": 58.72
+      },
+      {
+        "w": "note",
+        "t0": 58.72,
+        "t1": 58.96
+      },
+      {
+        "w": "calme",
+        "t0": 58.96,
+        "t1": 59.44
+      },
+      {
+        "w": "Din",
+        "t0": 59.98,
+        "t1": 60.28
+      },
+      {
+        "w": "don",
+        "t0": 60.7,
+        "t1": 61.04
+      },
+      {
+        "w": "din",
+        "t0": 61.38,
+        "t1": 61.78
+      },
+      {
+        "w": "I",
+        "t0": 62.12,
+        "t1": 62.28
+      },
+      {
+        "w": "tre",
+        "t0": 62.28,
+        "t1": 62.5
+      },
+      {
+        "w": "amici",
+        "t0": 62.5,
+        "t1": 62.82
+      },
+      {
+        "w": "respirarono",
+        "t0": 62.82,
+        "t1": 63.62
+      },
+      {
+        "w": "piano",
+        "t0": 63.62,
+        "t1": 63.92
+      },
+      {
+        "w": "Poi",
+        "t0": 64.38,
+        "t1": 64.62
+      },
+      {
+        "w": "provarono",
+        "t0": 64.62,
+        "t1": 65.22
+      },
+      {
+        "w": "ancora",
+        "t0": 65.22,
+        "t1": 65.58
+      },
+      {
+        "w": "Luna",
+        "t0": 66.1,
+        "t1": 66.36
+      },
+      {
+        "w": "tenne",
+        "t0": 66.36,
+        "t1": 66.7
+      },
+      {
+        "w": "la",
+        "t0": 66.7,
+        "t1": 66.9
+      },
+      {
+        "w": "bottiglia",
+        "t0": 66.9,
+        "t1": 67.28
+      },
+      {
+        "w": "vicino",
+        "t0": 67.28,
+        "t1": 67.72
+      },
+      {
+        "w": "ai",
+        "t0": 67.72,
+        "t1": 67.94
+      },
+      {
+        "w": "fiori",
+        "t0": 67.94,
+        "t1": 68.6
+      },
+      {
+        "w": "Timo",
+        "t0": 68.76,
+        "t1": 68.92
+      },
+      {
+        "w": "disse",
+        "t0": 68.92,
+        "t1": 69.32
+      },
+      {
+        "w": "«Adesso»",
+        "t0": 71.04,
+        "t1": 71.72
+      },
+      {
+        "w": "Lynn",
+        "t0": 71.72,
+        "t1": 71.98
+      },
+      {
+        "w": "fece",
+        "t0": 71.98,
+        "t1": 72.28
+      },
+      {
+        "w": "una",
+        "t0": 72.28,
+        "t1": 72.56
+      },
+      {
+        "w": "bolla",
+        "t0": 72.56,
+        "t1": 72.72
+      },
+      {
+        "w": "piccola",
+        "t0": 72.72,
+        "t1": 73.2
+      },
+      {
+        "w": "molto",
+        "t0": 73.54,
+        "t1": 73.76
+      },
+      {
+        "w": "piccola",
+        "t0": 73.76,
+        "t1": 74.22
+      },
+      {
+        "w": "La",
+        "t0": 74.72,
+        "t1": 74.94
+      },
+      {
+        "w": "bolla",
+        "t0": 74.94,
+        "t1": 75.16
+      },
+      {
+        "w": "prese",
+        "t0": 75.16,
+        "t1": 75.52
+      },
+      {
+        "w": "il",
+        "t0": 75.52,
+        "t1": 75.76
+      },
+      {
+        "w": "suono",
+        "t0": 75.76,
+        "t1": 76.02
+      },
+      {
+        "w": "Plin",
+        "t0": 76.44,
+        "t1": 76.8
+      },
+      {
+        "w": "plin",
+        "t0": 77.16,
+        "t1": 77.66
+      },
+      {
+        "w": "plin",
+        "t0": 78.28,
+        "t1": 78.4
+      },
+      {
+        "w": "Poi",
+        "t0": 78.68,
+        "t1": 78.96
+      },
+      {
+        "w": "entrò",
+        "t0": 78.96,
+        "t1": 79.36
+      },
+      {
+        "w": "nella",
+        "t0": 79.36,
+        "t1": 79.6
+      },
+      {
+        "w": "bottiglia",
+        "t0": 79.6,
+        "t1": 80.14
+      },
+      {
+        "w": "«Osè",
+        "t0": 80.8,
+        "t1": 81.04
+      },
+      {
+        "w": "Alejandro»",
+        "t0": 81.04,
+        "t1": 82.12
+      },
+      {
+        "w": "«Hai",
+        "t0": 82.12,
+        "t1": 82.3
+      },
+      {
+        "w": "sentito",
+        "t0": 82.3,
+        "t1": 82.74
+      },
+      {
+        "w": "»",
+        "t0": 82.74,
+        "t1": 84.04
+      },
+      {
+        "w": "chiese",
+        "t0": 84.04,
+        "t1": 84.14
+      },
+      {
+        "w": "Luna",
+        "t0": 84.14,
+        "t1": 84.44
+      },
+      {
+        "w": "ridendo",
+        "t0": 84.44,
+        "t1": 84.94
+      },
+      {
+        "w": "La",
+        "t0": 85.32,
+        "t1": 85.6
+      },
+      {
+        "w": "bottiglia",
+        "t0": 85.6,
+        "t1": 86.14
+      },
+      {
+        "w": "brillò",
+        "t0": 86.14,
+        "t1": 86.58
+      },
+      {
+        "w": "con",
+        "t0": 86.58,
+        "t1": 86.82
+      },
+      {
+        "w": "una",
+        "t0": 86.82,
+        "t1": 87.1
+      },
+      {
+        "w": "luce",
+        "t0": 87.1,
+        "t1": 87.22
+      },
+      {
+        "w": "chiara",
+        "t0": 87.22,
+        "t1": 87.62
+      },
+      {
+        "w": "Dentro",
+        "t0": 88.38,
+        "t1": 88.56
+      },
+      {
+        "w": "c",
+        "t0": 88.56,
+        "t1": 88.8
+      },
+      {
+        "w": "era",
+        "t0": 88.8,
+        "t1": 88.8
+      },
+      {
+        "w": "la",
+        "t0": 88.8,
+        "t1": 89.08
+      },
+      {
+        "w": "pioggia",
+        "t0": 89.08,
+        "t1": 89.38
+      },
+      {
+        "w": "leggera",
+        "t0": 89.38,
+        "t1": 89.84
+      },
+      {
+        "w": "del",
+        "t0": 89.84,
+        "t1": 90.02
+      },
+      {
+        "w": "prato",
+        "t0": 90.02,
+        "t1": 90.36
+      },
+      {
+        "w": "Lynn",
+        "t0": 90.94,
+        "t1": 91.16
+      },
+      {
+        "w": "saltò",
+        "t0": 91.16,
+        "t1": 91.58
+      },
+      {
+        "w": "felice",
+        "t0": 91.58,
+        "t1": 92.04
+      },
+      {
+        "w": "Timo",
+        "t0": 92.62,
+        "t1": 92.7
+      },
+      {
+        "w": "sorrise",
+        "t0": 92.7,
+        "t1": 93.2
+      },
+      {
+        "w": "contento",
+        "t0": 93.2,
+        "t1": 93.9
+      },
+      {
+        "w": "«Bravi»",
+        "t0": 94.5,
+        "t1": 95.22
+      },
+      {
+        "w": "disse",
+        "t0": 95.22,
+        "t1": 95.28
+      },
+      {
+        "w": "il",
+        "t0": 95.28,
+        "t1": 95.68
+      },
+      {
+        "w": "maestro",
+        "t0": 95.68,
+        "t1": 95.82
+      },
+      {
+        "w": "Harpa",
+        "t0": 95.82,
+        "t1": 96.28
+      },
+      {
+        "w": "«Oggi",
+        "t0": 96.66,
+        "t1": 97.06
+      },
+      {
+        "w": "avete",
+        "t0": 97.06,
+        "t1": 97.38
+      },
+      {
+        "w": "ascoltato",
+        "t0": 97.38,
+        "t1": 97.96
+      },
+      {
+        "w": "con",
+        "t0": 97.96,
+        "t1": 98.26
+      },
+      {
+        "w": "calma»",
+        "t0": 98.26,
+        "t1": 99.06
+      },
+      {
+        "w": "La",
+        "t0": 99.06,
+        "t1": 99.46
+      },
+      {
+        "w": "sera",
+        "t0": 99.46,
+        "t1": 99.74
+      },
+      {
+        "w": "nel",
+        "t0": 100.04,
+        "t1": 100.2
+      },
+      {
+        "w": "bosco",
+        "t0": 100.2,
+        "t1": 100.58
+      },
+      {
+        "w": "viola",
+        "t0": 100.58,
+        "t1": 101.08
+      },
+      {
+        "w": "i",
+        "t0": 101.22,
+        "t1": 101.42
+      },
+      {
+        "w": "tre",
+        "t0": 101.42,
+        "t1": 101.6
+      },
+      {
+        "w": "amici",
+        "t0": 101.6,
+        "t1": 101.96
+      },
+      {
+        "w": "scossero",
+        "t0": 101.96,
+        "t1": 102.48
+      },
+      {
+        "w": "piano",
+        "t0": 102.48,
+        "t1": 102.84
+      },
+      {
+        "w": "la",
+        "t0": 102.84,
+        "t1": 103.2
+      },
+      {
+        "w": "bottiglia",
+        "t0": 103.2,
+        "t1": 103.7
+      },
+      {
+        "w": "Plin",
+        "t0": 104.38,
+        "t1": 104.44
+      },
+      {
+        "w": "plin",
+        "t0": 104.86,
+        "t1": 105.28
+      },
+      {
+        "w": "plin",
+        "t0": 105.86,
+        "t1": 106.02
+      },
+      {
+        "w": "E",
+        "t0": 106.3,
+        "t1": 106.46
+      },
+      {
+        "w": "il",
+        "t0": 106.46,
+        "t1": 106.64
+      },
+      {
+        "w": "prato",
+        "t0": 106.64,
+        "t1": 106.94
+      },
+      {
+        "w": "sembrò",
+        "t0": 106.94,
+        "t1": 107.44
+      },
+      {
+        "w": "cantare",
+        "t0": 107.44,
+        "t1": 107.82
+      },
+      {
+        "w": "ancora",
+        "t0": 107.82,
+        "t1": 108.28
+      },
+      {
+        "w": "Fine",
+        "t0": 109.04,
+        "t1": 109.04
+      }
+    ]
+  },
+  {
     "id": "20260422_01_es",
     "fecha": "22/04/2026",
     "lang": "es",
