@@ -1660,6 +1660,36 @@
         "t0": 155.32,
         "t1": 155.76
       }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260423_03_es_s1.png",
+        "t0": 0.0,
+        "t1": 39.49,
+        "prompt": "Round terrace on the Crimson Mountain under bright blue sky, wooden hoops hanging at different heights, Master Rubí dragon with long red beard gesturing to Luna the white rabbit, Timo the owl with round glasses, and Lin the chubby blue baby dragon, all looking up at the floating hoops"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260423_03_es_s2.png",
+        "t0": 39.49,
+        "t1": 78.98,
+        "prompt": "Lin the blue baby dragon blowing chaotic colorful bubbles in all directions, one bubble stuck on Luna's pink ear making her laugh, another bubble exploding on Timo's round glasses with a splash effect, bubbles floating everywhere in disorder"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260423_03_es_s3.png",
+        "t0": 78.98,
+        "t1": 118.48,
+        "prompt": "Lin the blue dragon sitting on the ground with head down looking sad and frustrated, a giant blue bubble falling down like a wet stone beside him, Master Rubí approaching with a gentle calm smile, afternoon light casting soft shadows"
+      },
+      {
+        "i": 4,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260423_03_es_s4.png",
+        "t0": 118.48,
+        "t1": 157.97,
+        "prompt": "Lin the blue baby dragon with eyes closed flying upward on three shimmering bubbles stacked like staircase steps, purple wings spread wide, passing through the golden hoop triumphantly while Luna claps and Timo points with his wing from below, magical sparkles around the bubbles"
+      }
     ]
   },
   {
@@ -2599,6 +2629,29 @@
         "w": "End",
         "t0": 98.2,
         "t1": 98.52
+      }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260423_03_en_s1.png",
+        "t0": 0.0,
+        "t1": 32.87,
+        "prompt": "Luna the white rabbit, Timo the brown owl with round glasses, and Lin the chubby blue baby dragon with purple wings stand before Architect Nimbus, a majestic cloud creature, who gestures toward a round fluffy cloud wall in his workshop, morning light filtering through cloudy architecture"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260423_03_en_s2.png",
+        "t0": 32.87,
+        "t1": 65.74,
+        "prompt": "Luna pushes the cloud wall too hard creating a large messy hole, Timo looks worried with his wings raised, Lin blows three colorful bubbles that dance and pop around them, the cloud wall appears damaged and uneven, chaos and concern in the scene"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260423_03_en_s3.png",
+        "t0": 65.74,
+        "t1": 99.6,
+        "prompt": "Timo and Luna gently press opposite sides of the cloud wall with careful movements while Lin creates a single glowing blue bubble that floats still and bright, the completed small round window lets golden starlight stream into the warm room, a tiny cloud bird perches by the window singing"
       }
     ]
   },
@@ -3621,6 +3674,29 @@
         "w": "Fine",
         "t0": 95.04,
         "t1": 95.04
+      }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260423_03_it_s1.png",
+        "t0": 0.0,
+        "t1": 33.42,
+        "prompt": "Luna the white rabbit in blue dress, Timo the brown owl with round glasses, and Lin the chubby blue baby dragon walking through a warm forest toward Master Harp who waits beside three tall colorful flowers, morning sunlight filtering through trees"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260423_03_it_s2.png",
+        "t0": 33.42,
+        "t1": 62.06,
+        "prompt": "Lin the blue dragon blowing a large bubble that spins wildly and bursts with a pop, looking worried, while Master Harp gently touches his harp strings to calm him, Luna and Timo watching with concern among the flowers"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260423_03_it_s3.png",
+        "t0": 62.06,
+        "t1": 95.47,
+        "prompt": "Lin the blue dragon carefully blowing a tiny delicate bubble that rises gently and captures a soft breeze, Timo the owl sealing it inside a glowing clear bottle, Lin hugging the shimmering bottle with proud happy eyes, Master Harp smiling warmly"
       }
     ]
   },
@@ -5320,6 +5396,36 @@
         "t0": 151.26,
         "t1": 151.52
       }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_02_es_s1.png",
+        "t0": 0.0,
+        "t1": 38.17,
+        "prompt": "Dawn at Crimson Mountain glowing strawberry-red, hundreds of red banners waving around a secret school, Lin the baby blue dragon opening his eyes, Maestra Rubí the red-bearded teacher smiling, Luna the white rabbit hopping excitedly, Timo the owl adjusting his round glasses"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_02_es_s2.png",
+        "t0": 38.17,
+        "t1": 76.33,
+        "prompt": "Warm stone terrace with colorful pinwheels, soft feathers and tiny bells scattered around, Lin the blue dragon puffing his cheeks and blowing blue, yellow and green bubbles that float in different directions, Timo watching carefully through his glasses"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_02_es_s3.png",
+        "t0": 76.33,
+        "t1": 114.5,
+        "prompt": "Luna the white rabbit placing sticks in the ground with silk ribbons hanging from them, Lin the blue dragon breathing slowly and blowing bubbles that dance between the ribbons, discovering air currents rising from warm rocks and curving behind a tower"
+      },
+      {
+        "i": 4,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_02_es_s4.png",
+        "t0": 114.5,
+        "t1": 152.66,
+        "prompt": "A shimmering bubble carrying a golden feather floating toward a basket, Lin jumping with joy, Luna pointing the right turn, Timo counting the exact moment, Maestra Rubí clapping happily, starlit night sky illuminating the mountain"
+      }
     ]
   },
   {
@@ -6430,6 +6536,29 @@
         "w": "End",
         "t0": 114.6,
         "t1": 114.88
+      }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_02_en_s1.png",
+        "t0": 0.0,
+        "t1": 27.24,
+        "prompt": "Morning at Cloud Castle School, Architect Nimbus (wise gnome in blue robes) standing beside a floating white cloud, pointing upward while Luna (white rabbit in blue dress), Timo (brown owl with round glasses), and Lin (chubby baby blue dragon with purple wings) look up attentively from the ground, soft morning sunlight filtering through castle windows"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_02_en_s2.png",
+        "t0": 27.24,
+        "t1": 63.55,
+        "prompt": "Luna pressing too hard on the wobbly cloud bridge causing pieces to fall and splash, Lin blowing oversized bubbles that pop in the air, Timo tapping nervously while the cloud shakes, Architect Nimbus demonstrating slow gentle hand movements to show the correct technique, scattered cloud fragments floating around them"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_02_en_s3.png",
+        "t0": 63.55,
+        "t1": 90.79,
+        "prompt": "A complete glowing cloud bridge held up by three small colorful bubbles (blue, gold, blue), a tiny white cloud mouse walking carefully across the sturdy bridge step by step, Luna, Timo and Lin sitting together celebrating with proud smiles while Architect Nimbus holds up a shining silver star, warm golden light making the bridge shimmer"
       }
     ]
   },
@@ -7675,6 +7804,29 @@
         "w": "Fine",
         "t0": 103.36,
         "t1": 103.36
+      }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_02_it_s1.png",
+        "t0": 0.0,
+        "t1": 33.32,
+        "prompt": "Luna the white rabbit, Timo the brown owl with round glasses, and Lin the chubby blue baby dragon walking through a fresh purple-tinted forest at dawn, approaching Maestro Arpa who sits on a large stone, morning mist between the trees"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_02_it_s2.png",
+        "t0": 33.32,
+        "t1": 77.75,
+        "prompt": "In a tall flower meadow, a small cloud hovering above making gentle rain drops, Luna holding an empty glass bottle with a sad expression, Lin's pink bubble floating too high into the sky, Timo listening carefully with one wing raised"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_02_it_s3.png",
+        "t0": 77.75,
+        "t1": 111.07,
+        "prompt": "Luna holding a glowing glass bottle filled with captured rain sounds, Lin blowing a tiny blue bubble that enters the bottle with sparkles, Timo smiling contentedly, all three friends celebrating their success in the meadow as the bottle shines with clear light"
       }
     ]
   },
@@ -9354,6 +9506,36 @@
         "t0": 151.38,
         "t1": 151.8
       }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_01_es_s1.png",
+        "t0": 0.0,
+        "t1": 38.05,
+        "prompt": "Luna the white rabbit, Timo the brown owl with round glasses, and Lin the chubby baby blue dragon climbing a red mountain path toward a magical dragon school floating among peach-colored clouds, with Maestra Rubí the scarlet dragon with red beard and enormous wings waiting at the entrance gate"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_01_es_s2.png",
+        "t0": 38.05,
+        "t1": 68.49,
+        "prompt": "Lin the excited baby blue dragon with purple wings shooting three small crooked bubbles (green, golden, violet) that collide and burst with a PLOF on Timo the owl's nose while Luna covers her mouth trying not to laugh, in the school courtyard"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_01_es_s3.png",
+        "t0": 68.49,
+        "t1": 114.16,
+        "prompt": "Lin sitting with eyes closed next to a warm glowing stone on the ground, taking a deep breath with his blue belly inflating, creating one enormous shimmering bubble filled with dancing pink lights that floats gently above the training courtyard while Maestra Rubí watches with pride"
+      },
+      {
+        "i": 4,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_01_es_s4.png",
+        "t0": 114.16,
+        "t1": 152.21,
+        "prompt": "Sunset scene with baby dragons applauding with their little wings, blushing Lin standing happily, Maestra Rubí holding up a glowing red feather, while Luna looks proud and Timo takes notes, as the sun sets behind the Crimson Mountain"
+      }
     ]
   },
   {
@@ -10446,6 +10628,29 @@
         "t0": 114.94,
         "t1": 115.28
       }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_01_en_s1.png",
+        "t0": 0.0,
+        "t1": 29.64,
+        "prompt": "Luna the white rabbit, Timo the brown owl with round glasses, and Lin the chubby blue baby dragon with purple wings arrive at a white cloud gate high in the sky, meeting Architect Nimbus, a winged figure with bright wings and kind eyes, soft bell ringing above them"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_01_en_s2.png",
+        "t0": 29.64,
+        "t1": 59.27,
+        "prompt": "Luna, Timo, and Lin working together on clouds, building with silver star dust, their small cloud tower bending to the left precariously, Lin blowing colorful bubbles (blue, pink, gold) frantically while Timo gestures to slow down"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_01_en_s3.png",
+        "t0": 59.27,
+        "t1": 89.81,
+        "prompt": "A small silver cloud tower standing tall and straight with one bright glowing window and a soft cloud door, sunset sky with warm colors, Nimbus clapping with joy while Luna, Timo, and Lin admire their completed work"
+      }
     ]
   },
   {
@@ -11498,6 +11703,29 @@
         "w": "ruscello",
         "t0": 84.62,
         "t1": 85.18
+      }
+    ],
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_01_it_s1.png",
+        "t0": 0.0,
+        "t1": 32.62,
+        "prompt": "Luna the white rabbit with blue dress, Timo the brown owl with round glasses, and Lin the chubby baby blue dragon with purple wings entering a magical purple forest, where Maestro Arpa, an old kind cricket holding a shining golden harp, welcomes them among tall colorful flowers and violet trees"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_01_it_s2.png",
+        "t0": 32.62,
+        "t1": 65.23,
+        "prompt": "Luna holding a glass bottle as the cork pops off and flies into the air, Lin blowing large colorful bubbles (blue, pink, yellow) that burst and push wind too strongly, Timo counting with his wing raised, all three characters with surprised worried expressions as the captured sound escapes"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260422_01_it_s3.png",
+        "t0": 65.23,
+        "t1": 93.19,
+        "prompt": "Luna holding the glass bottle with a glowing golden line of light shining inside it, Lin gently blowing a soft translucent bubble, Timo and Maestro Arpa smiling with joy, the purple forest sparkling with magical golden particles floating in the air as if singing together"
       }
     ]
   },
@@ -12943,7 +13171,37 @@
         "t1": 122.36
       }
     ],
-    "personalized_name": "José Alejandro"
+    "personalized_name": "José Alejandro",
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260418_04_es_s1.png",
+        "t0": 0.0,
+        "t1": 32.93,
+        "prompt": "Inside Gnome Edison's cozy workshop filled with copper bells and tools, Luna the white rabbit discovers a wooden box overflowing with small wheels, shiny buttons and silver springs, while Timo the brown owl with round glasses reads a hanging sign, and Lin the chubby baby blue dragon with purple wings blows excited yellow bubbles"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260418_04_es_s2.png",
+        "t0": 32.93,
+        "t1": 59.27,
+        "prompt": "In the sunny forest clearing, Luna, Timo and Lin watch little green frogs trying to cross a puddle by hopping on a sinking leaf, Luna's eyes wide open with inspiration as she observes the frogs struggling"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260418_04_es_s3.png",
+        "t0": 59.27,
+        "t1": 98.78,
+        "prompt": "Back at the workbench, Luna carefully selects light wood pieces for the frog body, Timo measures the legs with an acorn ruler, Lin blows colorful bubbles that playfully push a silver spring across the table toward Edison the gnome who examines it with a smile"
+      },
+      {
+        "i": 4,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260418_04_es_s4.png",
+        "t0": 98.78,
+        "t1": 131.71,
+        "prompt": "The wooden toy frog successfully hops one, two, three times landing perfectly on a green stone, while Luna, Timo, Lin and Edison clap and cheer with joy, workshop tools tinkling happily around them in celebration"
+      }
+    ]
   },
   {
     "id": "20260418_04_en",
@@ -13909,7 +14167,30 @@
         "t1": 102.02
       }
     ],
-    "personalized_name": "José Alejandro"
+    "personalized_name": "José Alejandro",
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260418_04_en_s1.png",
+        "t0": 0.0,
+        "t1": 26.89,
+        "prompt": "Luna the white rabbit holding a rope, Timo the brown owl with round glasses watching rocks, Lin the chubby blue baby dragon blowing pink bubbles, and Roco the smiling badger climbing up a windy hillside at golden sunrise, adventure beginning"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260418_04_en_s2.png",
+        "t0": 26.89,
+        "t1": 53.78,
+        "prompt": "Luna the rabbit carefully stepping toward a red flag caught on a bush near loose stones on a steep slope, Lin the blue dragon making green bubbles showing calm air, Timo and Roco watching tensely from behind, windswept hill setting"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260418_04_en_s3.png",
+        "t0": 53.78,
+        "t1": 81.48,
+        "prompt": "Roco the badger pulling the rope tightly, Luna the rabbit being helped back to safety while holding the red trail flag, Lin creating one large blue bubble, Timo cheering with wings spread, team celebrating together on the mountain path with the red flag planted safely"
+      }
+    ]
   },
   {
     "id": "20260418_04_it",
@@ -14844,7 +15125,30 @@
         "t1": 77.82
       }
     ],
-    "personalized_name": "José Alejandro"
+    "personalized_name": "José Alejandro",
+    "escenas": [
+      {
+        "i": 1,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260418_04_it_s1.png",
+        "t0": 0.0,
+        "t1": 29.83,
+        "prompt": "Luna the white rabbit with blue dress clapping happily, Timo the brown owl with round glasses adjusting them, and Lin the chubby baby blue dragon blowing orange bubbles, gathered around Cricket Conductor standing on a rock in a warm forest clearing, showing them a round piece of bark and two small wooden sticks for making a drum"
+      },
+      {
+        "i": 2,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260418_04_it_s2.png",
+        "t0": 29.83,
+        "t1": 55.4,
+        "prompt": "Luna the white rabbit hitting the bark drum loudly with wooden sticks creating strong sound waves, while nearby in a tree a bird nest shakes and two frightened baby birds flutter their wings, Timo the owl with glasses looking worried at the disturbed nest"
+      },
+      {
+        "i": 3,
+        "img": "https://eogrisalesc-a11y.github.io/cuentos-jose-alejandro/img/20260418_04_it_s3.png",
+        "t0": 55.4,
+        "t1": 85.22,
+        "prompt": "Luna, Timo and Lin playing soft gentle rhythm together following Cricket's count, Lin the blue dragon blowing pink and blue bubbles that float slowly upward, the two baby birds in the nest now calm with eyes closed singing softly, warm evening light filtering through the forest, Cricket smiling"
+      }
+    ]
   },
   {
     "id": "20260417_03_es",
