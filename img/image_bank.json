@@ -1,0 +1,337 @@
+{
+  "images": [
+    {
+      "file": "20260415_01_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "20260415_02_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "20260415_03_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "20260416_01_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "20260416_02_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "20260416_03_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "20260417_03_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "20260417_03_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "20260417_03_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "20260418_04_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "20260418_04_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "20260418_04_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "20260422_01_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "20260422_01_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "20260422_01_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "20260422_02_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "20260422_02_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "20260422_02_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "_backup_20260416_03_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "_backup_20260418_04_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "_backup_u4_20260421_cap1_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "_backup_u4_20260421_cap1_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "_backup_u4_20260421_cap1_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "_backup_u8_20260421_cap1_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "_backup_u8_20260421_cap1_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "_backup_u8_20260421_cap1_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "character_reference.png",
+      "lang": "any"
+    },
+    {
+      "file": "og-cover.png",
+      "lang": "any"
+    },
+    {
+      "file": "u12_20260424_cap1_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "u12_20260424_cap1_en_school.png",
+      "lang": "en"
+    },
+    {
+      "file": "u12_20260424_cap1_en_toddler.png",
+      "lang": "en"
+    },
+    {
+      "file": "u12_20260424_cap1_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "u12_20260424_cap1_es_school.png",
+      "lang": "es"
+    },
+    {
+      "file": "u12_20260424_cap1_es_toddler.png",
+      "lang": "es"
+    },
+    {
+      "file": "u12_20260424_cap1_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "u12_20260424_cap1_it_school.png",
+      "lang": "it"
+    },
+    {
+      "file": "u12_20260424_cap1_it_toddler.png",
+      "lang": "it"
+    },
+    {
+      "file": "u12_20260424_cap2_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "u12_20260424_cap2_en_school.png",
+      "lang": "en"
+    },
+    {
+      "file": "u12_20260424_cap2_en_toddler.png",
+      "lang": "en"
+    },
+    {
+      "file": "u12_20260424_cap2_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "u12_20260424_cap2_es_school.png",
+      "lang": "es"
+    },
+    {
+      "file": "u12_20260424_cap2_es_toddler.png",
+      "lang": "es"
+    },
+    {
+      "file": "u12_20260424_cap2_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "u12_20260424_cap2_it_school.png",
+      "lang": "it"
+    },
+    {
+      "file": "u12_20260424_cap2_it_toddler.png",
+      "lang": "it"
+    },
+    {
+      "file": "u12_20260424_cap3_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "u12_20260424_cap3_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "u12_20260424_cap3_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "u12_20260424_cap4_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "u12_20260424_cap4_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "u12_20260424_cap4_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "u12_20260424_cap5_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "u12_20260424_cap5_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "u12_20260424_cap5_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "u12_20260425_cap6_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "u12_20260425_cap6_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "u12_20260425_cap6_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "u26_20260424_cap1_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "u26_20260424_cap1_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "u26_20260424_cap1_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "u30_20260424_cap1_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "u30_20260424_cap1_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "u30_20260424_cap1_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "u4_20260420_cap1_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "u4_20260420_cap1_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "u4_20260420_cap1_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "u4_20260421_cap1_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "u4_20260421_cap1_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "u4_20260421_cap1_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "u4_20260421_cap2_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "u4_20260421_cap2_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "u4_20260421_cap2_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "u5_20260419_cap1_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "u5_20260419_cap1_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "u5_20260419_cap1_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "u5_20260419_cap2_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "u5_20260419_cap2_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "u5_20260419_cap2_it.png",
+      "lang": "it"
+    },
+    {
+      "file": "u8_20260421_cap1_en.png",
+      "lang": "en"
+    },
+    {
+      "file": "u8_20260421_cap1_es.png",
+      "lang": "es"
+    },
+    {
+      "file": "u8_20260421_cap1_it.png",
+      "lang": "it"
+    }
+  ],
+  "used": [
+    "20260415_01_es.png",
+    "20260415_02_en.png",
+    "20260415_03_it.png"
+  ]
+}
