@@ -3252,6 +3252,28 @@
         "t0": 84.513,
         "t1": 84.618
       }
+    ],
+    "traduccion_lineas": [
+      "Luna, Timo, and Lin were inside their cloud castle. The cloud floor shimmered with a soft golden light, and it felt magical under their feet.",
+      "Luna, Timo y Lin estaban dentro de su castillo de nubes. El suelo de nubes brillaba con una suave luz dorada, y se sentía mágico bajo sus pies.",
+      "Luna, the white rabbit in a blue dress, danced joyfully. Her long pink ears bounced with each step.",
+      "Luna, la coneja blanca con un vestido azul, bailaba con alegría. Sus largas orejas rosas rebotaban con cada paso.",
+      "Timo, the brown owl with round glasses, watched with a wise, happy expression. \"This floor feels like a dream!\" he said, flapping his wings gently.",
+      "Timo, el búho marrón con gafas redondas, miraba con una expresión sabia y feliz. \"¡Este suelo se siente como un sueño!\" dijo, moviendo sus alas suavemente.",
+      "Lin, the small blue baby dragon with purple wings, was very excited. He blew small colorful bubbles that floated around.",
+      "Lin, el pequeño dragón bebé azul con alas moradas, estaba muy emocionado. Soplaba pequeñas burbujas coloridas que flotaban a su alrededor.",
+      "The bubbles sparkled in the air, making everyone giggle. The friends started to bounce and dance together on the cloud floor.",
+      "Las burbujas brillaban en el aire, haciendo reír a todos. Los amigos comenzaron a saltar y bailar juntos en el suelo de nubes.",
+      "The floor was soft but strong, and it held them up as they laughed and played. Lin's green flames added a warm glow to the room.",
+      "El suelo era suave pero fuerte, y los sostenía mientras reían y jugaban. Las llamas verdes de Lin añadían un cálido resplandor a la habitación.",
+      "\"Look, we did it!\" Luna said with a big smile. \"Our cloud floor is magical!\"\n\nTimo nodded.",
+      "\"¡Mira, lo logramos!\" dijo Luna con una gran sonrisa. \"¡Nuestro suelo de nubes es mágico!\"",
+      "\"Yes, it is perfect for dancing and playing.\"\n\nLin grinned, blowing more bubbles. \"I love our cloud castle!\"\n\nThe friends danced and played until they were tired.",
+      "Timo asintió.",
+      "They knew they had built something special together. Did you know, {{NAME}}?",
+      "\"Sí, es perfecto para bailar y jugar.\"",
+      "When friends work together, they can make magic happen — even in the clouds! The end.",
+      "Lin sonrió, soplando más burbujas. \"¡Me encanta nuestro castillo de nubes!\""
     ]
   },
   {
@@ -4420,6 +4442,32 @@
         "t0": 78.524,
         "t1": 78.629
       }
+    ],
+    "traduccion_lineas": [
+      "Il sole brillava sopra il ruscello nel bosco. L'acqua scorreva piano tra i sassi: splash, splash, splash!",
+      "El sol brillaba sobre el arroyo en el bosque. El agua fluía suavemente entre las piedras: ¡plash, plash, plash!",
+      "Luna, Timo e Lin si sedettero vicino all'acqua. «Ascoltiamo il canto dell'acqua», disse Timo con i suoi occhiali tondi.",
+      "Luna, Timo y Lin se sentaron cerca del agua. «Escuchemos el canto del agua», dijo Timo con sus gafas redondas.",
+      "Luna indossava un vestito blu e le sue lunghe orecchie rosa danzavano con il vento. «Che bella musica fa l'acqua!» disse con un sorriso.",
+      "Luna llevaba un vestido azul y sus largas orejas rosas danzaban con el viento. «¡Qué bonita música hace el agua!» dijo con una sonrisa.",
+      "Lin, il piccolo drago blu, si avvicinò. Le sue ali viola tremarono un po'.",
+      "Lin, el pequeño dragón azul, se acercó. Sus alas moradas temblaron un poco.",
+      "«Ho paura di bagnare le ali», disse piano. Luna lo abbracciò.",
+      "«Tengo miedo de mojar las alas», dijo en voz baja. Luna lo abrazó.",
+      "«Non aver paura, Lin. Siamo insieme.»\n\nLin chiuse gli occhi e ascoltò.",
+      "«No tengas miedo, Lin. Estamos juntos.»",
+      "Soffiò una piccola bolla blu sopra un sasso. La bolla toccò l'acqua senza rumore.",
+      "Lin cerró los ojos y escuchó.",
+      "Da dentro la bolla, uscì un suono magico. Era come campanelle d'argento nel vento.",
+      "Sopló una pequeña burbuja azul sobre una piedra. La burbuja tocó el agua sin ruido.",
+      "Lin aprì gli occhi e sorrise. «Abbiamo il canto dell'acqua!» esclamò.",
+      "Desde dentro de la burbuja, salió un sonido mágico. Era como campanitas de plata en el viento.",
+      "Il Maestro Arpa, che era lì, mise il suono in una bottiglia verde. «Bravo, Lin.",
+      "Lin abrió los ojos y sonrió. «¡Tenemos el canto del agua!» exclamó.",
+      "Domani cercheremo il suono delle stelle.»\n\nLo sai, {{NAME}}? A volte basta un piccolo respiro di coraggio per trovare qualcosa di magico.",
+      "El Maestro Arpa, que estaba allí, puso el sonido en una botella verde. «Bien hecho, Lin.",
+      "Fine.",
+      "Mañana buscaremos el sonido de las estrellas.»"
     ]
   },
   {
@@ -24522,6 +24570,30 @@
         "t0": 105.313,
         "t1": 105.418
       }
+    ],
+    "traduccion_lineas": [
+      "Nella radura del bosco, Luna, la coniglietta bianca con un vestito blu e lunghe orecchie rosa, stendeva con cura una grande mappa del cielo su una roccia piatta. La luce di una lanterna tremolava, creando un'atmosfera magica e incantata.",
+      "En el claro del bosque, Luna, la conejita blanca con un vestido azul y largas orejas rosas, extendía con cuidado un gran mapa del cielo sobre una roca plana. La luz de una linterna titilaba, creando una atmósfera mágica y encantada.",
+      "Timo, il gufo marrone con gli occhiali rotondi, indicava con attenzione dei cerchi rossi sulla mappa. «Guarda, Luna», disse con la sua voce saggia e calma.",
+      "Timo, el búho marrón con gafas redondas, señalaba con atención unos círculos rojos en el mapa. «Mira, Luna», dijo con su voz sabia y tranquila.",
+      "«Sette stelle sono scomparse. Vedi?",
+      "«Siete estrellas han desaparecido. ¿Ves?",
+      "Formano una linea verso la Montagna Nebbiosa.»\n\nLin, il piccolo drago azzurro paffuto con ali viola, osservava attentamente. I suoi occhi brillavano di curiosità e un po' di paura.",
+      "Forman una línea hacia la Montaña Nebulosa.»",
+      "«Andiamo a vedere cosa succede!» esclamò, sputando una piccola fiamma verde per l'emozione e l'entusiasmo. Luna annuì, ma con cautela.",
+      "Lin, el pequeño dragón azul regordete con alas moradas, observaba atentamente. Sus ojos brillaban de curiosidad y un poco de miedo.",
+      "«Dobbiamo prepararci bene. La Montagna Nebbiosa è lontana e misteriosa.",
+      "«¡Vamos a ver qué pasa!» exclamó, escupiendo una pequeña llama verde de emoción y entusiasmo. Luna asintió, pero con cautela.",
+      "Potremmo incontrare delle sorprese lungo il cammino.»\n\nTimo fece un cenno di assenso. «Sì, prendiamo corde robuste, lanterne piene d'olio e mantelli caldi», suggerì con saggezza.",
+      "«Debemos prepararnos bien. La Montaña Nebulosa está lejos y es misteriosa.",
+      "Lin annuì, cercando di sembrare coraggioso. «Con un piano possiamo farcela!",
+      "Podríamos encontrar sorpresas en el camino.»",
+      "E poi, siamo insieme!»\n\nMentre preparavano tutto, Luna sentiva un brivido lungo le orecchie. Ma guardando Timo e Lin, sapeva che insieme avrebbero affrontato l'avventura con coraggio.",
+      "Timo asintió. «Sí, llevemos cuerdas resistentes, linternas llenas de aceite y capas cálidas», sugirió con sabiduría.",
+      "La notte si faceva più scura, ma i tre amici erano pronti. Con la mappa piegata con cura, iniziarono il loro viaggio verso la Montagna Nebbiosa, guidati dalle stelle che ancora brillavano nel cielo.",
+      "Lin asintió, tratando de parecer valiente. «¡Con un plan podemos lograrlo!",
+      "{NAME} si unì a loro, portando un po' di magia in più. Fine.",
+      "¡Y además, estamos juntos!»"
     ]
   },
   {
