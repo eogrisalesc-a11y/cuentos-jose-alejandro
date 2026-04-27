@@ -327,6 +327,69 @@
     {
       "file": "u8_20260421_cap1_it.png",
       "lang": "it"
+    },
+    {
+      "file": "u51_20260427_cap1_en_toddler.png",
+      "lang": "en",
+      "tema_id": "jardineros-lunares",
+      "chapter_num": 1,
+      "tier": "toddler"
+    },
+    {
+      "file": "u51_20260427_cap1_en_preschool.png",
+      "lang": "en",
+      "tema_id": "jardineros-lunares",
+      "chapter_num": 1,
+      "tier": "preschool"
+    },
+    {
+      "file": "u51_20260427_cap1_en_school.png",
+      "lang": "en",
+      "tema_id": "jardineros-lunares",
+      "chapter_num": 1,
+      "tier": "school"
+    },
+    {
+      "file": "u51_20260427_cap1_it_toddler.png",
+      "lang": "it",
+      "tema_id": "pintores-sue\u00f1os",
+      "chapter_num": 1,
+      "tier": "toddler"
+    },
+    {
+      "file": "u51_20260427_cap1_it_preschool.png",
+      "lang": "it",
+      "tema_id": "pintores-sue\u00f1os",
+      "chapter_num": 1,
+      "tier": "preschool"
+    },
+    {
+      "file": "u51_20260427_cap1_it_school.png",
+      "lang": "it",
+      "tema_id": "pintores-sue\u00f1os",
+      "chapter_num": 1,
+      "tier": "school"
+    },
+    {
+      "file": "u51_20260427_cap1_es_toddler.png",
+      "lang": "es",
+      "tema_id": "rainbow-mountain",
+      "chapter_num": 1,
+      "tier": "toddler"
+    },
+    {
+      "file": "u51_20260427_cap1_es_preschool.png",
+      "lang": "es",
+      "tema_id": "rainbow-mountain",
+      "chapter_num": 1,
+      "tier": "preschool"
+    },
+    {
+      "file": "u51_20260427_cap1_es_school.png",
+      "lang": "es",
+      "tema_id": "rainbow-mountain",
+      "chapter_num": 1,
+      "tier": "school"
     }
   ],
   "used": [
