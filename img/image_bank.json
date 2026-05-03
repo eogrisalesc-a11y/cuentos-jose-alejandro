@@ -432,6 +432,27 @@
       "tema_id": "bibliotecarios-estrellas",
       "chapter_num": 1,
       "tier": "school"
+    },
+    {
+      "file": "u66_20260503_cap1_en_toddler.png",
+      "lang": "en",
+      "tema_id": "chef-reposteria",
+      "chapter_num": 1,
+      "tier": "toddler"
+    },
+    {
+      "file": "u66_20260503_cap1_en_preschool.png",
+      "lang": "en",
+      "tema_id": "chef-reposteria",
+      "chapter_num": 1,
+      "tier": "preschool"
+    },
+    {
+      "file": "u66_20260503_cap1_en_school.png",
+      "lang": "en",
+      "tema_id": "chef-reposteria",
+      "chapter_num": 1,
+      "tier": "school"
     }
   ],
   "used": [
@@ -525,6 +546,9 @@
     "u51_20260427_cap1_en_school.png",
     "u51_20260427_cap1_it_toddler.png",
     "u51_20260427_cap1_it_preschool.png",
-    "u51_20260427_cap1_it_school.png"
+    "u51_20260427_cap1_it_school.png",
+    "u65_20260503_cap1_it_toddler.png",
+    "u65_20260503_cap1_it_preschool.png",
+    "u65_20260503_cap1_it_school.png"
   ]
 }
